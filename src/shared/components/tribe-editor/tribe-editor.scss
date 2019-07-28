@@ -1,0 +1,36 @@
+.tribe-editor__image {
+    margin-bottom: 3rem;
+    min-height: 28rem;
+    background: color($colors, "darkBackground");
+
+    .overlay {
+        padding-top: 6rem;
+    }
+}
+
+ion-list {
+    margin-top: 0 !important;
+
+    .item-block:first-child {
+        border-top: 0 !important;
+    }
+}
+
+.form {
+    &__fieldset {
+        padding: 0 2rem;
+    }
+
+    &__hint {
+        margin-top: 5px;
+        display: block;
+        text-align: right;
+        padding-left: 16px;
+    }
+
+    &__button {
+        text-align: center;
+        width: 60%;
+        margin: 0 auto;
+    }
+}

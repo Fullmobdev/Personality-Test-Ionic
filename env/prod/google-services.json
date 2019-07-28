@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "753326959383",
+    "firebase_url": "https://findyourtribe-app.firebaseio.com",
+    "project_id": "findyourtribe-app",
+    "storage_bucket": "findyourtribe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753326959383:android:5c18590d7b3a2b40",
+        "android_client_info": {
+          "package_name": "one.fyt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753326959383-3794ceqfsieq8197jmgs1ja66ni95spb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "one.fyt.app",
+            "certificate_hash": "d30e484d7a728668ebd4574d1eed65116545fc1c"
+          }
+        },
+        {
+          "client_id": "753326959383-75bkln14cp81gu27524a65tn9fg84eec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "one.fyt.app",
+            "certificate_hash": "e4ec23001154f1c5a0b90f60d84a7d102b7bb147"
+          }
+        },
+        {
+          "client_id": "753326959383-i3kc7d8u2v65a9p7h4odpa69q2c46e1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "one.fyt.app",
+            "certificate_hash": "9f6ef789dd5988827c9cb58a72f2f298b6b50f84"
+          }
+        },
+        {
+          "client_id": "753326959383-cotpvvfjck2aq2fn8pm312qcbf5i1cbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_NvCD8oBTLCflhn8xZkTr0ZPCgf06zc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753326959383-cotpvvfjck2aq2fn8pm312qcbf5i1cbi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753326959383-19pmnhdkpepjr86dbt9pjrfsrt2og3rf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "one.fyt.app"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

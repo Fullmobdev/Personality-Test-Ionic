@@ -1,0 +1,25 @@
+page-settings {
+
+    .title-ios {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+}
+
+.settings {
+
+    &__account {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__account-picture {
+        border-radius: 50%;
+        height: 4.2rem;
+        width: 4.2rem;
+        overflow: hidden;
+        margin-right: 1.6rem;
+    }
+}

@@ -1,0 +1,18 @@
+<ion-list>
+    <ion-item *ngFor="let entity of entities" (click)="onItemClicked($event, entity)">
+        <ion-avatar item-start>
+            <img-loader [src]="entity.pictureUrl" useImg></img-loader>
+        </ion-avatar>
+        <h2>{{ entity.displayName  }}</h2>
+        <button class="profile-list__remove-button"
+            item-end
+            *ngIf="entity.canEmitAction"
+            (click)="onActionClicked($event, entity)"
+            ion-button
+            clear round
+            color="accent">
+            {{ actionLabel  }}
+        </button>
+    </ion-item>
+</ion-list>
+

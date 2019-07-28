@@ -1,0 +1,18 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+    </ion-navbar>
+</ion-header>
+
+<ion-content #content>
+    <div class="signup__container">
+        <p item-start class="signup__header">{{ 'auth.signUpHeader' | translate }}</p>
+        <div>{{ 'auth.signUpText' | translate }}</div>
+    </div>
+    <ion-footer padding>
+        <google-button [label]="'auth.signUpWithGoogle'" (onClick)="signUpWithGoogle()" ></google-button>
+        <facebook-button [label]="'auth.signUpWithFacebook'" (onClick)="signUpWithFacebook()" ></facebook-button>
+        <div class="signup__terms" text-center>
+            <p>{{ 'auth.acceptTerms' | translate }}</p>
+        </div>
+    </ion-footer>
+</ion-content>

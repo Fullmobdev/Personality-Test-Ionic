@@ -1,0 +1,590 @@
+@font-face {
+    font-family: 'fyt-icons';
+    src:  url('../../assets/fonts/fyt-icons.eot?6iambj');
+    src:  url('../../assets/fonts/fyt-icons.eot?6iambj#iefix') format('embedded-opentype'),
+    url('../../assets/fonts/fyt-icons.ttf?6iambj') format('truetype'),
+    url('../../assets/fonts/fyt-icons.woff?6iambj') format('woff'),
+    url('../../assets/fonts/fyt-icons.svg?6iambj#fyt-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+ion-icon {
+
+    &[class*="fyt-"] {
+        /* use !important to prevent issues with browser extensions that change fonts */
+        font-family: 'fyt-icons', sans-serif !important;
+        speak: none;
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+
+        /* Better Font Rendering =========== */
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    &[class$="fyt-write"]:before,
+    &[class$="fyt-write-outline"]:before {
+        content: "\e900";
+    }
+    &[class$="fyt-world"]:before,
+    &[class$="fyt-world-outline"]:before {
+        content: "\e901";
+    }
+    &[class$="fyt-wifi"]:before,
+    &[class$="fyt-wifi-outline"]:before {
+        content: "\e902";
+    }
+    &[class$="fyt-volume"]:before,
+    &[class$="fyt-volume-outline"]:before {
+        content: "\e903";
+    }
+    &[class$="fyt-volume-empty"]:before,
+    &[class$="fyt-volume-empty-outline"]:before {
+        content: "\e904";
+    }
+    &[class$="fyt-volum-x"]:before,
+    &[class$="fyt-volum-x-outline"]:before {
+        content: "\e905";
+    }
+    &[class$="fyt-voicemail"]:before,
+    &[class$="fyt-voicemail-outline"]:before {
+        content: "\e906";
+    }
+    &[class$="fyt-video"]:before,
+    &[class$="fyt-video-outline"]:before {
+        content: "\e907";
+    }
+    &[class$="fyt-user"]:before,
+    &[class$="fyt-user-outline"]:before {
+        content: "\e908";
+    }
+    &[class$="fyt-user-circle"]:before,
+    &[class$="fyt-user-circle-outline"]:before {
+        content: "\e909";
+    }
+    &[class$="fyt-upload"]:before,
+    &[class$="fyt-upload-outline"]:before {
+        content: "\e90a";
+    }
+    &[class$="fyt-up"]:before,
+    &[class$="fyt-up-outline"]:before {
+        content: "\e90b";
+    }
+    &[class$="fyt-unlock"]:before,
+    &[class$="fyt-unlock-outline"]:before {
+        content: "\e90c";
+    }
+    &[class$="fyt-twitter"]:before,
+    &[class$="fyt-twitter-outline"]:before {
+        content: "\e90d";
+    }
+    &[class$="fyt-trash"]:before,
+    &[class$="fyt-trash-outline"]:before {
+        content: "\e90e";
+    }
+    &[class$="fyt-test"]:before,
+    &[class$="fyt-test-outline"]:before {
+        content: "\e90f";
+    }
+    &[class$="fyt-tag"]:before,
+    &[class$="fyt-tag-outline"]:before {
+        content: "\e910";
+    }
+    &[class$="fyt-sun"]:before,
+    &[class$="fyt-sun-outline"]:before {
+        content: "\e911";
+    }
+    &[class$="fyt-star"]:before,
+    &[class$="fyt-star-outline"]:before {
+        content: "\e912";
+    }
+    &[class$="fyt-sort"]:before,
+    &[class$="fyt-sort-outline"]:before {
+        content: "\e913";
+    }
+    &[class$="fyt-smile"]:before,
+    &[class$="fyt-smile-outline"]:before {
+        content: "\e914";
+    }
+    &[class$="fyt-slash"]:before,
+    &[class$="fyt-slash-outline"]:before {
+        content: "\e915";
+    }
+    &[class$="fyt-shuffle"]:before,
+    &[class$="fyt-shuffle-outline"]:before {
+        content: "\e916";
+    }
+    &[class$="fyt-share"]:before,
+    &[class$="fyt-share-outline"]:before {
+        content: "\e917";
+    }
+    &[class$="fyt-settings"]:before,
+    &[class$="fyt-settings-outline"]:before {
+        content: "\e918";
+    }
+    &[class$="fyt-send"]:before,
+    &[class$="fyt-send-outline"]:before {
+        content: "\e919";
+    }
+    &[class$="fyt-search"]:before,
+    &[class$="fyt-search-outline"]:before {
+        content: "\e91a";
+    }
+    &[class$="fyt-right"]:before,
+    &[class$="fyt-right-outline"]:before {
+        content: "\e91b";
+    }
+    &[class$="fyt-rewind"]:before,
+    &[class$="fyt-rewind-outline"]:before {
+        content: "\e91c";
+    }
+    &[class$="fyt-repeat"]:before,
+    &[class$="fyt-repeat-outline"]:before {
+        content: "\e91d";
+    }
+    &[class$="fyt-random"]:before,
+    &[class$="fyt-random-outline"]:before {
+        content: "\e91e";
+    }
+    &[class$="fyt-radio-button"]:before,
+    &[class$="fyt-radio-button-outline"]:before {
+        content: "\e91f";
+    }
+    &[class$="fyt-radio-button-active"]:before,
+    &[class$="fyt-radio-button-active-outline"]:before {
+        content: "\e920";
+    }
+    &[class$="fyt-printer"]:before,
+    &[class$="fyt-printer-outline"]:before {
+        content: "\e921";
+    }
+    &[class$="fyt-previous"]:before,
+    &[class$="fyt-previous-outline"]:before {
+        content: "\e922";
+    }
+    &[class$="fyt-power"]:before,
+    &[class$="fyt-power-outline"]:before {
+        content: "\e923";
+    }
+    &[class$="fyt-plus"]:before,
+    &[class$="fyt-plus-outline"]:before {
+        content: "\e924";
+    }
+    &[class$="fyt-play"]:before,
+    &[class$="fyt-play-outline"]:before {
+        content: "\e925";
+    }
+    &[class$="fyt-plane"]:before,
+    &[class$="fyt-plane-outline"]:before {
+        content: "\e926";
+    }
+    &[class$="fyt-piechart"]:before,
+    &[class$="fyt-piechart-outline"]:before {
+        content: "\e927";
+    }
+    &[class$="fyt-photo"]:before,
+    &[class$="fyt-photo-outline"]:before {
+        content: "\e928";
+    }
+    &[class$="fyt-phone"]:before,
+    &[class$="fyt-phone-outline"]:before {
+        content: "\e929";
+    }
+    &[class$="fyt-phone-down"]:before,
+    &[class$="fyt-phone-down-outline"]:before {
+        content: "\e92a";
+    }
+    &[class$="fyt-percent"]:before,
+    &[class$="fyt-percent-outline"]:before {
+        content: "\e92b";
+    }
+    &[class$="fyt-pause"]:before,
+    &[class$="fyt-pause-outline"]:before {
+        content: "\e92c";
+    }
+    &[class$="fyt-notifications"]:before,
+    &[class$="fyt-notifications-outline"]:before {
+        content: "\e92d";
+    }
+    &[class$="fyt-night"]:before,
+    &[class$="fyt-night-outline"]:before {
+        content: "\e92e";
+    }
+    &[class$="fyt-next"]:before,
+    &[class$="fyt-next-outline"]:before {
+        content: "\e92f";
+    }
+    &[class$="fyt-music"]:before,
+    &[class$="fyt-music-outline"]:before {
+        content: "\e930";
+    }
+    &[class$="fyt-mobile"]:before,
+    &[class$="fyt-mobile-outline"]:before {
+        content: "\e931";
+    }
+    &[class$="fyt-minus"]:before,
+    &[class$="fyt-minus-outline"]:before {
+        content: "\e932";
+    }
+    &[class$="fyt-mic"]:before,
+    &[class$="fyt-mic-outline"]:before {
+        content: "\e933";
+    }
+    &[class$="fyt-message"]:before,
+    &[class$="fyt-message-outline"]:before {
+        content: "\e934";
+    }
+    &[class$="fyt-menu"]:before,
+    &[class$="fyt-menu-outline"]:before {
+        content: "\e935";
+    }
+    &[class$="fyt-marker"]:before,
+    &[class$="fyt-marker-outline"]:before {
+        content: "\e936";
+    }
+    &[class$="fyt-map"]:before,
+    &[class$="fyt-map-outline"]:before {
+        content: "\e937";
+    }
+    &[class$="fyt-logout"]:before,
+    &[class$="fyt-logout-outline"]:before {
+        content: "\e938";
+    }
+    &[class$="fyt-login"]:before,
+    &[class$="fyt-login-outline"]:before {
+        content: "\e939";
+    }
+    &[class$="fyt-lock"]:before,
+    &[class$="fyt-lock-outline"]:before {
+        content: "\e93a";
+    }
+    &[class$="fyt-location"]:before,
+    &[class$="fyt-location-outline"]:before {
+        content: "\e93b";
+    }
+    &[class$="fyt-loader"]:before,
+    &[class$="fyt-loader-outline"]:before {
+        content: "\e93c";
+    }
+    &[class$="fyt-list"]:before,
+    &[class$="fyt-list-outline"]:before {
+        content: "\e93d";
+    }
+    &[class$="fyt-like"]:before,
+    &[class$="fyt-like-outline"]:before {
+        content: "\e93e";
+    }
+    &[class$="fyt-left"]:before,
+    &[class$="fyt-left-outline"]:before {
+        content: "\e93f";
+    }
+    &[class$="fyt-layers"]:before,
+    &[class$="fyt-layers-outline"]:before {
+        content: "\e940";
+    }
+    &[class$="fyt-key"]:before,
+    &[class$="fyt-key-outline"]:before {
+        content: "\e941";
+    }
+    &[class$="fyt-kebab"]:before,
+    &[class$="fyt-kebab-outline"]:before {
+        content: "\e942";
+    }
+    &[class$="fyt-instagram"]:before,
+    &[class$="fyt-instagram-outline"]:before {
+        content: "\e943";
+    }
+    &[class$="fyt-info"]:before,
+    &[class$="fyt-info-outline"]:before {
+        content: "\e944";
+    }
+    &[class$="fyt-inbox"]:before,
+    &[class$="fyt-inbox-outline"]:before {
+        content: "\e945";
+    }
+    &[class$="fyt-image"]:before,
+    &[class$="fyt-image-outline"]:before {
+        content: "\e946";
+    }
+    &[class$="fyt-human"]:before,
+    &[class$="fyt-human-outline"]:before {
+        content: "\e947";
+    }
+    &[class$="fyt-home"]:before,
+    &[class$="fyt-home-outline"]:before {
+        content: "\e948";
+    }
+    &[class$="fyt-heart"]:before,
+    &[class$="fyt-heart-outline"]:before {
+        content: "\e949";
+    }
+    &[class$="fyt-headphones"]:before,
+    &[class$="fyt-headphones-outline"]:before {
+        content: "\e94a";
+    }
+    &[class$="fyt-hash"]:before,
+    &[class$="fyt-hash-outline"]:before {
+        content: "\e94b";
+    }
+    &[class$="fyt-hamburger"]:before,
+    &[class$="fyt-hamburger-outline"]:before {
+        content: "\e94c";
+    }
+    &[class$="fyt-guard"]:before,
+    &[class$="fyt-guard-outline"]:before {
+        content: "\e94d";
+    }
+    &[class$="fyt-group"]:before,
+    &[class$="fyt-group-outline"]:before {
+        content: "\e94e";
+    }
+    &[class$="fyt-grid"]:before,
+    &[class$="fyt-grid-outline"]:before {
+        content: "\e94f";
+    }
+    &[class$="fyt-github"]:before,
+    &[class$="fyt-github-outline"]:before {
+        content: "\e950";
+    }
+    &[class$="fyt-gift"]:before,
+    &[class$="fyt-gift-outline"]:before {
+        content: "\e951";
+    }
+    &[class$="fyt-fullscreen"]:before,
+    &[class$="fyt-fullscreen-outline"]:before {
+        content: "\e952";
+    }
+    &[class$="fyt-folder"]:before,
+    &[class$="fyt-folder-outline"]:before {
+        content: "\e953";
+    }
+    &[class$="fyt-flash-forward"]:before,
+    &[class$="fyt-flash-forward-outline"]:before {
+        content: "\e954";
+    }
+    &[class$="fyt-flame"]:before,
+    &[class$="fyt-flame-outline"]:before {
+        content: "\e955";
+    }
+    &[class$="fyt-flag"]:before,
+    &[class$="fyt-flag-outline"]:before {
+        content: "\e956";
+    }
+    &[class$="fyt-filter"]:before,
+    &[class$="fyt-filter-outline"]:before {
+        content: "\e957";
+    }
+    &[class$="fyt-film"]:before,
+    &[class$="fyt-film-outline"]:before {
+        content: "\e958";
+    }
+    &[class$="fyt-facebook"]:before,
+    &[class$="fyt-facebook-outline"]:before {
+        content: "\e959";
+    }
+    &[class$="fyt-eye"]:before,
+    &[class$="fyt-eye-outline"]:before {
+        content: "\e95a";
+    }
+    &[class$="fyt-exchange"]:before,
+    &[class$="fyt-exchange-outline"]:before {
+        content: "\e95b";
+    }
+    &[class$="fyt-error"]:before,
+    &[class$="fyt-error-outline"]:before {
+        content: "\e95c";
+    }
+    &[class$="fyt-enter"]:before,
+    &[class$="fyt-enter-outline"]:before {
+        content: "\e95d";
+    }
+    &[class$="fyt-edit"]:before,
+    &[class$="fyt-edit-outline"]:before {
+        content: "\e95e";
+    }
+    &[class$="fyt-dropup"]:before,
+    &[class$="fyt-dropup-outline"]:before {
+        content: "\e95f";
+    }
+    &[class$="fyt-dropdown"]:before,
+    &[class$="fyt-dropdown-outline"]:before {
+        content: "\e960";
+    }
+    &[class$="fyt-drop"]:before,
+    &[class$="fyt-drop-outline"]:before {
+        content: "\e961";
+    }
+    &[class$="fyt-dribbble"]:before,
+    &[class$="fyt-dribbble-outline"]:before {
+        content: "\e962";
+    }
+    &[class$="fyt-download"]:before,
+    &[class$="fyt-download-outline"]:before {
+        content: "\e963";
+    }
+    &[class$="fyt-down"]:before,
+    &[class$="fyt-down-outline"]:before {
+        content: "\e964";
+    }
+    &[class$="fyt-dots"]:before,
+    &[class$="fyt-dots-outline"]:before {
+        content: "\e965";
+    }
+    &[class$="fyt-document"]:before,
+    &[class$="fyt-document-outline"]:before {
+        content: "\e966";
+    }
+    &[class$="fyt-dislike"]:before,
+    &[class$="fyt-dislike-outline"]:before {
+        content: "\e967";
+    }
+    &[class$="fyt-diamond"]:before,
+    &[class$="fyt-diamond-outline"]:before {
+        content: "\e968";
+    }
+    &[class$="fyt-details"]:before,
+    &[class$="fyt-details-outline"]:before {
+        content: "\e969";
+    }
+    &[class$="fyt-desktop"]:before,
+    &[class$="fyt-desktop-outline"]:before {
+        content: "\e96a";
+    }
+    &[class$="fyt-delete"]:before,
+    &[class$="fyt-delete-outline"]:before {
+        content: "\e96b";
+    }
+    &[class$="fyt-cut"]:before,
+    &[class$="fyt-cut-outline"]:before {
+        content: "\e96c";
+    }
+    &[class$="fyt-credit-card"]:before,
+    &[class$="fyt-credit-card-outline"]:before {
+        content: "\e96d";
+    }
+    &[class$="fyt-copy"]:before,
+    &[class$="fyt-copy-outline"]:before {
+        content: "\e96e";
+    }
+    &[class$="fyt-compass"]:before,
+    &[class$="fyt-compass-outline"]:before {
+        content: "\e96f";
+    }
+    &[class$="fyt-cloud"]:before,
+    &[class$="fyt-cloud-outline"]:before {
+        content: "\e970";
+    }
+    &[class$="fyt-cloud-upload"]:before,
+    &[class$="fyt-cloud-upload-outline"]:before {
+        content: "\e971";
+    }
+    &[class$="fyt-cloud-download"]:before,
+    &[class$="fyt-cloud-download-outline"]:before {
+        content: "\e972";
+    }
+    &[class$="fyt-close"]:before,
+    &[class$="fyt-close-outline"]:before {
+        content: "\e973";
+    }
+    &[class$="fyt-clock"]:before,
+    &[class$="fyt-clock-outline"]:before {
+        content: "\e974";
+    }
+    &[class$="fyt-clear"]:before,
+    &[class$="fyt-clear-outline"]:before {
+        content: "\e975";
+    }
+    &[class$="fyt-check"]:before,
+    &[class$="fyt-check-outline"]:before {
+        content: "\e976";
+    }
+    &[class$="fyt-chat"]:before,
+    &[class$="fyt-chat-outline"]:before {
+        content: "\e977";
+    }
+    &[class$="fyt-chart"]:before,
+    &[class$="fyt-chart-outline"]:before {
+        content: "\e978";
+    }
+    &[class$="fyt-cart"]:before,
+    &[class$="fyt-cart-outline"]:before {
+        content: "\e979";
+    }
+    &[class$="fyt-car"]:before,
+    &[class$="fyt-car-outline"]:before {
+        content: "\e97a";
+    }
+    &[class$="fyt-calendar"]:before,
+    &[class$="fyt-calendar-outline"]:before {
+        content: "\e97b";
+    }
+    &[class$="fyt-bubbles"]:before,
+    &[class$="fyt-bubbles-outline"]:before {
+        content: "\e97c";
+    }
+    &[class$="fyt-bubble"]:before,
+    &[class$="fyt-bubble-outline"]:before {
+        content: "\e97d";
+    }
+    &[class$="fyt-box"]:before,
+    &[class$="fyt-box-outline"]:before {
+        content: "\e97e";
+    }
+    &[class$="fyt-bookmark"]:before,
+    &[class$="fyt-bookmark-outline"]:before {
+        content: "\e97f";
+    }
+    &[class$="fyt-bed"]:before,
+    &[class$="fyt-bed-outline"]:before {
+        content: "\e980";
+    }
+    &[class$="fyt-battery"]:before,
+    &[class$="fyt-battery-outline"]:before {
+        content: "\e981";
+    }
+    &[class$="fyt-bag"]:before,
+    &[class$="fyt-bag-outline"]:before {
+        content: "\e982";
+    }
+    &[class$="fyt-back"]:before,
+    &[class$="fyt-back-outline"]:before {
+        content: "\e983";
+    }
+    &[class$="fyt-attach"]:before,
+    &[class$="fyt-attach-outline"]:before {
+        content: "\e984";
+    }
+    &[class$="fyt-at"]:before,
+    &[class$="fyt-at-outline"]:before {
+        content: "\e985";
+    }
+    &[class$="fyt-anchor"]:before,
+    &[class$="fyt-anchor-outline"]:before {
+        content: "\e986";
+    }
+    &[class$="fyt-align-right"]:before,
+    &[class$="fyt-align-right-outline"]:before {
+        content: "\e987";
+    }
+    &[class$="fyt-align-left"]:before,
+    &[class$="fyt-align-left-outline"]:before {
+        content: "\e988";
+    }
+    &[class$="fyt-align-center"]:before,
+    &[class$="fyt-align-center-outline"]:before {
+        content: "\e989";
+    }
+    &[class$="fyt-activity"]:before,
+    &[class$="fyt-activity-outline"]:before {
+        content: "\e98a";
+    }
+    &[class$="fyt-zip"]:before,
+    &[class$="fyt-zip-outline"]:before {
+        content: "\e98b";
+    }
+
+}

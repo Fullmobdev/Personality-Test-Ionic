@@ -1,0 +1,27 @@
+{
+  "name": "functions",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "build": "tsc",
+    "serve": "npm run build && firebase serve --only functions",
+    "shell": "npm run build && firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "@types/lodash": "^4.14.117",
+    "algoliasearch": "^3.30.0",
+    "axios": "^0.18.0",
+    "firebase-admin": "~6.0.0",
+    "firebase-functions": "^2.0.3",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "@types/algoliasearch": "^3.27.8",
+    "tslint": "~5.8.0",
+    "typescript": "~2.8.3"
+  },
+  "private": true
+}

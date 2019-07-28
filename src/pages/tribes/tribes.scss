@@ -1,0 +1,10 @@
+ion-footer {
+    &::before {
+        background-image: none !important;
+    }
+}
+.create-button-wrapper {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}

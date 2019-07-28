@@ -1,0 +1,14 @@
+<ion-card
+    *ngFor="let test of tests"
+    (click)="onTestClicked(test)"
+    class="test-list__card"
+    [ngClass]="{
+        'test-list__card--no-picture': !test.pictureUrl,
+        'test-list__card--dimmed': (isExternalTest(test) && !isOnline)
+    }">
+    <img-loader class="test-list__card-background" *ngIf="test.pictureUrl" [src]="test.pictureUrl"
+                backgroundSize="cover"></img-loader>
+    <div class="test-list__overlay"></div>
+    <div class="test-list__card-title">{{ test.name | defaultLocale }}</div>
+    <div class="test-list__card-subtitle">{{ 'tests.placeholder' | translate }}</div>
+</ion-card>

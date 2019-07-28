@@ -1,0 +1,144 @@
+test-wizard {
+
+    .swiper-slide {
+        overflow-y: scroll;
+        display: block;
+    }
+
+    .slide-zoom {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .slide {
+
+        &__container {
+            height: 100%;
+        }
+
+        &__icon {
+            margin: auto;
+            width: 12.8rem;
+            height: 12.8rem;
+            border-radius: 50%;
+            background: color($colors, 'success');
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: color-contrast($colors, 'success');
+            font-size: 3.2rem;
+        }
+
+        &__heading {
+            margin-bottom: 4rem;
+        }
+
+        &__question-title {
+            margin-bottom: 2.5rem;
+        }
+
+        &__actions-container {
+            display: flex;
+            justify-content: center;
+            flex: 1;
+            align-self: stretch;
+        }
+
+        &__actions {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+
+            &--stretched {
+                width: 90%;
+            }
+
+            &-button-wrapper {
+                margin: 1.5rem 0;
+            }
+
+            &-heading {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                border-bottom: 1px solid color($colors, 'success');
+                padding-bottom: 1.5rem;
+                margin-bottom: 1rem;
+            }
+
+            &-spacer {
+                flex: 1;
+            }
+
+            &-bottom {
+                position: sticky;
+                width: 100%;
+                padding: 1.2rem 0;
+                left: 0;
+                bottom: 0;
+                background-color: transparent;
+
+                &-button {
+                    width: 100%;
+                }
+            }
+        }
+
+        &__action {
+            white-space: normal;
+            padding: 1.2rem 4rem;
+            min-height: 4rem;
+            height: auto;
+
+            &--grouped {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .radio {
+                    flex-shrink: 0;
+                }
+            }
+
+            &-answer-title {
+                padding: 1rem 1.2rem;
+                text-align: center;
+            }
+        }
+
+        .slide-zoom {
+            height: 100%;
+        }
+    }
+
+    .radio {
+        margin: -2rem;
+        padding: 2rem;
+    }
+
+    .radio-ios {
+
+        .radio-icon {
+            width: 3.2rem;
+            height: 3.2rem;
+            border-radius: 50%;
+            border: 1px solid $checkbox-ios-icon-border-color-off;
+        }
+
+        .radio-checked {
+
+            &.radio-icon {
+                background: color($colors, 'primary');
+                border: 1px solid color($colors, 'primary');
+            }
+
+            .radio-inner {
+                border-color: white;
+                top: 0.8rem;
+                left: 1.2rem;
+            }
+        }
+    }
+
+}

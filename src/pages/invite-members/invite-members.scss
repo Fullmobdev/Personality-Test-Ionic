@@ -1,0 +1,20 @@
+page-invite-members {
+
+    .invite-members {
+
+        &__search {
+            padding: 0 2rem 0 0 !important;
+        }
+
+        &__content {
+            display: flex;
+            justify-content: center;
+        }
+
+        &__invite-button {
+            color: $grey-blue;
+            padding-left: 1.2rem;
+            padding-right: 1.2rem;
+        }
+    }
+}

@@ -1,0 +1,37 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>{{'friends.friendsTitle' | translate}}</ion-title>
+        <ion-buttons end *ngIf="isOwnFriendsList$ | async">
+            <button
+                ion-button
+                icon-only
+                (click)="onAddNewFriendsClick()">
+            <ion-icon name="fyt-search"></ion-icon>
+        </button>
+    </ion-buttons>
+</ion-navbar>
+
+</ion-header>
+
+<ion-content #content fullscreen padding>
+    <ng-container *ngIf="userFriends$ | async as userFriends">
+        <profiles-list
+            *ngIf="userFriends.length > 0; else empty"
+            [entities]="userFriends"
+            [actionLabel]="'friends.remove' | translate"
+            (itemSelected)="onItemSelected($event)"
+            (actionSelected)="onItemRemove($event)">
+        </profiles-list>
+    </ng-container>
+    <ng-template #empty>
+        <div text-center>
+            <h5 [innerHTML]="'friends.noFriends' | translate"></h5>
+            <button
+                ion-button
+                round
+                (click)="onAddNewFriendsClick()">
+                {{'friends.searchFriends' | translate}}
+            </button>
+        </div>
+    </ng-template>
+</ion-content>

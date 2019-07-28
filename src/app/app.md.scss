@@ -1,0 +1,34 @@
+.md {
+
+}
+
+.tabs-md .tab-button[aria-selected=true] .tab-button-icon {
+    transform: none;
+}
+
+.toolbar-md[slim] {
+    min-height: $toolbar-slim-md-height;
+}
+
+.item-md .item-button {
+    @include padding(0, 1.6rem);
+
+    height: 3.2rem;
+}
+
+.bar-buttons-md[end] {
+    margin-right: 1.6rem;
+}
+
+.md ion-nav > .ion-page > .toolbar.statusbar-padding:first-child,
+.md ion-nav > .ion-page > ion-header > .toolbar.statusbar-padding:first-child,
+.md ion-tab > .ion-page > .toolbar.statusbar-padding:first-child,
+.md ion-tab > .ion-page > ion-header > .toolbar.statusbar-padding:first-child,
+.md ion-tabs > .ion-page.tab-subpage > ion-header > .toolbar.statusbar-padding:first-child,
+.md ion-menu > .menu-inner > .toolbar.statusbar-padding:first-child,
+.md ion-menu > .menu-inner > ion-header > .toolbar.statusbar-padding:first-child {
+    padding-top: calc(20px + 4px);
+    padding-top: calc(constant(safe-area-inset-top) + 4px);
+    min-height: calc(8rem + 20px);
+    min-height: calc(8rem + constant(safe-area-inset-top));
+}

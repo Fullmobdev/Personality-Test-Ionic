@@ -1,0 +1,31 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-searchbar class="invite-members__search" placeholder="Type to search..." (ionInput)="filterItems($event)">
+        </ion-searchbar>
+    </ion-navbar>
+</ion-header>
+
+<ion-content #content fullscreen padding>
+    <div class="invite-members__content">
+        <ion-spinner *ngIf="searchSpinner"></ion-spinner>
+    </div>
+    <ng-container *ngIf="people$ | async as people">
+        <ion-list *ngIf="people.length > 0; else empty">
+            <ion-item *ngFor="let item of people">
+                <ion-avatar item-start>
+                    <img-loader [src]="item.pictureUrl" useImg></img-loader>
+                </ion-avatar>
+                <h2>{{ item.displayName }}</h2>
+                <button class="invite-members__invite-button" (click)="onInviteClicked(item)" item-end clear round
+                        ion-button>
+                    {{ 'tribes.inviteUser' | translate }}
+                </button>
+            </ion-item>
+        </ion-list>
+        <ng-template #empty>
+            <ng-container *ngIf="currentSearchTerm && !searchSpinner">
+                No users found for {{currentSearchTerm}}
+            </ng-container>
+        </ng-template>
+    </ng-container>
+</ion-content>

@@ -1,0 +1,15 @@
+<ion-card *ngFor="let tribe of tribes" (click)="onTribeClicked(tribe.id)" class="tribes-list__card"
+          [class.tribes-list__card--no-picture]="!tribe.imgSrc">
+    <img-loader class="tribes-list__card-background" *ngIf="tribe.imgSrc" [src]="tribe.imgSrc" backgroundSize="cover"></img-loader>
+    <div class="tribes-list__overlay"></div>
+    <div class="tribes-list__card-title">{{ tribe.name }}</div>
+    <div class="tribes-list__card-subtitle">{{ tribe.members.length }}
+        <ng-container [ngPlural]="tribe.members.length">
+        <ng-template ngPluralCase="=1">
+            {{ 'tribes.member' | translate }}
+        </ng-template>
+        <ng-template ngPluralCase="other">
+            {{ 'tribes.members' | translate }}
+        </ng-template>
+    </ng-container></div>
+</ion-card>

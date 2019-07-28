@@ -1,0 +1,41 @@
+<ion-header no-border>
+    <ion-toolbar transparent>
+        <ion-buttons end>
+            <button
+                ion-button
+                end
+                color="background"
+                (click)="onLoginClicked()">{{ 'auth.signIn'| translate }}
+            </button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+
+<ion-content fullscreen flush>
+    <ion-slides [pager]="true" [autoplay]="4000" [loop]="true" class="swiper-pagination-black" #slides>
+        <ion-slide class="onboarding__first-slide">
+            <div class="onboarding__overlay"></div>
+            <div class="onboarding__header text-right">{{ 'onboarding.firstSlideText'| translate }}</div>
+        </ion-slide>
+        <ion-slide class="onboarding__second-slide">
+            <div class="onboarding__overlay"></div>
+            <div class="onboarding__header text-right">{{ 'onboarding.secondSlideText'| translate }}</div>
+        </ion-slide>
+        <ion-slide class="onboarding__third-slide">
+            <div class="onboarding__overlay"></div>
+            <div class="onboarding__header text-right">{{ 'onboarding.thirdSlideText'| translate }}</div>
+        </ion-slide>
+    </ion-slides>
+
+    <ion-footer padding>
+        <div class="onboarding__button-container">
+            <button class="onboarding__button"
+                ion-button block
+                round
+                (click)="onGetStartedClicked()">{{ 'onboarding.getStarted'| translate }}
+            </button>
+        </div>
+    </ion-footer>
+</ion-content>
+

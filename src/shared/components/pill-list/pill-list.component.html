@@ -1,0 +1,11 @@
+<ul class="pill-list__list">
+    <li class="pill-list__item"
+        *ngFor="let item of items"
+        [class.pill-list__item--disabled]="item.disabled"
+        (click)="onPillClicked($event, item)">
+        {{ item.label }}
+        <div *ngIf="showToggle" class="pill-list__item-toggle" (click)="onToggleItem($event, item)">
+            <ion-icon [name]="(item.disabled) ? 'fyt-lock' : 'fyt-unlock'"></ion-icon>
+        </div>
+    </li>
+</ul>

@@ -1,0 +1,13 @@
+<ion-header no-border>
+    <ion-navbar transparent></ion-navbar>
+</ion-header>
+
+<ion-content fullscreen>
+    <ng-container *ngIf="test$ | async as test">
+        <test-wizard
+            class="test-wizard"
+            [questions]="test.questions"
+            (testCompleted)="onTestCompleted($event)">
+        </test-wizard>
+    </ng-container>
+</ion-content>

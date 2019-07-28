@@ -1,0 +1,16 @@
+<ion-header no-border>
+
+    <ion-navbar transparent color="darkToolbar">
+        <ion-title>
+            {{ (isEdit ? 'tribes.editTribe' : 'tribes.createTribe') | translate }}
+        </ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+<ion-content fullscreen flush>
+    <tribe-editor
+         [tribe]="tribe$ | async"
+         (tribeChanges)="onTribeChanges($event)">
+    </tribe-editor>
+</ion-content>

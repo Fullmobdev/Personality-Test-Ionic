@@ -1,0 +1,7 @@
+{
+    "name": "fyt-app",
+    "integrations": {
+        "cordova": {}
+    },
+    "type": "ionic-angular"
+}

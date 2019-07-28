@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "findyourtribe-app",
+    "development": "findyourtribe-development"
+  }
+}

@@ -1,0 +1,14 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>{{ 'tests.personalityTests' | translate }}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+<ion-content #content padding>
+    <test-list
+        [tests]="(tests$ | async)"
+        [isOnline]="(isOnline$ | async)"
+        (testClicked)="onTestClicked($event)">
+    </test-list>
+</ion-content>

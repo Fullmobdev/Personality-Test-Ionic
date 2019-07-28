@@ -1,0 +1,97 @@
+<ion-header no-border>
+    <ion-navbar transparent>
+        <ion-buttons end>
+            <button ion-button icon-only (click)="onShareClicked()">
+                <ion-icon name="share"></ion-icon>
+            </button>
+            <button class="profile__edit-button" ion-button icon-only (click)="onEditProfileClicked()">
+                <ion-icon *ngIf="(isOwnProfile$ | async)" name="fyt-edit"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+<ion-content fullscreen padding>
+    <div class="profile__layout" *ngIf="profile$ | async as profile">
+
+        <img-loader
+            class="profile__picture"
+            [src]="profile.pictureUrl"
+            useImg>
+        </img-loader>
+
+        <div class="profile__info">
+            <h1 class="profile__name">{{ profile.displayName }}</h1>
+        </div>
+
+        <section *ngIf="personalityTypes$ | async as personalityTypes" class="profile__section">
+            <h2 class="profile__section-heading">{{ 'profile.personalityType' | translate }}</h2>
+            <pill-list (select)="onResultTypeClicked($event)" [items]="personalityTypes"
+                       (toggle)="onToggleResultType($event)" [showToggle]="isOwnProfile$ | async"></pill-list>
+        </section>
+
+        <section *ngIf="traits$ | async as traits" class="profile__section">
+            <h2 class="profile__section-heading">{{ 'profile.personalityTraits' | translate }}</h2>
+            <pill-list [items]="traits" [showToggle]="isOwnProfile$ | async" (toggle)="onToggleTrait($event)"></pill-list>
+        </section>
+
+        <ng-container *ngIf="profileFriends$ | async as profileFriends">
+            <section class="profile__section">
+                <ng-container *ngIf="profileFriends.length > 0; else empty">
+                    <h2 class="profile__section-heading">{{ 'profile.friends' | translate }}</h2>
+
+                    <div (click)="onFriendsListClicked()">
+                        <img-loader
+                            class="profile__section-pic"
+                            *ngFor="let friend of profileFriends"
+                            [src]="friend.pictureUrl"
+                            useImg>
+                        </img-loader>
+                    </div>
+                </ng-container>
+            </section>
+        </ng-container>
+    </div>
+</ion-content>
+
+<ion-footer padding>
+    <div class="profile__actions" *ngIf="!(isOwnProfile$ | async)">
+        <button
+            *ngIf="canBeAddedToFriends$ | async"
+            ion-button
+            round
+            block
+            (click)="onAddToFriendsClicked()">
+            {{'friends.addFriend' | translate}}
+        </button>
+        <button
+            *ngIf="canBeRemovedFromFriends$ | async"
+            ion-button
+            round
+            outline
+            block
+            style="background: rgba(255,255,255,0.8)"
+            (click)="onRemoveFromFriendsClicked()">
+            {{'friends.removeFriend' | translate}}
+        </button>
+    </div>
+</ion-footer>
+
+<ng-template #empty>
+    <div *ngIf="(isOwnProfile$ | async)">
+        <h2 class="profile__section-heading">{{ 'profile.friends' | translate }}</h2>
+        <div class="profile__empty-friends-action" ion-item>
+            <p>{{'profile.noFriends' | translate}}</p>
+            <button
+                class="profile__invite-button"
+                (click)="onAddNewFriendsClicked()"
+                ion-button
+                small
+                round
+                item-end
+                clear>
+                {{'profile.addFriends' | translate}}
+            </button>
+        </div>
+    </div>
+</ng-template>

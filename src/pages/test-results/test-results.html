@@ -1,0 +1,16 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>{{ 'tests.personalityType' | translate }}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding #content>
+    <ng-container *ngIf="resultType$ | async as resultType">
+        <test-results
+            [resultType]="resultType"
+            [context]="context"
+            (actionSelected)="onActionSelected($event, resultType)">
+        </test-results>
+    </ng-container>
+</ion-content>
+

@@ -1,0 +1,11 @@
+.toolbar-ios[slim] {
+    min-height: $toolbar-slim-ios-height;
+}
+
+.list-ios > .item-block:last-child  {
+    border-bottom: none !important;
+}
+
+.bar-buttons-ios[end] {
+    margin-right: 1.6rem;
+}

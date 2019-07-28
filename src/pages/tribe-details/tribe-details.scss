@@ -1,0 +1,62 @@
+page-tribe-details {
+
+    .tribe {
+
+        &__edit-button {
+            font-size: 1.3rem;
+        }
+
+        &__header {
+            font-family: $font-family-highlight;
+            font-weight: bold;
+            font-size: 2.4rem;
+        }
+
+        &__image {
+            display: flex;
+            height: 100%;
+
+            img-loader {
+                overflow: hidden;
+                height: 0;
+                padding-top: 62%;
+                background-position: center;
+                border-top-left-radius: 1rem;
+                border-bottom-left-radius: 1rem;
+            }
+        }
+
+        &__image-container {
+            padding-left: 3rem;
+        }
+
+        &__container {
+            padding: 0 3rem 2.5rem;
+        }
+
+        &__member-list-title {
+            font-size: 1.4rem;
+            color: $grey-blue;
+        }
+
+        &__member-list-count {
+            color: #6478d3;
+        }
+
+        &__member-image {
+            display: inline-block;
+            width: 4rem;
+            height: 4rem;
+            margin-right: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+
+        &__invite-button {
+            width: 70%;
+            margin: 0 auto;
+        }
+
+    }
+}

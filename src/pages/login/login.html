@@ -1,0 +1,12 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>{{ 'auth.login' | translate }}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content #content padding>
+    <ion-footer padding>
+        <google-button [label]="'auth.signInWithGoogle'" (onClick)="signInWithGoogle()" ></google-button>
+        <facebook-button [label]="'auth.signInWithFacebook'" (onClick)="signInWithFacebook()" ></facebook-button>
+    </ion-footer>
+</ion-content>

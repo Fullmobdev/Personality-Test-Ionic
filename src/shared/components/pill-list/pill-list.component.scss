@@ -1,0 +1,30 @@
+.pill-list {
+
+    &__list {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    &__item {
+        margin-right: 1rem;
+        margin-bottom: 1rem;
+        border-radius: 100rem;
+        background: color($colors, "mutedBackrougnd");
+        color: color-contrast($colors, "mutedBackrougnd");
+        padding: 0.8rem 2.4rem;
+        font-weight: 500;
+        display: flex;
+
+        &--disabled {
+            background: fade_out(color($colors, "mutedBackrougnd"), 0.5);
+        }
+    }
+
+    &__item-toggle {
+        padding: 0.8rem;
+        margin: -0.8rem -1.6rem -0.8rem 0;
+    }
+
+}

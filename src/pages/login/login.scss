@@ -1,0 +1,43 @@
+page-login {
+
+    .login {
+
+        &__google-icon {
+            width: 3.6rem;
+            position: absolute;
+            top: 50%;
+            left: 2.2rem;
+            margin-top: -2.3rem;
+            height: 3.6rem;
+        }
+
+        &__google-button {
+            height: 5rem;
+            position: relative;
+            font-family: 'Roboto', sans-serif;
+            text-transform:none;
+            background-color: #4285F4;
+            margin-bottom: 1rem;
+        }
+
+        &__facebook-icon {
+            width: 3.6rem;
+            position: absolute;
+            top: 50%;
+            left: 2.4rem;
+            margin-top: -1.6rem;
+            height: 3.6rem;
+        }
+
+
+        &__facebook-button {
+            height: 5rem;
+            position: relative;
+            font-family: 'Roboto', sans-serif;
+            text-transform:none;
+            background-color: #4267B2;
+
+        }
+    }
+
+}

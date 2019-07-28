@@ -1,0 +1,40 @@
+page-edit-profile {
+
+    img {
+        display: block;
+    }
+
+    .gender-switcher {
+
+        .item-inner {
+            height: 6rem;
+            position: relative;
+        }
+
+        &__item {
+
+            padding-left: 0;
+            .input-wrapper {
+                text-align: center;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+
+                .label {
+                    margin-right: 0;
+                }
+            }
+        }
+
+        .radio-icon {
+            display: none;
+        }
+
+        .item-radio-checked .icon {
+            color: color($colors, "secondary");
+        }
+
+    }
+
+
+}

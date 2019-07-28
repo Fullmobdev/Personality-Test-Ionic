@@ -1,0 +1,56 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>{{ (tribe$ | async)?.name }}</ion-title>
+        <ion-buttons end>
+            <button class="tribe__edit-button" ion-button icon-only *ngIf="canEditTribe$ | async" (click)="onEditTribeClicked()">
+                <ion-icon name="fyt-edit"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+<ion-content #content fullscreen>
+    <ng-container *ngIf="tribe$ | async as tribe">
+        <div class="tribe__image-container">
+            <div class="tribe__image" *ngIf="tribe.imgSrc">
+                <img-loader *ngIf="tribe.imgSrc" [src]="tribe.imgSrc" backgroundSize="cover"></img-loader>
+            </div>
+        </div>
+        <div class="tribe__container">
+            <p item-start class="tribe__header">{{ tribe.name }}</p>
+            <div>{{ tribe.description }}</div>
+            <div *ngIf="tribeMembers$ | async as members" (click)="onTribeMembersListClicked()">
+                <div>
+                    <h5 class="tribe__member-list-title">{{'tribes.members' | translate}}
+                        <span class="tribe__member-list-count">{{ members.length }}</span>
+                    </h5>
+                    <ng-container *ngFor="let member of members">
+                        <img-loader *ngIf="member.pictureUrl" class="tribe__member-image" [src]="member.pictureUrl"
+                                    useImg></img-loader>
+                    </ng-container>
+                </div>
+            </div>
+        </div>
+    </ng-container>
+
+</ion-content>
+
+<ion-footer padding>
+    <div class="tribe__invite-button">
+        <button
+            *ngIf="canEditTribe$ | async"
+            (click)="onInviteMembersClicked()"
+            ion-button
+            block
+            round>{{ 'tribes.inviteMembers' | translate }}
+        </button>
+
+        <button
+            *ngIf="canLeaveTribe$ | async"
+            (click)="onLeaveTribeClicked()"
+            ion-button
+            block
+            round>{{ 'tribes.leaveTribe' | translate }}
+        </button>
+    </div>
+</ion-footer>

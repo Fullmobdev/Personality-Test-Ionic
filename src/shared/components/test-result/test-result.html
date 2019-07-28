@@ -1,0 +1,84 @@
+<ion-card class="test-result">
+    <div class="test-result__splash">
+        <h1 class="test-result__splash-title">
+            <div>
+                {{ resultType.personalityType | defaultLocale }}
+            </div>
+            <small *ngIf="resultType.roleName">{{ resultType.roleName | defaultLocale }}</small>
+        </h1>
+    </div>
+    <div class="test-result__content" padding>
+        <div class="test-result__flex">
+            <div class="test-result__flex-col">
+                <section class="test-result__section">
+                    <h2 class="test-result__section-heading">{{ 'tests.type' | translate }}</h2>
+                    <p class="test-result__text">{{ resultType.personalityType | defaultLocale }}</p>
+                </section>
+            </div>
+            <div *ngIf="resultType.roleName" class="test-result__flex-col">
+                <section class="test-result__section">
+                    <h2 class="test-result__section-heading">{{ 'tests.roleName'| translate }}</h2>
+                    <p class="test-result__text">{{ resultType.roleName | defaultLocale }}</p>
+                </section>
+            </div>
+        </div>
+
+        <section class="test-result__section">
+            <h2 class="test-result__section-heading">{{ 'tests.keywords' | translate }}</h2>
+            <pill-list [items]="getTraitItems(resultType.traits) | async"></pill-list>
+        </section>
+
+        <section class="test-result__section">
+            <h2 class="test-result__section-heading">{{ 'tests.description' | translate }}</h2>
+            <p class="test-result__text">{{ ((longDescriptionShown)
+                ? resultType.longDescription
+                : resultType.shortDescription) | defaultLocale }}</p>
+            <div *ngIf="!longDescriptionShown" class="test-result__section-action">
+                <button type="button" ion-button small round outline color="primary" (click)="showLongDescription()">More</button>
+            </div>
+        </section>
+
+        <section class="test-result__section" *ngIf="resultType.do && resultType.do.length > 0">
+            <h2 class="test-result__section-heading">{{ 'tests.dos' | translate }}</h2>
+            <p class="test-result__text">{{ resultType.do | defaultLocale }}</p>
+        </section>
+
+        <section class="test-result__section" *ngIf="resultType.dont && resultType.dont.length > 0">
+            <h2 class="test-result__section-heading">{{ 'tests.donts' | translate }}</h2>
+            <p class="test-result__text">{{ resultType.dont | defaultLocale }}</p>
+        </section>
+
+        <div class="test-result__actions">
+            <button
+                *ngIf="context === TestResultContext.OwnResult || context === TestResultContext.InitialResult"
+                (click)="onActionSelected(TestResultActions.RetakeTest)"
+                ion-button
+                block
+                round
+                outline
+                color="primary"
+                type="button">{{ 'tests.redoTest' | translate }}
+            </button>
+
+            <button *ngIf="context === TestResultContext.InitialResult"
+                    (click)="onActionSelected(TestResultActions.Continue)"
+                    ion-button
+                    block
+                    round
+                    color="primary"
+                    type="button">{{ 'tests.saveResults' | translate }}
+            </button>
+        </div>
+    </div>
+</ion-card>
+
+<ng-template>
+    <button
+        ion-button
+        block
+        round
+        color="primary"
+        class="button">{{ 'tests.continue' | translate }}
+    </button>
+</ng-template>
+

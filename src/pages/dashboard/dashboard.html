@@ -1,0 +1,11 @@
+<ion-tabs name="dashboard">
+    <ion-tab tabIcon="fyt-zip" [root]="'NewsFeedPage'"></ion-tab>
+    <ion-tab tabIcon="fyt-compass" [root]="'TestListPage'"></ion-tab>
+    <ion-tab tabIcon="fyt-grid" [root]="'TribesPage'"></ion-tab>
+
+    <ion-tab tabIcon="fyt-user-circle"
+             [root]="'ProfilePage'"
+             [rootParams]="{userId: (authUser$ | async)?.uid}">
+    </ion-tab>
+    <ion-tab tabIcon="fyt-settings" [root]="'SettingsPage'"></ion-tab>
+</ion-tabs>

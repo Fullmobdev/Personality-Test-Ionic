@@ -1,0 +1,60 @@
+page-test-list {
+
+    .test-list {
+
+        &__card {
+            position: relative;
+            text-align: center;
+            margin-bottom: 2rem !important;
+            background: $grey-blue;
+            height: 0;
+            padding-top: 62%;
+
+            &--dimmed {
+                opacity: 0.3;
+            }
+
+        }
+
+        &__card-background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            overflow: hidden;
+            height: 0;
+            padding-top: 62%;
+            background-position: center;
+        }
+
+        &__overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.3);
+        }
+
+        &__card-title {
+            position: absolute;
+            font-family: $font-family-highlight;
+            bottom: 18%;
+            left: 7%;
+            font-size: 2.0em;
+            width: 100%;
+            font-weight: bold;
+            color: #fff;
+            text-align: left;
+        }
+
+        &__card-subtitle {
+            font-size: 1.0em;
+            position: absolute;
+            bottom: 10%;
+            left: 7%;
+            width: 100%;
+            color: #fff;
+            text-align: left;
+        }
+    }
+}

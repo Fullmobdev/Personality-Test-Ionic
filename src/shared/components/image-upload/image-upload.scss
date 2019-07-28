@@ -1,0 +1,35 @@
+@import '../../../theme/variables';
+
+image-upload {
+    display: block;
+    position: relative;
+    min-height: 12.8rem;
+    overflow: hidden;
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.2);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .icon-container {
+        width: 12.8rem;
+        height: 12.8rem;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.25);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .icon {
+        font-size: 3.2rem;
+        color: $white;
+    }
+}

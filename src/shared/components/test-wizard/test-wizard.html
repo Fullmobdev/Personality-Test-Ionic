@@ -1,0 +1,96 @@
+<form class="form slide__container" [formGroup]="form" novalidate>
+    <ion-slides #slides [centeredSlides]="false" (ionSlideDidChange)="ionSlideDidChange()">
+        <ion-slide class="slide" *ngFor="let question of questions; let i = index" padding-horizontal>
+
+            <div class="slide__icon">
+                <ion-icon name="fyt-filter"></ion-icon>
+            </div>
+
+            <h1
+                 class="slide__heading"
+                 ion-text>{{ 'tests.question' | translate }} {{ i + 1 }}/{{ totalQuestions }}
+            </h1>
+            <h4
+                class="slide__question-title"
+                ion-text
+                color="text--alt">{{ question.title | defaultLocale }}
+            </h4>
+
+            <div class="slide__actions-container">
+                <div class="slide__actions" [class.slide__actions--stretched]="question.type === 'mostLeast'">
+                    <ng-container *ngIf="question.type !== 'mostLeast'; else mostLeastTemplate">
+                        <button
+                            *ngFor="let answer of question.answers"
+                            class="slide__action"
+                            [color]="isCurrentAnswer(question.id, answer.value) ? 'secondary' : 'primary'"
+                            ion-button
+                            round
+                            (click)="setValue(question.id, answer.value)">
+                            {{ answer.title | defaultLocale }}
+                        </button>
+
+                        <div class="slide__actions-spacer"></div>
+
+                        <div class="slide__actions-bottom" *ngIf="slides.isEnd() && form.valid">
+                            <button class="slide__actions-bottom-button"
+                                    ion-button
+                                    block
+                                    round
+                                    (click)="onTestCompleted()">
+                                {{'tests.finishTest' | translate}}
+                            </button>
+                        </div>
+                    </ng-container>
+
+                    <ng-template #mostLeastTemplate>
+                        <div class="slide__actions-heading">
+                            <span>{{'tests.most' | translate}}</span>
+                            <span>{{'tests.least' | translate}}</span>
+                        </div>
+                        <div *ngFor="let answer of question.answers"
+                             [formGroupName]="question.id">
+                            <div class="slide__action--grouped"
+                                 [formControlName]="answer.id"
+                                 radio-group>
+
+                                <ion-radio
+                                    [value]="-1"
+                                    (ionSelect)="onMostLeastChange($event, question.id, answer.id)">
+                                </ion-radio>
+                                <span class="slide__action-answer-title">
+                                    {{answer.title | defaultLocale}}
+                                </span>
+                                <ion-radio
+                                    [value]="1"
+                                    (ionSelect)="onMostLeastChange($event, question.id, answer.id)">
+                                </ion-radio>
+                            </div>
+                        </div>
+
+                        <div class="slide__actions-spacer"></div>
+
+                        <div class="slide__actions-bottom">
+                            <button *ngIf="!slides.isEnd()"
+                                    ion-button
+                                    block
+                                    round
+                                    (click)="slideNext()"
+                                    [disabled]="!slideIsValid(question.id)">
+                                {{'tests.next' | translate}}
+                            </button>
+
+                            <button *ngIf="slides.isEnd() && slideIsValid(question.id)"
+                                    ion-button
+                                    block
+                                    round
+                                    (click)="onTestCompleted()">
+                                {{'tests.finishTest' | translate}}
+                            </button>
+                        </div>
+                    </ng-template>
+                </div>
+            </div>
+        </ion-slide>
+    </ion-slides>
+</form>
+

@@ -1,0 +1,25 @@
+<ion-header floatingHeader [scrollContent]="content">
+  <ion-navbar color="lightToolbar">
+    <ion-title>{{ 'tribes.members' | translate }}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding #content fullscreen>
+    <profiles-list
+        [entities]="members$ | async"
+        (actionSelected)="onItemRemove($event)"
+        (itemSelected)="onItemSelected($event)">
+    </profiles-list>
+</ion-content>
+
+<ion-footer padding *ngIf="canEditTribe$ | async">
+        <div class="tribe-members__invite-button">
+            <button
+                (click)="onInviteMembersClicked()"
+                ion-button
+                block
+                round>
+                {{ 'tribes.inviteMembers' | translate }}
+            </button>
+        </div>
+</ion-footer>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "573371402331",
+    "firebase_url": "https://findyourtribe-development.firebaseio.com",
+    "project_id": "findyourtribe-development",
+    "storage_bucket": "findyourtribe-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573371402331:android:5c18590d7b3a2b40",
+        "android_client_info": {
+          "package_name": "one.fyt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573371402331-bd4rtpmdu8nqpi02ed66vu69v717c25m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3thSCWPQSXTfzgpi5DBYfPeF2lhi7Ac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

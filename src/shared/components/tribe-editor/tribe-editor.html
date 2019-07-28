@@ -1,0 +1,51 @@
+<form class="form" [formGroup]="form" (ngSubmit)="onFormSubmit()">
+    <image-upload
+        class="tribe-editor__image"
+        [currentImage]="tribeImgSrc"
+        [iconName]="'fyt-image'"
+        (imageSelected)="onTribeImageSelected($event)"></image-upload>
+
+    <div class="form__fieldset">
+        <ion-list>
+            <ion-item>
+                <ion-label>
+                    <ion-icon name="fyt-group"></ion-icon>
+                </ion-label>
+                <ion-input
+                    type="text"
+                    placeholder="Name"
+                    formControlName="name"></ion-input>
+            </ion-item>
+            <p
+                class="form__hint"
+                *ngIf="form.get('name').dirty && form.get('name').hasError('required')"
+                ion-text
+                color="error">{{ 'tribes.nameIsRequired' | translate }}</p>
+
+            <ion-item>
+                <ion-label>
+                    <ion-icon name="fyt-write"></ion-icon>
+                </ion-label>
+                <ion-textarea
+                    placeholder="Description"
+                    rows="5"
+                    formControlName="description"></ion-textarea>
+            </ion-item>
+            <p
+                class="form__hint"
+                *ngIf="form.get('description').dirty && form.get('description').hasError('required')"
+                ion-text
+                color="error">{{ 'tribes.descriptionIsRequired' | translate }}</p>
+
+        </ion-list>
+
+        <div class="form__button">
+            <button [disabled]="form.get('name').errors || form.get('description').errors"
+                ion-button
+                block
+                round>
+                {{ 'tribes.save' | translate }}
+            </button>
+        </div>
+    </div>
+</form>

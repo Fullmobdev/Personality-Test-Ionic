@@ -1,0 +1,65 @@
+<ion-header no-border>
+    <ion-navbar transparent color="darkToolbar"></ion-navbar>
+</ion-header>
+
+
+<ion-content fullscreen flush>
+    <image-upload [currentImage]="(profile$ | async)?.pictureUrl"
+                  (imageSelected)="onProfilePictureSelected($event)"></image-upload>
+    <div padding-top>
+        <form [formGroup]="form" padding-bottom>
+            <ion-item>
+                <ion-label>
+                    <ion-icon name="fyt-user-circle"></ion-icon>
+                </ion-label>
+                <ion-input
+                    type="text"
+                    placeholder="Display Name"
+                    formControlName="displayName">
+                </ion-input>
+            </ion-item>
+            <ion-row class="gender-switcher" radio-group formControlName="gender">
+                <ion-col col-3 no-padding>
+                    <ion-item>Gender</ion-item>
+                </ion-col>
+                <ion-col col-3 no-padding>
+                    <ion-item class="gender-switcher__item">
+                        <ion-label>
+                            <ion-icon name="male"></ion-icon>
+                        </ion-label>
+                        <ion-radio value="male"></ion-radio>
+                    </ion-item>
+                </ion-col>
+                <ion-col col-3 no-padding>
+                    <ion-item class="gender-switcher__item">
+                        <ion-label>
+                            <ion-icon name="female"></ion-icon>
+                        </ion-label>
+                        <ion-radio value="female"></ion-radio>
+                    </ion-item>
+                </ion-col>
+                <ion-col col-3 no-padding>
+                    <ion-item class="gender-switcher__item">
+                        <ion-label>
+                            <ion-icon name="transgender"></ion-icon>
+                        </ion-label>
+                        <ion-radio value="other"></ion-radio>
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+        </form>
+    </div>
+
+</ion-content>
+<ion-footer padding>
+    <div text-center>
+        <button
+            ion-button
+            round
+            align-items-center
+            [disabled]="form.invalid"
+            (click)="onSaveChangesClicked()">
+            {{ 'profile.saveChanges' | translate }}
+        </button>
+    </div>
+</ion-footer>

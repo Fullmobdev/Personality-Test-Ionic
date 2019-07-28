@@ -1,0 +1,27 @@
+.ios {
+    page-friends-search {
+        .searchbar-ios {
+            padding: 0 2rem 0 2rem !important;
+        }
+
+        .searchbar-input {
+            border-radius: 64px !important;
+            background-color: #f7f8fa !important;
+            padding: 6px 55px !important;
+            font-size: 1.7rem !important;
+        }
+
+        .searchbar-search-icon {
+            left: 16px !important;
+            top: 11px !important;
+            width: 21px !important;
+            height: 21px !important;
+            background-size: 17px !important;
+        }
+
+        .list-ios > .item-block:last-child,
+        .list-ios > .item-wrapper:last-child .item-block {
+            border-bottom: none !important;
+        }
+    }
+}

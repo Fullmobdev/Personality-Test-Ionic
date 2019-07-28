@@ -1,0 +1,21 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>{{ 'tribes.tribesTitle' | translate }}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+<ion-content #content padding>
+    <tribes-list
+        [tribes]="tribes$ | async"
+        (tribeClicked)="onTribeClicked($event)"></tribes-list>
+    <div class="create-button-wrapper">
+        <button
+            class="create-tribe-btn"
+            ion-button
+            block round
+            (click)="onCreateTribeClicked()">
+            {{ 'tribes.createTribe' | translate }}
+        </button>
+    </div>
+</ion-content>

@@ -1,0 +1,11 @@
+<img-loader
+    [src]="currentImage"
+    useImg
+    *ngIf="currentImage">
+</img-loader>
+
+    <div class="overlay" (click)="onOverlayClicked()">
+    <div class="icon-container">
+        <ion-icon [name]="iconName"></ion-icon>
+    </div>
+</div>

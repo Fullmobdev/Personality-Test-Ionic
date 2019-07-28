@@ -1,0 +1,55 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-title>
+            {{ 'news.feed' | translate }}
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content #content padding>
+
+    <ion-refresher (ionRefresh)="onRefresh($event)">
+        <ion-refresher-content></ion-refresher-content>
+    </ion-refresher>
+
+    <div class="news-feed__container">
+
+        <ion-spinner class="news-feed__spinner" *ngIf="(newsFeed$ | async)?.length === 0"></ion-spinner>
+
+        <ion-card class="news-feed__card" *ngFor="let item of (newsFeed$ | async)" (click)="onArticleClicked(item)">
+            <ion-item>
+                <ion-avatar item-start>
+                    <img-loader *ngIf="item.author.pictureUrl" [src]="item.author.pictureUrl" useImg></img-loader>
+                </ion-avatar>
+                <h2>{{item.author.name}}</h2>
+                <p>{{item.date | date}}</p>
+            </ion-item>
+
+            <img-loader *ngIf="item.featuredImageUrl" [src]="item.featuredImageUrl" useImg></img-loader>
+
+            <ion-card-header>
+                <strong>{{item.title}}</strong>
+            </ion-card-header>
+            <ion-card-content>
+                <div [innerHTML]="item.excerpt"></div>
+            </ion-card-content>
+
+            <ion-item>
+                <div>
+                    <ion-badge class="news-feed__badge" *ngFor="let c of item.categories">{{c.name}}</ion-badge>
+                </div>
+                <div>
+                    <ion-badge class="news-feed__badge news-feed__badge-tag" *ngFor="let t of item.tags"
+                               [ngStyle]="{background: getColorForTag(t.name)}">{{t.name}}</ion-badge>
+                </div>
+            </ion-item>
+
+        </ion-card>
+
+        <ion-infinite-scroll (ionInfinite)="$event.waitFor(onLoadMorePosts())" threshold="200px">
+            <ion-infinite-scroll-content>
+            </ion-infinite-scroll-content>
+        </ion-infinite-scroll>
+
+    </div>
+</ion-content>

@@ -1,0 +1,52 @@
+<ion-header floatingHeader [scrollContent]="content">
+    <ion-navbar color="lightToolbar">
+        <ion-searchbar
+            class="search-friends__search"
+            placeholder="Type to search..."
+            (ionInput)="filterItems($event)">
+        </ion-searchbar>
+    </ion-navbar>
+</ion-header>
+
+<ion-content #content padding>
+    <div class="search-friends__content">
+        <ion-spinner *ngIf="searchSpinner"></ion-spinner>
+    </div>
+    <ng-container *ngIf="matches$ | async as matches">
+        <ion-list *ngIf="matches.length > 0; else empty">
+            <ion-item
+                *ngFor="let item of matches$ | async"
+                (click)="onMatchClick($event, item)">
+                <ion-avatar item-start>
+                    <img-loader [src]="item.pictureUrl" useImg></img-loader>
+                </ion-avatar>
+                <h2>{{ item.displayName }}</h2>
+                <button
+                    *ngIf="!item.isFriend"
+                    class="search-friends__invite-button"
+                    (click)="onAddFriendClicked($event, item)"
+                    ion-button
+                    item-end
+                    clear
+                    round>
+                    {{ 'friends.add' | translate }}
+                </button>
+                <button
+                    *ngIf="item.isFriend"
+                    class="search-friends__invite-button"
+                    (click)="onRemoveFromFriendsClicked($event, item)"
+                    ion-button
+                    item-end
+                    clear
+                    round>
+                    {{ 'friends.remove' | translate }}
+                </button>
+            </ion-item>
+        </ion-list>
+        <ng-template #empty>
+            <ng-container *ngIf="currentSearchTerm.value && !searchSpinner">
+                <p text-center>{{'friends.noMatchesForSearchTerm' | translate: currentSearchTerm}}</p>
+            </ng-container>
+        </ng-template>
+    </ng-container>
+</ion-content>
