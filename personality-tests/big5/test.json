@@ -1,0 +1,88 @@
+{
+    "name": {
+        "en": "Big Five personality traits",
+        "de": "Big Five Persönlichkeitszüge"
+    },
+    "type": "internal",
+    "questions": [
+        {
+            "id": "q1",
+            "title": {
+                "en": "I see myself as someone who is reserved",
+                "de": "Ich sehe mich als jemand, der reserviert ist"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q2",
+            "title": {
+                "en": "I see myself as someone who is generally trusting",
+                "de": "Ich sehe mich als jemand, dem ich generell vertraue"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q3",
+            "title": {
+                "en": "I see myself as someone who tends to be lazy",
+                "de": "Ich sehe mich als jemand, der dazu neigt, faul zu sein"
+            },
+            "type": "likert"
+        },        {
+            "id": "q4",
+            "title": {
+                "en": "I see myself as someone who is relaxed, handles stress well",
+                "de": "Ich sehe mich als jemand, der entspannt ist, gut mit Stress umgeht"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q5",
+            "title": {
+                "en": "I see myself as someone who has few artistic interests",
+                "de": "Ich sehe mich als jemand, der wenige künstlerische Interessen hat"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q6",
+            "title": {
+                "en": "I see myself as someone who is outgoing, sociable",
+                "de": "Ich sehe mich als jemanden, der kontaktfreudig ist"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q7",
+            "title": {
+                "en": "I see myself as someone who tends to find fault with others",
+                "de": "Ich sehe mich als jemand, der dazu tendiert, Fehler an anderen zu finden"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q8",
+            "title": {
+                "en": "I see myself as someone who does a thorough job",
+                "de": "Ich sehe mich als jemanden, der eine gründliche Arbeit leistet"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q9",
+            "title": {
+                "en": "I see myself as someone who gets nervous easily",
+                "de": "Ich sehe mich als jemand, der leicht nervös wird"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q10",
+            "title": {
+                "en": "I see myself as someone who has an active imagination",
+                "de": "Ich sehe mich als jemanden, der eine aktive Vorstellungskraft hat"
+            },
+            "type": "likert"
+        }
+    ]
+}

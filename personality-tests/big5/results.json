@@ -1,0 +1,819 @@
+{
+    "big5-openess": {
+        "personalityType": {
+            "en": "Openess",
+            "de": "Aufgeschlossenheit"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven"
+        ],
+        "shortDescription": {
+            "en": "High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Open",
+            "de": "{GENDER, select,\n  male {Der Aufgeschlossene}\n  female {Die Aufgeschlossene}\n  other {Der Aufgeschlossene}\n}"
+        }
+    },
+    "big5-conscientiousness": {
+        "personalityType": {
+            "en": "Conscientiousness",
+            "de": "Gewissenhaftigkeit"
+        },
+        "traits": [
+            "self-disciplined"
+        ],
+        "shortDescription": {
+            "en": "Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Conscientious",
+            "de": "{GENDER, select,\n  male {Der Gewissenhafte}\n  female {Die Gewissenhafte}\n  other {Der Gewissenhafte}\n}"
+        }
+    },
+    "big5-extraversion": {
+        "personalityType": {
+            "en": "Extraversion",
+            "de": "Geselligkeit"
+        },
+        "traits": [
+            "energetic",
+            "surgency",
+            "assertiveness"
+        ],
+        "shortDescription": {
+            "en": "High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Extraverted",
+            "de": "{GENDER, select,\n  male {Der Gesellige}\n  female {Die Gesellige}\n  other {Der Gesellige}\n}"
+        }
+    },
+    "big5-agreeableness": {
+        "personalityType": {
+            "en": "Agreeableness",
+            "de": "Verträglichkeit"
+        },
+        "traits": [
+            "compassionate"
+        ],
+        "shortDescription": {
+            "en": "People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Agreeable",
+            "de": "{GENDER, select,\n  male {Der Verträgliche}\n  female {Die Verträgliche}\n  other {Der Verträgliche}\n}"
+        }
+    },
+    "big5-neuroticism": {
+        "personalityType": {
+            "en": "Neuroticism",
+            "de": "Neurotizismus"
+        },
+        "traits": [
+            "anxiety",
+            "emotional-instable"
+        ],
+        "shortDescription": {
+            "en": "People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Neurotic",
+            "de": "{GENDER, select,\n  male {Der Neurotische}\n  female {Die Neurotische}\n  other {Der Neurotische}\n}"
+        }
+    },
+    "big5-open_conscientious": {
+        "personalityType": {
+            "en": "Open & Conscientious",
+            "de": "Aufgeschlossen & Gewissenhaft"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "self-disciplined",
+            "dutifully"
+        ],
+        "shortDescription": {
+            "en": "Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth. Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.  Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Open & Conscientious",
+            "de": "{GENDER, select,\n  male {Der Aufgeschlossene & Gewissenhafte}\n  female {Die Aufgeschlossene & Gewissenhafte}\n  other {Aufgeschlossen & Gewissenhaft}\n}"
+        }
+    },
+    "big5-open_extroverted": {
+        "personalityType": {
+            "en": "Open & Extroverted",
+            "de": "Aufgeschlossen & Gesellig"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "energetic"
+        ],
+        "shortDescription": {
+            "en": "Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth. Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.  Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Open & Extroverted",
+            "de": "{GENDER, select,\n  male {Der Aufgeschlossene & Gesellige}\n  female {Die Aufgeschlossene & Gesellige}\n  other {Aufgeschlossen & Gesellig}\n}"
+        }
+    },
+    "big5-open_agreeable": {
+        "personalityType": {
+            "en": "Open & Agreeable",
+            "de": "Aufgeschlossen & Verträglich"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "compassionate",
+            "cooperative"
+        ],
+        "shortDescription": {
+            "en": "Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth. Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.  Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Open & Agreeable",
+            "de": "{GENDER, select,\n  male {Der Aufgeschlossene & Verträgliche}\n  female {Die Aufgeschlossene & Verträgliche}\n  other {Aufgeschlossen & Verträglich}\n}"
+        }
+    },
+    "big5-open_neurotic": {
+        "personalityType": {
+            "en": "Open & Neurotic",
+            "de": "Aufgeschlossen & Neurotisch"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "anxiety",
+            "moody"
+        ],
+        "shortDescription": {
+            "en": "Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth. Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.  Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Open & Neurotic",
+            "de": "{GENDER, select,\n  male {Der Aufgeschlossene & Neurotische}\n  female {Die Aufgeschlossene & Neurotische}\n  other {Aufgeschlossen & Neurotisch}\n}"
+        }
+    },
+    "big5-conscientious_extroverted": {
+        "personalityType": {
+            "en": "Conscientious & Extroverted",
+            "de": "Gewissenhaft & Gesellig"
+        },
+        "traits": [
+            "self-disciplined",
+            "dutifully",
+            "energetic"
+        ],
+        "shortDescription": {
+            "en": "Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions. Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.  Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Conscientious & Extroverted",
+            "de": "{GENDER, select,\n  male {Der Gewissenhafte & Gesellige}\n  female {Die Gewissenhafte & Gesellige}\n  other {Gewissenhaft & Gesellig}\n}"
+        }
+    },
+    "big5-conscientious_agreeable": {
+        "personalityType": {
+            "en": "Conscientious & Agreeable",
+            "de": "Gewissenhaft & Verträglich"
+        },
+        "traits": [
+            "self-disciplined",
+            "dutifully",
+            "compassionate",
+            "cooperative"
+        ],
+        "shortDescription": {
+            "en": "Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions. Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.  Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Conscientious & Agreeable",
+            "de": "{GENDER, select,\n  male {Der Gewissenhafte & Verträgliche}\n  female {Die Gewissenhafte & Verträgliche}\n  other {Gewissenhaft & Verträglich}\n}"
+        }
+    },
+    "big5-conscientious_neurotic": {
+        "personalityType": {
+            "en": "Conscientious & Neurotic",
+            "de": "Gewissenhaft & Neurotisch"
+        },
+        "traits": [
+            "self-disciplined",
+            "dutifully",
+            "moody",
+            "anxiety"
+        ],
+        "shortDescription": {
+            "en": "Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions. Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.  Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Conscientious & Neurotic",
+            "de": "{GENDER, select,\n  male {Der Gewissenhafte & Neurotische}\n  female {Die Gewissenhafte & Neurotische}\n  other {Gewissenhaft & Neurotisch}\n}"
+        }
+    },
+    "big5-extroverted_agreeable": {
+        "personalityType": {
+            "en": "Extroverted & Agreeable",
+            "de": "Gesellig & Verträglich"
+        },
+        "traits": [
+            "energetic",
+            "compassionate",
+            "cooperative"
+        ],
+        "shortDescription": {
+            "en": "Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness. Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.  Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Extroverted & Agreeable",
+            "de": "{GENDER, select,\n  male {Der Gesellige & Verträgliche}\n  female {Die Gesellige & Verträgliche}\n  other {Gesellig & Verträglich}\n}"
+        }
+    },
+    "big5-extroverted_neurotic": {
+        "personalityType": {
+            "en": "Extroverted & Neurotic",
+            "de": "Gesellig & Neurotisch"
+        },
+        "traits": [
+            "energetic",
+            "anxiety",
+            "moody"
+        ],
+        "shortDescription": {
+            "en": "Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness. Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.  Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Extroverted & Neurotic",
+            "de": "{GENDER, select,\n  male {Der Gesellige & Neurotische}\n  female {Die Gesellige & Neurotische}\n  other {Gesellig & Neurotisch}\n}"
+        }
+    },
+    "big5-agreeable_neurotic": {
+        "personalityType": {
+            "en": "Agreeable & Neurotic",
+            "de": "Verträglich & Neurotisch"
+        },
+        "traits": [
+            "compassionate",
+            "cooperative",
+            "anxiety",
+            "moody"
+        ],
+        "shortDescription": {
+            "en": "Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too. Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.  Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Agreeable & Neurotic",
+            "de": "{GENDER, select,\n  male {Der Verträgliche & Neurotische}\n  female {Die Verträgliche & Neurotische}\n  other {Verträglich & Neurotisch}\n}"
+        }
+    },
+    "big5-conscientious_open": {
+        "personalityType": {
+            "en": "Conscientious & Open",
+            "de": "Gewissenhaft & Aufgeschlossen"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "self-disciplined",
+            "dutifully"
+        ],
+        "shortDescription": {
+            "en": "Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions. Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.  Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Conscientious & Open",
+            "de": "{GENDER, select,\n  male {Der Gewissenhafte & Aufgeschlossene}\n  female {Die Gewissenhafte & Aufgeschlossene}\n  other {Gewissenhaft & Aufgeschlossen}\n}"
+        }
+    },
+    "big5-extroverted_open": {
+        "personalityType": {
+            "en": "Extroverted & Open",
+            "de": "Gesellig & Aufgeschlossen"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "energetic"
+        ],
+        "shortDescription": {
+            "en": "Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness. Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.  Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Extroverted & Open",
+            "de": "{GENDER, select,\n  male {Der Gesellige & Aufgeschlossene}\n  female {Die Gesellige & Aufgeschlossene}\n  other {Gesellig & Aufgeschlossen}\n}"
+        }
+    },
+    "big5-agreeable_open": {
+        "personalityType": {
+            "en": "Agreeable & Open",
+            "de": "Verträglich & Aufgeschlossen"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "compassionate",
+            "cooperative"
+        ],
+        "shortDescription": {
+            "en": "Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too. Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.  Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Agreeable & Open",
+            "de": "{GENDER, select,\n  male {Der Verträgliche & Aufgeschlossene}\n  female {Die Verträgliche & Aufgeschlossene}\n  other {Verträglich & Aufgeschlossen}\n}"
+        }
+    },
+    "big5-neurotic_open": {
+        "personalityType": {
+            "en": "Neurotic & Open",
+            "de": "Neurotisch & Aufgeschlossen"
+        },
+        "traits": [
+            "imaginative",
+            "aesthetic",
+            "feeling",
+            "action",
+            "ideaful",
+            "value-driven",
+            "anxiety",
+            "moody"
+        ],
+        "shortDescription": {
+            "en": "Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors. Open: High scorers are creative, into discovering new things, and have a strong internal life characterized by extended musings over concepts and experiences. Low scorers are more conventional, with narrower interests, and are more down to earth.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.  Open: Imagination. To imaginative individuals, the real world is often too plain and ordinary. High scorers on this scale use fantasy as a way of creating a richer, more interesting world. Low scorers are on this scale are more oriented to facts than fantasy. Your level of imagination is low.\nArtistic Interests. High scorers on this scale love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. They are not necessarily artistically trained nor talented, although many will be. The defining features of this scale are interest in, and appreciation of natural and artificial beauty. Low scorers lack aesthetic sensitivity and interest in the arts. Your level of artistic interests is low.\nEmotionality. Persons high on Emotionality have good access to and awareness of their own feelings. Low scorers are less aware of their feelings and tend not to express their emotions openly. Your level of emotionality is low.\nAdventurousness. High scorers on adventurousness are eager to try new activities, travel to foreign lands, and experience different things. They find familiarity and routine boring, and will take a new route home just because it is different. Low scorers tend to feel uncomfortable with change and prefer familiar routines. Your level of adventurousness is low.\nIntellect. Intellect and artistic interests are the two most important, central aspects of openness to experience. High scorers on Intellect love to play with ideas. They are open-minded to new and unusual ideas, and like to debate intellectual issues. They enjoy riddles, puzzles, and brain teasers. Low scorers on Intellect prefer dealing with either people or things rather than ideas. They regard intellectual exercises as a waste of time. Intellect should not be equated with intelligence. Intellect is an intellectual style, not an intellectual ability, although high scorers on Intellect score slightly higher than low-Intellect individuals on standardized intelligence tests. Your level of intellect is low.\nLiberalism. Psychological liberalism refers to a readiness to challenge authority, convention, and traditional values. In its most extreme form, psychological liberalism can even represent outright hostility toward rules, sympathy for law-breakers, and love of ambiguity, chaos, and disorder. Psychological conservatives prefer the security and stability brought by conformity to tradition. Psychological liberalism and conservatism are not identical to political affiliation, but certainly incline individuals toward certain political parties. Your level of liberalism is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Neurotic & Open",
+            "de": "{GENDER, select,\n  male {Der Neurotische & Aufgeschlossene}\n  female {Die Neurotische & Aufgeschlossene}\n  other {Neurotisch & Aufgeschlossen}\n}"
+        }
+    },
+    "big5-extroverted_conscientious": {
+        "personalityType": {
+            "en": "Extroverted & Conscientious",
+            "de": "Gesellig & Gewissenhaft"
+        },
+        "traits": [
+            "self-disciplined",
+            "dutifully",
+            "energetic"
+        ],
+        "shortDescription": {
+            "en": "Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness. Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.  Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Extroverted & Conscientious",
+            "de": "{GENDER, select,\n  male {Der Gesellige & Gewissenhafte}\n  female {Die Gesellige & Gewissenhafte}\n  other {Gesellig & Gewissenhaft}\n}"
+        }
+    },
+    "big5-agreeable_conscientious": {
+        "personalityType": {
+            "en": "Agreeable & Conscientious",
+            "de": "Verträglich & Gewissenhaft"
+        },
+        "traits": [
+            "self-disciplined",
+            "dutifully",
+            "compassionate",
+            "cooperative"
+        ],
+        "shortDescription": {
+            "en": "Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too. Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.  Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Agreeable & Conscientious",
+            "de": "{GENDER, select,\n  male {Der Verträgliche & Gewissenhafte}\n  female {Die Verträgliche & Gewissenhafte}\n  other {Verträglich & Gewissenhaft}\n}"
+        }
+    },
+    "big5-neurotic_conscientious": {
+        "personalityType": {
+            "en": "Neurotic & Conscientious",
+            "de": "Neurotisch & Gewissenhaft"
+        },
+        "traits": [
+            "self-disciplined",
+            "dutifully",
+            "moody",
+            "anxiety"
+        ],
+        "shortDescription": {
+            "en": "Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors. Conscientious: Hard-working, dependable, and not afraid of some hard work? You might score highly in conscientiousness. If you go with the flow, make decisions impulsively, and in general like to wing it, odds are you’re a low scorer. Not surprisingly, these are the people who get ahead and often find themselves in leadership positions.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.  Conscientious: Self-Efficacy. Self-Efficacy describes confidence in one's ability to accomplish things. High scorers believe they have the intelligence (common sense), drive, and self-control necessary for achieving success. Low scorers do not feel effective, and may have a sense that they are not in control of their lives. Your level of self-efficacy is low.\nOrderliness. Persons with high scores on orderliness are well-organized. They like to live according to routines and schedules. They keep lists and make plans. Low scorers tend to be disorganized and scattered. Your level of orderliness is low.\nDutifulness. This scale reflects the strength of a person's sense of duty and obligation. Those who score high on this scale have a strong sense of moral obligation. Low scorers find contracts, rules, and regulations overly confining. They are likely to be seen as unreliable or even irresponsible. Your level of dutifulness is low.\nAchievement-Striving. Individuals who score high on this scale strive hard to achieve excellence. Their drive to be recognized as successful keeps them on track toward their lofty goals. They often have a strong sense of direction in life, but extremely high scores may be too single-minded and obsessed with their work. Low scorers are content to get by with a minimal amount of work, and might be seen by others as lazy. Your level of achievement striving is low.\nSelf-Discipline. Self-discipline-what many people call will-power-refers to the ability to persist at difficult or unpleasant tasks until they are completed. People who possess high self-discipline are able to overcome reluctance to begin tasks and stay on track despite distractions. Those with low self-discipline procrastinate and show poor follow-through, often failing to complete tasks-even tasks they want very much to complete. Your level of self-discipline is low.\nCautiousness. Cautiousness describes the disposition to think through possibilities before acting. High scorers on the Cautiousness scale take their time when making decisions. Low scorers often say or do first thing that comes to mind without deliberating alternatives and the probable consequences of those alternatives. Your level of cautiousness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Neurotic & Conscientious",
+            "de": "{GENDER, select,\n  male {Der Neurotische & Gewissenhafte}\n  female {Die Neurotische & Gewissenhafte}\n  other {Neurotisch & Gewissenhaft}\n}"
+        }
+    },
+    "big5-agreeable_extroverted": {
+        "personalityType": {
+            "en": "Agreeable & Extroverted",
+            "de": "Verträglich & Gesellig"
+        },
+        "traits": [
+            "energetic",
+            "compassionate",
+            "cooperative"
+        ],
+        "shortDescription": {
+            "en": "Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too. Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.  Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Agreeable & Extroverted",
+            "de": "{GENDER, select,\n  male {Der Verträgliche & Gesellige}\n  female {Die Verträgliche & Gesellige}\n  other {Verträglich & Gesellig}\n}"
+        }
+    },
+    "big5-neurotic_extroverted": {
+        "personalityType": {
+            "en": "Neurotic & Extroverted",
+            "de": "Neurotisch & Gesellig"
+        },
+        "traits": [
+            "energetic",
+            "anxiety",
+            "moody"
+        ],
+        "shortDescription": {
+            "en": "Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors. Extroverted: High scorers people light up around other people. They love the spotlight and are often the life of the party. They may also be thrill-seekers. People who score low in this trait tend to be quieter, more inward, and more deliberate. Being around people is a chore for them. Extraversion is also a strong indicator of leadership quality, like conscientiousness.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.  Extroverted: Friendliness. Friendly people genuinely like other people and openly demonstrate positive feelings toward others. They make friends quickly and it is easy for them to form close, intimate relationships. Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved. Your level of friendliness is low.\nGregariousness. Gregarious people find the company of others pleasantly stimulating and rewarding. They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds. They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale. Your level of gregariousness is low.\nAssertiveness. High scorers Assertiveness like to speak out, take charge, and direct the activities of others. They tend to be leaders in groups. Low scorers tend not to talk much and let others control the activities of groups. Your level of assertiveness is low.\nActivity Level. Active individuals lead fast-paced, busy lives. They move about quickly, energetically, and vigorously, and they are involved in many activities. People who score low on this scale follow a slower and more leisurely, relaxed pace. Your activity level is low.\nExcitement-Seeking. High scorers on this scale are easily bored without high levels of stimulation. They love bright lights and hustle and bustle. They are likely to take risks and seek thrills. Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking. Your level of excitement-seeking is low.\nCheerfulness. This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain). Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy. Low scorers are not as prone to such energetic, high spirits. Your level of positive emotions is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Neurotic & Extroverted",
+            "de": "{GENDER, select,\n  male {Der Neurotische & Gesellige}\n  female {Die Neurotische & Gesellige}\n  other {Neurotisch & Gesellig}\n}"
+        }
+    },
+    "big5-neurotic_agreeable": {
+        "personalityType": {
+            "en": "Neurotic & Agreeable",
+            "de": "Neurotisch & Verträglich"
+        },
+        "traits": [
+            "compassionate",
+            "cooperative",
+            "anxiety",
+            "moody"
+        ],
+        "shortDescription": {
+            "en": "Neurotic: People who score high in neuroticism aren’t especially happy. They’re vulnerable to frequent strong negative emotions — sadness, anger, fear — and are uncomfortable with themselves. Lower scores for this trait are calm, more stable, and not as likely to react extremely when presented with stressors. Agreeable: People who score highly for agreeableness are honesty, dependable, and generous, looking for the best in others. They’re often mild-mannered and consider loyalty an important value. Low scorers have low expectations of others, and may be sneaky as a result: They’re generally suspicious of other humans. Agreeable people folks tend to be happier because they gravitate toward the positive, though they’re not as likely to get ahead as some others who are dissatisfied with things as they are and think less of their peers. According to one study, agreeable people are more likely to have a looser walk, too.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Neurotic: Anxiety. The \"fight-or-flight\" system of the brain of anxious individuals is too easily and too often engaged. Therefore, people who are high in anxiety often feel like something dangerous is about to happen. They may be afraid of specific situations or be just generally fearful. They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless. Your level of anxiety is low.\nAnger. Persons who score high in Anger feel enraged when things do not go their way. They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated. This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on Agreeableness. Low scorers do not get angry often or easily. Your level of anger is low.\nDepression. This scale measures the tendency to feel sad, dejected, and discouraged. High scorers lack energy and have difficult initiating activities. Low scorers tend to be free from these depressive feelings. Your level of depression is low.\nSelf-Consciousness. Self-conscious individuals are sensitive about what others think of them. Their concern about rejection and ridicule cause them to feel shy and uncomfortable around others. They are easily embarrassed and often feel ashamed. Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy. Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them. They do not feel nervous in social situations. Your level or self-consciousness is low.\nImmoderation. Immoderate individuals feel strong cravings and urges that they have have difficulty resisting. They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences. Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge. Your level of immoderation is low.\nVulnerability. High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress. Low scorers feel more poised, confident, and clear-thinking when stressed. Your level of vulnerability is low.  Agreeable: Trust. A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous. Your level of trust is low.\nMorality. High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth. Your level of morality is low.\nAltruism. Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment. Your level of altruism is low.\nCooperation. Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way. Your level of cooperation is low.\nModesty. High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those who are willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people. Your level of modesty is low.\nSympathy. People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy. Your level of tender-mindedness is low.",
+            "de": ""
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Neurotic & Agreeable",
+            "de": "{GENDER, select,\n  male {Der Neurotische & Verträgliche}\n  female {Die Neurotische & Verträgliche}\n  other {Neurotisch & Verträglich}\n}"
+        }
+    }
+}
