@@ -1,0 +1,338 @@
+{
+    "name": {
+        "en": "DiSC",
+        "de": "DiSC"
+    },
+    "type": "internal",
+    "questions": [
+        {
+            "id": "q1",
+            "title": {
+                "en": "I would describe myself as strong-willed"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q2",
+            "title": {
+                "en": "I would describe myself as outspoken"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q3",
+            "title": {
+                "en": "I would describe myself as confident"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q4",
+            "title": {
+                "en": "I would describe myself as decisive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q5",
+            "title": {
+                "en": "I would describe myself as competitive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q6",
+            "title": {
+                "en": "I would describe myself as being a risk-taker"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q7",
+            "title": {
+                "en": "I would describe myself as impatient"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q8",
+            "title": {
+                "en": "I would describe myself as supportive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q9",
+            "title": {
+                "en": "I would describe myself as being a good listener"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q10",
+            "title": {
+                "en": "I would describe myself as controlled"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q11",
+            "title": {
+                "en": "I would describe myself as consistent"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q12",
+            "title": {
+                "en": "I would describe myself as tolerant"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q13",
+            "title": {
+                "en": "I would describe myself as someone who avoids conflict"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q14",
+            "title": {
+                "en": "I would describe myself as someone who dislikes change"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q15",
+            "title": {
+                "en": "I would describe myself as relaxed"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q16",
+            "title": {
+                "en": "I would describe myself as optimistic"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q17",
+            "title": {
+                "en": "I would describe myself as enthusiastic"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q18",
+            "title": {
+                "en": "I would describe myself as being a motivator"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q19",
+            "title": {
+                "en": "I would describe myself as energetic"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q20",
+            "title": {
+                "en": "I would describe myself as persuasive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q21",
+            "title": {
+                "en": "I would describe myself as planned"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q22",
+            "title": {
+                "en": "I would describe myself as analytical"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q23",
+            "title": {
+                "en": "I would describe myself as precise"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q24",
+            "title": {
+                "en": "I would describe myself as orderly"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q25",
+            "title": {
+                "en": "I would describe myself as accurate"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q26",
+            "title": {
+                "en": "I would describe myself as independent"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q27",
+            "title": {
+                "en": "I would describe myself as goal-oriented"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q28",
+            "title": {
+                "en": "I would describe myself as egocentric"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q29",
+            "title": {
+                "en": "I would describe myself as aggressive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q30",
+            "title": {
+                "en": "I would describe myself as inspiring"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q31",
+            "title": {
+                "en": "I would describe myself as being a talker"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q32",
+            "title": {
+                "en": "I would describe myself as people-oriented"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q33",
+            "title": {
+                "en": "I would describe myself as extroverted"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q34",
+            "title": {
+                "en": "I would describe myself as someone who likes attention"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q35",
+            "title": {
+                "en": "I would describe myself as animated"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q36",
+            "title": {
+                "en": "I would describe myself as trusting"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q37",
+            "title": {
+                "en": "I would describe myself as adaptable"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q38",
+            "title": {
+                "en": "I would describe myself as loyal"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q39",
+            "title": {
+                "en": "I would describe myself as patient"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q40",
+            "title": {
+                "en": "I would describe myself as detailed"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q41",
+            "title": {
+                "en": "I would describe myself as perfectionist"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q42",
+            "title": {
+                "en": "I would describe myself as considerate"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q43",
+            "title": {
+                "en": "I would describe myself as respectful"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q44",
+            "title": {
+                "en": "I would describe myself as sensitive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q45",
+            "title": {
+                "en": "I would describe myself as inquisitive"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q46",
+            "title": {
+                "en": "I would describe myself as careful"
+            },
+            "type": "likert"
+        },
+        {
+            "id": "q47",
+            "title": {
+                "en": "I would describe myself as worrisome"
+            },
+            "type": "likert"
+        }
+    ]
+}

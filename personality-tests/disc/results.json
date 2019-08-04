@@ -1,0 +1,504 @@
+{
+    "disc-di": {
+        "personalityType": {
+            "en": "Convincing & Daring",
+            "de": "Überzeugend & Mutig"
+        },
+        "traits": [
+            "results",
+            "enthusiasm",
+            "action"
+        ],
+        "shortDescription": {
+            "en": "The type of D is the most fast-paced. They are quick to act, perhaps too quick. They are often the most charming of Ds, probably because it’s easier for them to display more enthusiasm.\n\nIt can be a challenge to keep the focused attention of a person with this style. They are easily bored. They love ACTION.\n\nDi styles frequently need help not to act in way other styles will consider overly aggressive. They can come across as egotistic, manipulative or overpowering when they are stressed or just trying really hard to get people to take action.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "The type of D is the most fast-paced. They are quick to act, perhaps too quick. They are often the most charming of Ds, probably because it’s easier for them to display more enthusiasm.\n\nIt can be a challenge to keep the focused attention of a person with this style. They are easily bored. They love ACTION.\n\nDi styles frequently need help not to act in way other styles will consider overly aggressive. They can come across as egotistic, manipulative or overpowering when they are stressed or just trying really hard to get people to take action.",
+            "de": ""
+        },
+        "do": {
+            "en": "Action and Challenge\n• New challenges and problems to solve\n• Power and authority to take risks and make decisions • Freedom from routine and mundane tasks\n• Changing environments in which to work and play\n• Results, challenge, action\n• Favoritemagazine“Money”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Convincing & Daring",
+            "de": "{GENDER, select,\n  male {Der Überzeugende & Mutige}\n  female {Die Überzeugende & Mutige}\n  other {Überzeugend & Mutig}\n}"
+        }
+    },
+    "disc-id": {
+        "personalityType": {
+            "en": "Animated & Inspiring",
+            "de": "Animierend & Inspirierend"
+        },
+        "traits": [
+            "action",
+            "results",
+            "enthusiasm"
+        ],
+        "shortDescription": {
+            "en": "They want to see ACTION. They are excited by breakthroughs, by a fast pace, by seeing progress. They are energized by momentum. This means they can also be impulsive and even lash out if overly stressed.\n\nYou might spot your iD colleague fidgeting during long meetings, especially if he hasn’t been doing much talking. Or you might find her monopolizing the conversation. If so, she’s probably delivering her points with passion.\n\nGetting the iD to patiently look through a home budget might be a challenge. He might enjoy looking at savings goals, but not sticking to a budget for meals. She might come up with clever ways to track and celebrate meeting budget goals.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "How does iD differ from the i? They want to see ACTION. They are excited by breakthroughs, by a fast pace, by seeing progress. They are energized by momentum. This means they can also be impulsive and even lash out if overly stressed.\n\nYou might spot your iD colleague fidgeting during long meetings, especially if he hasn’t been doing much talking. Or you might find her monopolizing the conversation. If so, she’s probably delivering her points with passion.\n\nGetting the iD to patiently look through a home budget might be a challenge. He might enjoy looking at savings goals, but not sticking to a budget for meals. She might come up with clever ways to track and celebrate meeting budget goals.",
+            "de": ""
+        },
+        "do": {
+            "en": "Recognition and Approval\n• Flattery, praise, popularity, and acceptance • A friendly environment\n• Freedom from many rules and regulations • Other people available to handle details\n• Recognition, approval, visibility • Favorite magazine “People”",
+            "de": ""
+        },
+        "dont": {
+            "en": "More concerned with popularity than tangible results Inattentive to detail\nShort attention span\nOveruses gestures and facial expressions\nToo gullible and naïve\nImpulsive; exaggerates",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Animated & Inspiring",
+            "de": "{GENDER, select,\n  male {Der Animierende & Inspirierende}\n  female {Die Animierende & Inspirierende}\n  other {Animierend & Inspirierend}\n}"
+        }
+    },
+    "disc-i": {
+        "personalityType": {
+            "en": "Sociable & Lively",
+            "de": "Gesellig & Lebendig"
+        },
+        "traits": [
+            "enthusiasm",
+            "action",
+            "collaboration"
+        ],
+        "shortDescription": {
+            "en": "The the strong i personality is characterized by ENTHUSIASM. They remain upbeat and excited by possibilities a little to a lot longer than others. He might be seen energetically telling a story, with wild gesticulations, sound effects, or expressive metaphors and then lose the main point.\n\nThey are usually popular because of their social skills and charm. Sometimes they go overboard with praise and excitement, making others uncomfortable with their emotional candor. You can help out an i by helping her be more objective and making her follow through on assigned tasks.\n\nIf you’re in conflict with a high i, be sure to employ your active listening skills. Collaboration is important to him, so stress teamwork and new opportunities if able.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "The the strong i personality is characterized by ENTHUSIASM. They remain upbeat and excited by possibilities a little to a lot longer than others. He might be seen energetically telling a story, with wild gesticulations, sound effects, or expressive metaphors and then lose the main point.\n\nThey are usually popular because of their social skills and charm. Sometimes they go overboard with praise and excitement, making others uncomfortable with their emotional candor. You can help out an i by helping her be more objective and making her follow through on assigned tasks.\n\nIf you’re in conflict with a high i, be sure to employ your active listening skills. Collaboration is important to him, so stress teamwork and new opportunities if able.",
+            "de": ""
+        },
+        "do": {
+            "en": "Recognition and Approval\n• Flattery, praise, popularity, and acceptance • A friendly environment\n• Freedom from many rules and regulations • Other people available to handle details\n• Recognition, approval, visibility • Favorite magazine “People”",
+            "de": ""
+        },
+        "dont": {
+            "en": "More concerned with popularity than tangible results Inattentive to detail\nShort attention span\nOveruses gestures and facial expressions\nToo gullible and naïve\nImpulsive; exaggerates",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Sociable & Lively",
+            "de": "{GENDER, select,\n  male {Der Gesellige & Lebendige}\n  female {Die Gesellige & Lebendige}\n  other {Gesellig & Lebendig}\n}"
+        }
+    },
+    "disc-is": {
+        "personalityType": {
+            "en": "Upbeat & Lighthearted",
+            "de": "Fröhlich & Unbeschwert"
+        },
+        "traits": [
+            "collaboration",
+            "enthusiasm",
+            "support"
+        ],
+        "shortDescription": {
+            "en": "This iS the calmer and moderately-paced of the i styles. They value COLLABORATION.\n\nIf you want someone to remind you about the goodness in people, this is the style to seek out. They are warm, friendly, and accepting.\n\nYou might notice an iS colleague suggesting adding another person to your deliberations or collaborating with another department. They probably volunteer for the United Way campaign or other fundraising activities. She will have a very hard time firing someone.\n\nThe iS influences others by being supportive and empathetic.  Teamwork seems to come naturally. However, he tends to take criticism personally and will avoid conflict. She doesn’t like having to pressure someone. He uses carrots more often than sticks.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "This is the calmer and moderately-paced of the i styles. They value COLLABORATION.\n\nIf you want someone to remind you about the goodness in people, this is the style to seek out. They are warm, friendly, and accepting.\n\nYou might notice an iS colleague suggesting adding another person to your deliberations or collaborating with another department. They probably volunteer for the United Way campaign or other fundraising activities. She will have a very hard time firing someone.\n\nThe iS influences others by being supportive and empathetic.  Teamwork seems to come naturally. However, he tends to take criticism personally and will avoid conflict. She doesn’t like having to pressure someone. He uses carrots more often than sticks.",
+            "de": ""
+        },
+        "do": {
+            "en": "Recognition and Approval\n• Flattery, praise, popularity, and acceptance • A friendly environment\n• Freedom from many rules and regulations • Other people available to handle details\n• Recognition, approval, visibility • Favorite magazine “People”",
+            "de": ""
+        },
+        "dont": {
+            "en": "More concerned with popularity than tangible results Inattentive to detail\nShort attention span\nOveruses gestures and facial expressions\nToo gullible and naïve\nImpulsive; exaggerates",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Upbeat & Lighthearted",
+            "de": "{GENDER, select,\n  male {Der Fröhliche & Unbeschwerte}\n  female {Die Fröhliche & Unbeschwerte}\n  other {Fröhlich & Unbeschwert}\n}"
+        }
+    },
+    "disc-si": {
+        "personalityType": {
+            "en": "Supportive & Agreeable",
+            "de": "Unterstützend & Angenehm"
+        },
+        "traits": [
+            "collaboration",
+            "support",
+            "enthusiasm"
+        ],
+        "shortDescription": {
+            "en": "People with Si style are even more strongly focused on COLLABORATION.\n\nIn the workplace you’ll find the Si involving others in their decisions and actions. They might be taking on more than they can handle because they dislike saying “no”. They are probably well-liked and know everyone.\n\nIf you want to support an Si, you might help them by addressing conflicts directly. They really dislike upsetting people and have a hard time seeing that conflict can be part of healthy collaboration. If you disagree with them, let them know that the disagreement won’t end your personal or professional relationship.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "How does Si differ from the S? They are even more strongly focused on COLLABORATION.\n\nIn the workplace you’ll find the Si involving others in their decisions and actions. They might be taking on more than they can handle because they dislike saying “no”. They are probably well-liked and know everyone.\n\nIf you want to support an Si, you might help them by addressing conflicts directly. They really dislike upsetting people and have a hard time seeing that conflict can be part of healthy collaboration. If you disagree with them, let them know that the disagreement won’t end your personal or professional relationship.",
+            "de": ""
+        },
+        "do": {
+            "en": "Relationships and Appreciation\n• Recognition for loyalty and dependability\n• Safety and security\n• No sudden changes in procedure or lifestyle • Activities they can start and finish\n• Relationships, appreciation, security\n• Favorite amagazine “Parents”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Resistant to change\nLoyal team worker\nSensitive to criticism and confrontation Difficulty establishing priorities Difficulty making quick decisions Lacks decisiveness, enthusiasm, energy May sacrifice results for harmony",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Supportive & Agreeable",
+            "de": "{GENDER, select,\n  male {Der Unterstützende & Angenehme}\n  female {Die Unterstützende & Angenehme}\n  other {Unterstützend & Angenehm}\n}"
+        }
+    },
+    "disc-s": {
+        "personalityType": {
+            "en": "Pleasantly calm & Accommodating of others",
+            "de": "Ruhig & Behaglich für Andere"
+        },
+        "traits": [
+            "support",
+            "stability",
+            "collaboration"
+        ],
+        "shortDescription": {
+            "en": "The strong S personality prioritizes SUPPORT. They tend to be great listeners, offering a friendly and open ear. Even though they can be accommodating to other styles, they prefer that you be sincere and dependable.\n\nIf you work or live with a strong S, you might wish they were open with their own opinions, less passive in their conflicts with you, and put on a more self-confident countenance. They can be overly cautious but others might appreciate their focus on providing a predictable and orderly environment.\n\nWhen things aren’t going well for you, the S friend can be a comfort. When you’re looking for thrills and want someone to go on adventures with you, another friend might be a better choice.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "If you just look at the three images on this page, you’ll see the the strong S personality prioritizes SUPPORT. They tend to be great listeners, offering a friendly and open ear. Even though they can be accommodating to other styles, they prefer that you be sincere and dependable.\n\nIf you work or live with a strong S, you might wish they were open with their own opinions, less passive in their conflicts with you, and put on a more self-confident countenance. They can be overly cautious but others might appreciate their focus on providing a predictable and orderly environment.\n\nWhen things aren’t going well for you, the S friend can be a comfort. When you’re looking for thrills and want someone to go on adventures with you, another friend might be a better choice.",
+            "de": ""
+        },
+        "do": {
+            "en": "Relationships and Appreciation\n• Recognition for loyalty and dependability\n• Safety and security\n• No sudden changes in procedure or lifestyle • Activities they can start and finish\n• Relationships, appreciation, security\n• Favorite amagazine “Parents”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Resistant to change\nLoyal team worker\nSensitive to criticism and confrontation Difficulty establishing priorities Difficulty making quick decisions Lacks decisiveness, enthusiasm, energy May sacrifice results for harmony",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Pleasantly calm & Accommodating of others",
+            "de": "{GENDER, select,\n  male {Der Ruhige & Behagliche}\n  female {Die Ruhige & Behagliche}\n  other {Ruhig & Behaglich für Andere}\n}"
+        }
+    },
+    "disc-sc": {
+        "personalityType": {
+            "en": "Modest & Unassuming",
+            "de": "Bescheiden & Zurückhaltend"
+        },
+        "traits": [
+            "stability",
+            "support",
+            "accuracy"
+        ],
+        "shortDescription": {
+            "en": "This type of S is the least fast-paced. They place a high priority on STABILITY, so much so that they are sometimes seen as inflexible. They are really just very cautious and don’t like surprises.\n\nLike the other S styles, they can be slow to speak up or to take the lead. They are less likely to be emotional when stressed by time pressure or uncertainty, however. But just because they comply with your wishes, you shouldn’t assume they agree with you.\n\nYou might think of your SC colleague as a workhorse because of their reliability, their even temperament, diplomacy, and self-control. People might assume that their work will be accurate, systematic and thorough and they’d probably be right.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "This type of S is the least fast-paced. They place a high priority on STABILITY, so much so that they are sometimes seen as inflexible. They are really just very cautious and don’t like surprises.\n\nLike the other S styles, they can be slow to speak up or to take the lead. They are less likely to be emotional when stressed by time pressure or uncertainty, however. But just because they comply with your wishes, you shouldn’t assume they agree with you.\n\nYou might think of your SC colleague as a workhorse because of their reliability, their even temperament, diplomacy, and self-control. People might assume that their work will be accurate, systematic and thorough and they’d probably be right.",
+            "de": ""
+        },
+        "do": {
+            "en": "Relationships and Appreciation\n• Recognition for loyalty and dependability\n• Safety and security\n• No sudden changes in procedure or lifestyle • Activities they can start and finish\n• Relationships, appreciation, security\n• Favorite amagazine “Parents”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Resistant to change\nLoyal team worker\nSensitive to criticism and confrontation Difficulty establishing priorities Difficulty making quick decisions Lacks decisiveness, enthusiasm, energy May sacrifice results for harmony",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Modest & Unassuming",
+            "de": "{GENDER, select,\n  male {Der Bescheidene & Zurückhaltende}\n  female {Die Bescheidene & Zurückhaltende}\n  other {Bescheiden & Zurückhaltend}\n}"
+        }
+    },
+    "disc-cs": {
+        "personalityType": {
+            "en": "Quiet & Self-controlled",
+            "de": "Leise & Selbstgesteuert"
+        },
+        "traits": [
+            "stability",
+            "accuracy",
+            "support"
+        ],
+        "shortDescription": {
+            "en": "How does CS differ from the C? They have a bit more accepting and warm manner and value STABILITY. They like outcomes to be reliable, whether that means the actions of a friend or the performance of their stove.\n\nThe CS colleague probably has an orderly desk and office. They like to be well-prepared, taking time to refine their ideas and plan before taking action. They tend to be even-tempered and patient with people or situations others find difficult, but can withdraw if they do become uncomfortable.\n\nYou probably won’t get a CS to take a spontaneous trip to a vacation spot or to the movies, especially if you try applying pressure. But they will try to help you out if you need their expertise.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "How does CS differ from the C? They have a bit more accepting and warm manner and value STABILITY. They like outcomes to be reliable, whether that means the actions of a friend or the performance of their stove.\n\nThe CS colleague probably has an orderly desk and office. They like to be well-prepared, taking time to refine their ideas and plan before taking action. They tend to be even-tempered and patient with people or situations others find difficult, but can withdraw if they do become uncomfortable.\n\nYou probably won’t get a CS to take a spontaneous trip to a vacation spot or to the movies, especially if you try applying pressure. But they will try to help you out if you need their expertise.",
+            "de": ""
+        },
+        "do": {
+            "en": "Protection and Security\n• Standards and high quality\n• Limited social interaction\n• Detailed tasks\n• Logical organization of information • Being right, quality\n• Favorite magazine “Consumer Reports”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Need to have clear boundaries\nBound by procedures and policies\nGets bogged down in details\nPrefer not to verbalize feelings\nWill give in rather than argue Remembers negatives; suspicious of others Easily depressed",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Quiet & Self-controlled",
+            "de": "{GENDER, select,\n  male {Der Leise & Selbstgesteuerte}\n  female {Die Leise & Selbstgesteuerte}\n  other {Leise & Selbstgesteuert}\n}"
+        }
+    },
+    "disc-c": {
+        "personalityType": {
+            "en": "Analytical & Private",
+            "de": "Analytisch & Vertraulich"
+        },
+        "traits": [
+            "accuracy",
+            "stability",
+            "challenge"
+        ],
+        "shortDescription": {
+            "en": "The strong C personality prioritizes ACCURACY. They might carefully review your work or project, give very specific feedback, and do it all with a detached air. They don’t like being wrong and can focus all their attention on data rather than on people.\n\nThe strong C can be hard to get to know well. They tend to display personal restraint that conceals their reactions and emotions. If you’re looking for sympathy or a sensation ear, you might want to turn elsewhere. Strong displays of emotion can make them uncomfortable.\n\nOften they need to be challenged to acknowledge the feelings of others and to look beyond the data.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "The the strong C personality prioritizes ACCURACY. They might carefully review your work or project, give very specific feedback, and do it all with a detached air. They don’t like being wrong and can focus all their attention on data rather than on people.\n\nThe strong C can be hard to get to know well. They tend to display personal restraint that conceals their reactions and emotions. If you’re looking for sympathy or a sensation ear, you might want to turn elsewhere. Strong displays of emotion can make them uncomfortable.\n\nOften they need to be challenged to acknowledge the feelings of others and to look beyond the data.",
+            "de": ""
+        },
+        "do": {
+            "en": "Protection and Security\n• Standards and high quality\n• Limited social interaction\n• Detailed tasks\n• Logical organization of information • Being right, quality\n• Favorite magazine “Consumer Reports”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Need to have clear boundaries\nBound by procedures and policies\nGets bogged down in details\nPrefer not to verbalize feelings\nWill give in rather than argue Remembers negatives; suspicious of others Easily depressed",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Analytical & Private",
+            "de": "{GENDER, select,\n  male {Der Analytische & Vertrauliche}\n  female {Die Analytische & Vertrauliche}\n  other {Analytisch & Vertraulich}\n}"
+        }
+    },
+    "disc-cd": {
+        "personalityType": {
+            "en": "Unsentimental & Matter-of-fact",
+            "de": "Unempfindlich & Sachlich"
+        },
+        "traits": [
+            "challenge",
+            "accuracy",
+            "results"
+        ],
+        "shortDescription": {
+            "en": "This type of CD is the least cautious of the C styles. They enjoy a good CHALLENGE.\n\nThe CD-style person can come across as skeptical, determined, cold, strict, or stubborn. They expect others to be competent at their jobs. And they won’t accept new ideas without first asking a lot of questions.\n\nThey are blunt and critical and assume that their listeners can appreciate that. They are often blind to the needs or feelings of others. But they also avoid letting their own emotions get in the way of making rational decisions. Their goal is getting the desired results.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "This type of CD is the least cautious of the C styles. They enjoy a good CHALLENGE.\n\nThe CD-style person can come across as skeptical, determined, cold, strict, or stubborn. They expect others to be competent at their jobs. And they won’t accept new ideas without first asking a lot of questions.\n\nThey are blunt and critical and assume that their listeners can appreciate that. They are often blind to the needs or feelings of others. But they also avoid letting their own emotions get in the way of making rational decisions. Their goal is getting the desired results.",
+            "de": ""
+        },
+        "do": {
+            "en": "Protection and Security\n• Standards and high quality\n• Limited social interaction\n• Detailed tasks\n• Logical organization of information • Being right, quality\n• Favorite magazine “Consumer Reports”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Need to have clear boundaries\nBound by procedures and policies\nGets bogged down in details\nPrefer not to verbalize feelings\nWill give in rather than argue Remembers negatives; suspicious of others Easily depressed",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Unsentimental & Matter-of-fact",
+            "de": "{GENDER, select,\n  male {Der Unempfindliche & Sachliche}\n  female {Die Unempfindliche & Sachliche}\n  other {Unempfindlich & Sachlich}\n}"
+        }
+    },
+    "disc-dc": {
+        "personalityType": {
+            "en": "Resolute & Strong-willed",
+            "de": "Entschlossen & Zielstrebig"
+        },
+        "traits": [
+            "challenge",
+            "results",
+            "accuracy"
+        ],
+        "shortDescription": {
+            "en": "They are even more strongly focused on the CHALLENGE. Challenges energize them. They love to explore options and give them all a good evaluation.\n\nThis style can drive you crazy with questions. In fact, like strong Cs they can be overly blunt or sarcastic. While they probably don’t mean to, they can even be condescending and make harsh judgements.\n\nIf you want to support a DC, you might help them understand the feelings of others. They can struggle with group activities or  tasks that seem routine. Remind them that there’s a fascinating challenge involved in working with others. Routine tasks can give them a break from having to find the most advantageous strategies and allow their brains to flex creativity.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "How does DC differ from D? They are even more strongly focused on the CHALLENGE. Challenges energize them. They love to explore options and give them all a good evaluation.\n\nThis style can drive you crazy with questions. In fact, like strong Cs they can be overly blunt or sarcastic. While they probably don’t mean to, they can even be condescending and make harsh judgements.\n\nIf you want to support a DC, you might help them understand the feelings of others. They can struggle with group activities or  tasks that seem routine. Remind them that there’s a fascinating challenge involved in working with others. Routine tasks can give them a break from having to find the most advantageous strategies and allow their brains to flex creativity.",
+            "de": ""
+        },
+        "do": {
+            "en": "Action and Challenge\n• New challenges and problems to solve\n• Power and authority to take risks and make decisions • Freedom from routine and mundane tasks\n• Changing environments in which to work and play\n• Results, challenge, action\n• Favoritemagazine“Money”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Resolute & Strong-willed",
+            "de": "{GENDER, select,\n  male {Der Entschlossene & Zielstrebige}\n  female {Die Entschlossene & Zielstrebige}\n  other {Entschlossen & Zielstrebig}\n}"
+        }
+    },
+    "disc-d": {
+        "personalityType": {
+            "en": "Forceful & Direct",
+            "de": "Durchsetzungsfähig & Direkt"
+        },
+        "traits": [
+            "results",
+            "action",
+            "challenge"
+        ],
+        "shortDescription": {
+            "en": "If you just look at the three images on this page, you’ll see the the strong D personality prioritized RESULTS. They want to see bottom-line results. If you’re playing a game, even a friendly social game, they are going to want to win. They looking for ways to maximize their efficiencies and their results. But they don’t want to be given an easy win. They also love a challenge.\n\nIf you work or live with a strong D you might wish they were more patient and less demanding. They struggle to show empathy. You might have to explain other people to them and ask them to show more patience.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "If you just look at the three images on this page, you’ll see the the strong D personality prioritized RESULTS. They want to see bottom-line results. If you’re playing a game, even a friendly social game, they are going to want to win. They looking for ways to maximize their efficiencies and their results. But they don’t want to be given an easy win. They also love a challenge.\n\nIf you work or live with a strong D you might wish they were more patient and less demanding. They struggle to show empathy. You might have to explain other people to them and ask them to show more patience.",
+            "de": ""
+        },
+        "do": {
+            "en": "Action and Challenge\n• New challenges and problems to solve\n• Power and authority to take risks and make decisions • Freedom from routine and mundane tasks\n• Changing environments in which to work and play\n• Results, challenge, action\n• Favoritemagazine“Money”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Forceful & Direct",
+            "de": "{GENDER, select,\n  male {Der Durchsetzungsfähige & Direkte}\n  female {Die Durchsetzungsfähige & Direkte}\n  other {Durchsetzungsfähig & Direkt}\n}"
+        }
+    },
+    "disc-ds": {
+        "personalityType": {
+            "en": "Structured & Direct",
+            "de": "Strukturiert & Direkt"
+        },
+        "traits": [
+            "structure",
+            "routine",
+            "direct",
+            "assertiveness"
+        ],
+        "shortDescription": {
+            "en": "A person with the \"Ds\" or \"Sd\" personality type appreciates structure and routine, but tends to be direct and assertive when it comes to making decisions. They are natural leaders that prefer to have control over a situation but balance their competitive spirit with fairness, loyalty, and support for their close peers. Someone with this personality type will usually have a reserved demeanor, but will speak confidently and articulately when asked a direct question. They also tend to focus on results and end goals in conversation, rather than details or analysis.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Someone with the Ds or Sd personality type places a high value on results, stability, and fairness. They are typically much more comfortable with a predictable routine than the unknown, and prefer to build trust with a small group of close friends rather than a large one. Ds/Sd's are strong, fair decision makers and can be excellent managers. Their natural ability to balance between results and empathy helps them play the role of a coach effectively, supporting people but also holding them accountable to their responsibilities.\n\nDs/Sd's lead very well within an existing structure, but may struggle in a more chaotic environment that requires flexibility and/or risk-taking. Under stress, Ds/Sd's can become controlling and at times impatient, and may close off to new ideas instead of exploring new ones. They may need the assistance of an I or C to help find new solutions to difficult problems.",
+            "de": ""
+        },
+        "do": {
+            "en": "Action and Challenge\n• New challenges and problems to solve\n• Power and authority to take risks and make decisions • Freedom from routine and mundane tasks\n• Changing environments in which to work and play\n• Results, challenge, action\n• Favoritemagazine“Money”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Structured & Direct",
+            "de": "{GENDER, select,  male {Der Strukturierte & Direkte}  female {Die Strukturierte & Direkte}  other {Strukturiert & Direkt}}"
+        }
+    },
+    "disc-ic": {
+        "personalityType": {
+            "en": "Open & Problem-Solver",
+            "de": "Offen & Unterstützend"
+        },
+        "traits": [
+            "ideaful",
+            "open",
+            "thoughful",
+            "outgoing",
+            "talkative"
+        ],
+        "shortDescription": {
+            "en": "A person with the Ic or Ci personality type is excited by new ideas and usually very open to new people. They love engaging in thoughtful discussion, and tend to have a collection of many deep interests.\n\nIc/Ci's also make connections more quickly than most - they enjoy finding mutual friends between two people that don't know each other and making links between two separate ideas. They are problem solvers with a big appetite for change and little tolerance for routine.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Ic/Ci's are usually outgoing and talkative, but prefer in-depth conversations about complex ideas over small talk. At times, they can lose track of time in a discussion and may be unaware that the other (perhaps more impatient) person would like to bring it to a conclusion.\n\nIc/Ci's care sincerely about what others think of them and also strive to be correct, often changing their mind when new information is available. They are primarily driven to discover new, exciting things and quickly become bored with too much structure and routine.\n\nIc/Ci's are excellent problem solvers, which helps them lead inventive and innovative teams. While they pursue big new ideas and experiments, they might ignore the need for clarity and structure, which can create chaos as their team grows. To scale up effectively, a Ic/Ci must set up clear limits and deadlines, and recognize that creativity often emerges from those limits.\n\nUnder stress, Ic/Ci's may bounce around between ideas without fully committing to any one of them. They also have a tendency to think out loud, which can lead to long debates that go in circles and never arrive at a clear conclusion.\n",
+            "de": ""
+        },
+        "do": {
+            "en": "Recognition and Approval\n• Flattery, praise, popularity, and acceptance • A friendly environment\n• Freedom from many rules and regulations • Other people available to handle details\n• Recognition, approval, visibility • Favorite magazine “People”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Open & Problem-Solver",
+            "de": "{GENDER, select,  male {Der Offene & Unterstützende}  female {Die Offene & Unterstützende}  other {Offen & Unterstützend}}"
+        }
+    },
+    "disc-sd": {
+        "personalityType": {
+            "en": "Structured & Direct",
+            "de": "Strukturiert & Direkt"
+        },
+        "traits": [
+            "structure",
+            "routine",
+            "direct",
+            "assertiveness"
+        ],
+        "shortDescription": {
+            "en": "A person with the \"Ds\" or \"Sd\" personality type appreciates structure and routine, but tends to be direct and assertive when it comes to making decisions. They are natural leaders that prefer to have control over a situation but balance their competitive spirit with fairness, loyalty, and support for their close peers. Someone with this personality type will usually have a reserved demeanor, but will speak confidently and articulately when asked a direct question. They also tend to focus on results and end goals in conversation, rather than details or analysis.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Someone with the Ds or Sd personality type places a high value on results, stability, and fairness. They are typically much more comfortable with a predictable routine than the unknown, and prefer to build trust with a small group of close friends rather than a large one. Ds/Sd's are strong, fair decision makers and can be excellent managers. Their natural ability to balance between results and empathy helps them play the role of a coach effectively, supporting people but also holding them accountable to their responsibilities.\n\nDs/Sd's lead very well within an existing structure, but may struggle in a more chaotic environment that requires flexibility and/or risk-taking. Under stress, Ds/Sd's can become controlling and at times impatient, and may close off to new ideas instead of exploring new ones. They may need the assistance of an I or C to help find new solutions to difficult problems.",
+            "de": ""
+        },
+        "do": {
+            "en": "Relationships and Appreciation\n• Recognition for loyalty and dependability\n• Safety and security\n• No sudden changes in procedure or lifestyle • Activities they can start and finish\n• Relationships, appreciation, security\n• Favorite amagazine “Parents”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Structured & Direct",
+            "de": "{GENDER, select,  male {Der Strukturierte & Direkte}  female {Die Strukturierte & Direkte}  other {Strukturiert & Direkt}}"
+        }
+    },
+    "disc-ci": {
+        "personalityType": {
+            "en": "Open & Problem-Solver",
+            "de": "Offen & Unterstützend"
+        },
+        "traits": [
+            "ideaful",
+            "open",
+            "thoughful",
+            "outgoing",
+            "talkative"
+        ],
+        "shortDescription": {
+            "en": "A person with the Ic or Ci personality type is excited by new ideas and usually very open to new people. They love engaging in thoughtful discussion, and tend to have a collection of many deep interests.\n\nIc/Ci's also make connections more quickly than most - they enjoy finding mutual friends between two people that don't know each other and making links between two separate ideas. They are problem solvers with a big appetite for change and little tolerance for routine.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Ic/Ci's are usually outgoing and talkative, but prefer in-depth conversations about complex ideas over small talk. At times, they can lose track of time in a discussion and may be unaware that the other (perhaps more impatient) person would like to bring it to a conclusion.\n\nIc/Ci's care sincerely about what others think of them and also strive to be correct, often changing their mind when new information is available. They are primarily driven to discover new, exciting things and quickly become bored with too much structure and routine.\n\nIc/Ci's are excellent problem solvers, which helps them lead inventive and innovative teams. While they pursue big new ideas and experiments, they might ignore the need for clarity and structure, which can create chaos as their team grows. To scale up effectively, a Ic/Ci must set up clear limits and deadlines, and recognize that creativity often emerges from those limits.\n\nUnder stress, Ic/Ci's may bounce around between ideas without fully committing to any one of them. They also have a tendency to think out loud, which can lead to long debates that go in circles and never arrive at a clear conclusion.\n",
+            "de": ""
+        },
+        "do": {
+            "en": "Protection and Security\n• Standards and high quality\n• Limited social interaction\n• Detailed tasks\n• Logical organization of information • Being right, quality\n• Favorite magazine “Consumer Reports”",
+            "de": ""
+        },
+        "dont": {
+            "en": "Oversteps authority Argumentative Dislikes the “routine” Self-absorbed\nHard to admit he/she is wrong Reluctant to delegate\nToo bossy; insensitive",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Open & Problem-Solver",
+            "de": "{GENDER, select,  male {Der Offene & Unterstützende}  female {Die Offene & Unterstützende}  other {Offen & Unterstützend}}"
+        }
+    }
+}
