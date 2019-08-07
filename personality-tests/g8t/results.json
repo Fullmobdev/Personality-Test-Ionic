@@ -1,0 +1,466 @@
+{
+    "g8t_trait25": {
+        "personalityType": {
+            "en": "Self-confident demeanor",
+            "de": "Selbstsicheres Auftreten"
+        },
+        "traits": [
+            "g8t_trait25"
+        ],
+        "shortDescription": {
+            "en": "places great importance on authenticity.",
+            "de": "Eine Person mit dieser Ausprägung legt großen Wert auf Authentizität."
+        },
+        "longDescription": {
+            "en": "places great importance on authenticity. He/She admits to having insecurities and does not conceal them.",
+            "de": "Eine Person mit dieser Ausprägung legt großen Wert auf Authentizität. Sie steht zu Unsicherheiten und überspielt diese nicht."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Self-confident demeanor",
+            "de": "Selbstsicheres Auftreten"
+        }
+    },
+    "g8t_trait6": {
+        "personalityType": {
+            "en": "Tactical Skills",
+            "de": "Taktisches Können"
+        },
+        "traits": [
+            "g8t_trait6"
+        ],
+        "shortDescription": {
+            "en": "always attempts to react authentically.",
+            "de": "Eine Person mit dieser Ausprägung versucht stets authentisch zu reagieren."
+        },
+        "longDescription": {
+            "en": "always attempts to react authentically. In heated discussions and stressful situations, this often means strong emotional responses for this individual. Set strategies are frequently switched and are adapted to the current situation.",
+            "de": "Eine Person mit dieser Ausprägung versucht stets authentisch zu reagieren. In hitzigen Diskussionen und stressigen Situationen gehören bei der Person oftmals starke Emotionen dazu. Zurechtgelegte Strategien werden dabei häufig gewechselt und der aktuellen Situation angepasst."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Tactical Skills",
+            "de": "Taktisches Können"
+        }
+    },
+    "g8t_trait29": {
+        "personalityType": {
+            "en": "Customer Orientation",
+            "de": "Kundenorientierung"
+        },
+        "traits": [
+            "g8t_trait29"
+        ],
+        "shortDescription": {
+            "en": "usually considers the search for a solution for the customer’s problem redundant.",
+            "de": "Eine Person mit dieser Ausprägung hält das Suchen einer passenden Lösung für das Problem von Kunden meist für überflüssig."
+        },
+        "longDescription": {
+            "en": "usually considers the search for a solution for the customer’s problem redundant. He/She is convinced that if a product is good, the customer’s wishes and needs should be based on the product.",
+            "de": "Eine Person mit dieser Ausprägung hält das Suchen einer passenden Lösung für das Problem von Kunden meist für überflüssig. Ist der Meinung, dass sich bei einem guten Produkt die Wünsche und Bedürfnisse des Kunden nach dem Produkt richten sollten."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Customer Orientation",
+            "de": "Kundenorientierung"
+        }
+    },
+    "g8t_trait20": {
+        "personalityType": {
+            "en": "Empathy",
+            "de": "Einfühlungsvermögen"
+        },
+        "traits": [
+            "g8t_trait20"
+        ],
+        "shortDescription": {
+            "en": "tries not to be impacted by the emotional situation of other individuals.",
+            "de": "Eine Person mit dieser Ausprägung versucht sich nicht durch die emotionale Lage anderer Menschen beeinflussen zu lassen."
+        },
+        "longDescription": {
+            "en": "tries not to be impacted by the emotional situation of other individuals. This individual does not consider injustices against others obstacles for their work.",
+            "de": "Eine Person mit dieser Ausprägung versucht sich nicht durch die emotionale Lage anderer Menschen beeinflussen zu lassen. Ungerechtigkeiten gegenüber anderen empfindet die Person als nicht hinderlich für ihre Arbeit."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Empathy",
+            "de": "Einfühlungsvermögen"
+        }
+    },
+    "g8t_trait27": {
+        "personalityType": {
+            "en": "Communications Style",
+            "de": "Kommunikationsstil"
+        },
+        "traits": [
+            "g8t_trait27"
+        ],
+        "shortDescription": {
+            "en": "considers it important to get down to business in conversations and to conclude them quickly.",
+            "de": "Einer Person mit dieser Ausprägung ist es wichtig in Gesprächen schnell zu einem Ergebnis und Abschluss zu kommen."
+        },
+        "longDescription": {
+            "en": "considers it important to get down to business in conversations and to conclude them quickly. He/She is of the opinion that in most cases, small talk and compliance with communications rules are just roadblocks.",
+            "de": "Einer Person mit dieser Ausprägung ist es wichtig in Gesprächen schnell zu einem Ergebnis und Abschluss zu kommen. Findet, dass Floskeln und Kommunikationsregeln dem meist nur im Weg stehen."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Communications Style",
+            "de": "Kommunikationsstil"
+        }
+    },
+    "g8t_trait13": {
+        "personalityType": {
+            "en": "Handling of Ambiguities",
+            "de": "Umgang mit Mehrdeutigkeiten"
+        },
+        "traits": [
+            "g8t_trait13"
+        ],
+        "shortDescription": {
+            "en": "considers it important to ensure situations are always transparent and clear.",
+            "de": "Einer Person mit dieser Ausprägung ist es wichtig stets für klare und eindeutige Situationen zu sorgen."
+        },
+        "longDescription": {
+            "en": "considers it important to ensure situations are always transparent and clear. This individual tries to avoid conflicting situations given that in his/her opinion, they are a mere waste of time and cause unnecessary stress.",
+            "de": "Einer Person mit dieser Ausprägung ist es wichtig stets für klare und eindeutige Situationen zu sorgen. Widersprüchliche Situationen versucht diese Person zu vermeiden, da diese ihrer Meinung nach nur aufhalten und unnötigen Stress verursachen."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Handling of Ambiguities",
+            "de": "Umgang mit Mehrdeutigkeiten"
+        }
+    },
+    "g8t_trait17": {
+        "personalityType": {
+            "en": "Decision-making capabilities under time constraints",
+            "de": "Entscheidungsfähigkeit unter Zeitdruck"
+        },
+        "traits": [
+            "g8t_trait17"
+        ],
+        "shortDescription": {
+            "en": "makes the best decisions when there is plenty of time to contemplate the problems.",
+            "de": "Eine Person mit dieser Ausprägung trifft die besten Entscheidungen, wenn genügend Zeit zum Nachdenken ist."
+        },
+        "longDescription": {
+            "en": "makes the best decisions when there is plenty of time to contemplate the problems. He/She refuses to make decisions under time constraints to minimize the risk of errors.",
+            "de": "Eine Person mit dieser Ausprägung trifft die besten Entscheidungen, wenn genügend Zeit zum Nachdenken ist. Lehnt es ab unter Zeitdruck Entscheidungen zu fällen. Möchte so das Fehlerrisiko minimieren."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Decision-making capabilities under time constraints",
+            "de": "Entscheidungsfähigkeit unter Zeitdruck"
+        }
+    },
+    "g8t_trait30": {
+        "personalityType": {
+            "en": "Handling of Success and Failure",
+            "de": "Umgang mit Erfolg und Misserfolg"
+        },
+        "traits": [
+            "g8t_trait30"
+        ],
+        "shortDescription": {
+            "en": "sees his/her own career as the result of his/her own efforts.",
+            "de": "Eine Person mit dieser Ausprägung sieht die eigene Karriere als Ergebnis eigener Anstrengungen."
+        },
+        "longDescription": {
+            "en": "sees his/her own career as the result of his/her own efforts. This individual is proud to have achieved all of this without help and support and is convinced that any other individual can also attain their goals without support.",
+            "de": "Eine Person mit dieser Ausprägung sieht die eigene Karriere als Ergebnis eigener Anstrengungen. Die Person ist stolz dies ohne Unterstützung und Hilfe bewerkstelligt zu haben und der Überzeugung, dass jede Person ihre eigenen Ziele auch ohne Unterstützung erreichen kann."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Handling of Success and Failure",
+            "de": "Umgang mit Erfolg und Misserfolg"
+        }
+    },
+    "g8t_trait36": {
+        "personalityType": {
+            "en": "Human Intuition",
+            "de": "Menschenkenntnis"
+        },
+        "traits": [
+            "g8t_trait36"
+        ],
+        "shortDescription": {
+            "en": "uses his/her human intuition to identify strengths and weaknesses of individuals he/she has known for a long time.",
+            "de": "Eine Person mit dieser Ausprägung nutzt ihre Menschenkenntnis, um bei Personen, die sie lange kennt, Stärken und Schwächen zu identifizieren."
+        },
+        "longDescription": {
+            "en": "uses his/her human intuition to identify strengths and weaknesses of individuals he/she has known for a long time. He/She tries to assess the potential for a position after giving it some detailed thought. This individual is of the opinion that some individuals cannot be evaluated even after one has known them for a long time.",
+            "de": "Eine Person mit dieser Ausprägung nutzt ihre Menschenkenntnis, um bei Personen, die sie lange kennt, Stärken und Schwächen zu identifizieren. Versucht die Potenziale für eine Position nach genauer Überlegung einzuschätzen. Die Person ist der Meinung, dass sich manche Personen auch nach langer Zeit nicht beurteilen lassen."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Human Intuition",
+            "de": "Menschenkenntnis"
+        }
+    },
+    "g8t_trait14": {
+        "personalityType": {
+            "en": "Networking Skills",
+            "de": "Networking Skills"
+        },
+        "traits": [
+            "g8t_trait14"
+        ],
+        "shortDescription": {
+            "en": "checks, which cooperations will be profitable, in detail.",
+            "de": "Eine Person mit dieser Ausprägung prüft genau, bei welchen Kooperationen es sich lohnt, diese gewinnbringend einzugehen."
+        },
+        "longDescription": {
+            "en": "checks, which cooperations will be profitable, in detail. In some cases, this will produce one-time and beneficial cooperations.",
+            "de": "Eine Person mit dieser Ausprägung prüft genau, bei welchen Kooperationen es sich lohnt, diese gewinnbringend einzugehen. Vereinzelt ergeben sich daraus einmalige und gute Zusammenarbeiten."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Networking Skills",
+            "de": "Networking Skills"
+        }
+    },
+    "g8t_trait33": {
+        "personalityType": {
+            "en": "Conflict Management",
+            "de": "Konfliktmanagement"
+        },
+        "traits": [
+            "g8t_trait33"
+        ],
+        "shortDescription": {
+            "en": "considers conflicts as potential problematic factors that unnecessarily place the attainment of joint goals in jeopardy.",
+            "de": "Eine Person mit dieser Ausprägung betrachtet Konflikte als potentielle Störfaktoren, die das Erreichen gemeinschaftlicher Ziele unnötig aufs Spiel setzen."
+        },
+        "longDescription": {
+            "en": "considers conflicts as potential problematic factors that unnecessarily place the attainment of joint goals in jeopardy. This individual attempts to avert conflicts with the aim of not putting constructive solutions at risk.",
+            "de": "Eine Person mit dieser Ausprägung betrachtet Konflikte als potentielle Störfaktoren, die das Erreichen gemeinschaftlicher Ziele unnötig aufs Spiel setzen. Die Person versucht Konflikte zu vermeiden, um konstruktive Lösungen nicht zu gefährden."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Conflict Management",
+            "de": "Konfliktmanagement"
+        }
+    },
+    "g8t_trait7": {
+        "personalityType": {
+            "en": "Time-efficient Work",
+            "de": "Zeiteffizientes Arbeiten"
+        },
+        "traits": [
+            "g8t_trait7"
+        ],
+        "shortDescription": {
+            "en": "does not need any detailed plans to address assignments directly and without losing time.",
+            "de": "Eine Person mit dieser Ausprägung braucht keine detailreiche Planung, um sich Aufgaben direkt und ohne Zeitverlust zu widmen."
+        },
+        "longDescription": {
+            "en": "does not need any detailed plans to address assignments directly and without losing time. This individual usually considers detailed plans redundant and wants to keep an overview without relying on them.",
+            "de": "Eine Person mit dieser Ausprägung braucht keine detailreiche Planung, um sich Aufgaben direkt und ohne Zeitverlust zu widmen. Hält eine detailreiche Planung meist für überflüssig und möchte ohne diese den Überblick behalten."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Time-efficient Work",
+            "de": "Zeiteffizientes Arbeiten"
+        }
+    },
+    "g8t_trait1": {
+        "personalityType": {
+            "en": "Entrepreneurial Competency",
+            "de": "Unternehmerische Kompetenz"
+        },
+        "traits": [
+            "g8t_trait1"
+        ],
+        "shortDescription": {
+            "en": "considers his/her existing market knowledge sufficient to use it for the benefit of his/her own business.",
+            "de": "Eine Person mit dieser Ausprägung bewertet ihre vorhandenen Kenntnisse über den Markt als ausreichend, um diese gewinnbringend für das eigene Geschäft zu nutzen."
+        },
+        "longDescription": {
+            "en": "considers his/her existing market knowledge sufficient to use it for the benefit of his/her own business.",
+            "de": "Eine Person mit dieser Ausprägung bewertet ihre vorhandenen Kenntnisse über den Markt als ausreichend, um diese gewinnbringend für das eigene Geschäft zu nutzen."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Entrepreneurial Competency",
+            "de": "Unternehmerische Kompetenz"
+        }
+    },
+    "g8t_trait11": {
+        "personalityType": {
+            "en": "Negotiation Skills",
+            "de": "Verhandlungsgeschick"
+        },
+        "traits": [
+            "g8t_trait11"
+        ],
+        "shortDescription": {
+            "en": "considers it important to handle set goals flexibly in negotiations so that they can be directly adjusted to the courses of the conversation.",
+            "de": "Einer Person mit dieser Ausprägung ist es wichtig, gesetzte Ziele in Verhandlungen flexibel zu handhaben, um sie den Gesprächsverläufen entsprechend direkt anpassen zu können."
+        },
+        "longDescription": {
+            "en": "considers it important to handle set goals flexibly in negotiations so that they can be directly adjusted to the courses of the conversation. In this context, this individual is open to entertain different goals of the negotiating party.",
+            "de": "Einer Person mit dieser Ausprägung ist es wichtig, gesetzte Ziele in Verhandlungen flexibel zu handhaben, um sie den Gesprächsverläufen entsprechend direkt anpassen zu können. Die Person ist dabei offen für abweichende Ziele des Verhandlungspartners."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Negotiation Skills",
+            "de": "Verhandlungsgeschick"
+        }
+    },
+    "g8t_trait16": {
+        "personalityType": {
+            "en": "Enthusiasm",
+            "de": "Begeisterungsfähigkeit"
+        },
+        "traits": [
+            "g8t_trait16"
+        ],
+        "shortDescription": {
+            "en": "makes the current situation his/her priority.",
+            "de": "Für eine Person mit dieser Ausprägung hat die gegenwärtige Situation Priorität."
+        },
+        "longDescription": {
+            "en": "makes the current situation his/her priority. This person rarely wants to look into future plans in order to avoid slowing down the optimization of the current status.",
+            "de": "Für eine Person mit dieser Ausprägung hat die gegenwärtige Situation Priorität. Die Person möchte sich nur selten mit Zukunftsplänen beschäftigen, um die Optimierung des derzeitigen Zustands nicht aufzuhalten."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Enthusiasm",
+            "de": "Begeisterungsfähigkeit"
+        }
+    },
+    "g8t_trait18": {
+        "personalityType": {
+            "en": "Quality Management",
+            "de": "Qualitätsmanagement"
+        },
+        "traits": [
+            "g8t_trait18"
+        ],
+        "shortDescription": {
+            "en": "expects products and services to work as intended.",
+            "de": "Eine Person mit dieser Ausprägung erwartet von Produkten und im Service, dass sie funktionieren."
+        },
+        "longDescription": {
+            "en": "expects products and services to work as intended. This individual will be satisfied if this expectation is met.",
+            "de": "Eine Person mit dieser Ausprägung erwartet von Produkten und im Service, dass sie funktionieren. Die Person ist zufrieden, wenn dieser Anspruch erfüllt ist."
+        },
+        "do": {
+            "en": "",
+            "de": ""
+        },
+        "dont": {
+            "en": "",
+            "de": ""
+        },
+        "roleName": {
+            "en": "Quality Management",
+            "de": "Qualitätsmanagement"
+        }
+    }
+}

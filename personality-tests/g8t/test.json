@@ -1,0 +1,610 @@
+{
+    "name": {
+        "en": "G8T"
+    },
+    "type": "external",
+    "evaluate": "evaluateG8TExternalTest",
+    "fetchFn": "getG8TExternalTestQuestions",
+    "customTexts": {
+        "v_508": {
+            "en": "always know what is going on in business"
+        },
+        "v_510": {
+            "en": "use different leadership styles"
+        },
+        "v_512": {
+            "en": "am able to influence people"
+        },
+        "v_514": {
+            "en": "make good situational judgements"
+        },
+        "v_516": {
+            "en": "am inquisitive"
+        },
+        "v_518": {
+            "en": "remain diplomatic under pressure"
+        },
+        "v_520": {
+            "en": "manage tasks simultaneously"
+        },
+        "v_522": {
+            "en": "quickly adapt to challenges"
+        },
+        "v_524": {
+            "en": "seek ways to improve my career"
+        },
+        "v_526": {
+            "en": "directly start implementation of ideas"
+        },
+        "v_528": {
+            "en": "manage based on objectives"
+        },
+        "v_530": {
+            "en": "can motivate others to achieve their best"
+        },
+        "v_532": {
+            "en": "am highly self-organized"
+        },
+        "v_534": {
+            "en": "prefer to work with people who complement me"
+        },
+        "v_536": {
+            "en": "tolerate contradictions"
+        },
+        "v_538": {
+            "en": "can identify worthwhile investments"
+        },
+        "v_540": {
+            "en": "solve problems evaluating all feasible options"
+        },
+        "v_542": {
+            "en": "can compose teams with diverse people"
+        },
+        "v_544": {
+            "en": "like toying with visionary ideas"
+        },
+        "v_546": {
+            "en": "get positive feedback for my good decision making"
+        },
+        "v_548": {
+            "en": "think my strength is to make fast decisions "
+        },
+        "v_550": {
+            "en": "am only happy with the best"
+        },
+        "v_552": {
+            "en": "believe I can master all challenges"
+        },
+        "v_554": {
+            "en": "sense when someone needs motivation"
+        },
+        "v_556": {
+            "en": "easily recognize emotions of others"
+        },
+        "v_558": {
+            "en": "easily see steps needed for goal achievement"
+        },
+        "v_560": {
+            "en": "have profound market knowledge"
+        },
+        "v_562": {
+            "en": "prefer feasible solutions"
+        },
+        "v_564": {
+            "en": "am aware of future trends and their impact"
+        },
+        "v_566": {
+            "en": "can make visions come true"
+        },
+        "v_568": {
+            "en": "situatively think of emotions of others"
+        },
+        "v_570": {
+            "en": "focus on actions rather than analysis in critical times"
+        },
+        "v_572": {
+            "en": "can deal with paradoxical situations"
+        },
+        "v_574": {
+            "en": "can create innovative concepts"
+        },
+        "v_576": {
+            "en": "am asked for advice often"
+        },
+        "v_578": {
+            "en": "can infuse peers with my enthusiasm"
+        },
+        "v_580": {
+            "en": "include pleasant and unpleasant facts during analysis"
+        },
+        "v_582": {
+            "en": "believe in visions"
+        },
+        "v_584": {
+            "en": "can design organizational structures"
+        },
+        "v_586": {
+            "en": "also base my success on my abilities"
+        },
+        "v_588": {
+            "en": "enjoy  private goals when my job gets frustrating"
+        },
+        "v_590": {
+            "en": "make summaries of other's ideas to understand better"
+        },
+        "v_592": {
+            "en": "think about performance optimization even if a job is done"
+        },
+        "v_594": {
+            "en": "know how to ease the situation if a discussion becomes tense"
+        },
+        "v_596": {
+            "en": "know how to deal with organizations"
+        },
+        "v_598": {
+            "en": "want to be a trustworthy contact for my customers"
+        },
+        "v_600": {
+            "en": "help other solve their problems"
+        },
+        "v_602": {
+            "en": "have no problem with conflicting opinions"
+        },
+        "v_604": {
+            "en": "help someone saving their face in times of trouble"
+        },
+        "v_606": {
+            "en": "find regular evaluation of quality essential"
+        },
+        "v_608": {
+            "en": "try to find solutions for customer wishes"
+        },
+        "v_610": {
+            "en": "am good at shaping process of change"
+        },
+        "v_612": {
+            "en": "impress other people with my ideas"
+        },
+        "v_614": {
+            "en": "see conflicts with others as opportunity"
+        },
+        "v_616": {
+            "en": "have an optimal work-life balance"
+        },
+        "v_618": {
+            "en": "think that understanding and feeling is key to understanding people"
+        },
+        "v_620": {
+            "en": " have a precedent-setting management style"
+        },
+        "v_622": {
+            "en": "am good at judging the feasibility of a solution"
+        },
+        "v_624": {
+            "en": "find solutions to a problem interesting, when there is no regular solution"
+        },
+        "v_626": {
+            "en": "am interested in many things"
+        },
+        "v_628": {
+            "en": "see all changes as something positive"
+        },
+        "v_630": {
+            "en": "use different learning techniques"
+        },
+        "v_632": {
+            "en": "do not interrupt the person, if I consider his/her argument as wrong"
+        },
+        "v_634": {
+            "en": "I am a good tactician"
+        },
+        "v_636": {
+            "en": "know how to keep my team motivated, even during stress"
+        },
+        "v_638": {
+            "en": "am good at estimating whether I can handle a situation or not"
+        },
+        "v_640": {
+            "en": "have no problem laughing at myself"
+        },
+        "v_642": {
+            "en": "effectively use brainstorming"
+        },
+        "v_644": {
+            "en": "always beat the opposition"
+        },
+        "v_646": {
+            "en": "do not avoid conflicts with other people"
+        },
+        "v_648": {
+            "en": "recognize beneficial cooperations"
+        },
+        "v_650": {
+            "en": "lead other people with ease"
+        },
+        "v_652": {
+            "en": "am able to lead a business unit on my own"
+        },
+        "v_654": {
+            "en": "am very good at judging people"
+        },
+        "v_656": {
+            "en": "come to a decision quickly"
+        },
+        "v_658": {
+            "en": "have a comprehensive knowledge about organizations"
+        },
+        "v_660": {
+            "en": "initiate effective cooperations"
+        },
+        "v_662": {
+            "en": "compose teams of a diverse range of people"
+        },
+        "v_664": {
+            "en": "try to reassure my colleagues, even if feel uncomfortable"
+        },
+        "v_666": {
+            "en": "can live well with risks and uncertainty"
+        },
+        "v_668": {
+            "en": "can plan a process"
+        },
+        "v_670": {
+            "en": "think team spirit is very important for the teams I lead"
+        },
+        "v_672": {
+            "en": "base my decisions on rationality"
+        },
+        "v_674": {
+            "en": "can think globally"
+        },
+        "v_676": {
+            "en": "have negotiating skills"
+        },
+        "v_678": {
+            "en": "can find a solution even for difficult problems"
+        },
+        "v_680": {
+            "en": "always act in a confident manner"
+        },
+        "v_682": {
+            "en": "know my own strengths and weaknesses very well"
+        },
+        "v_684": {
+            "en": "sense a great sense of belonging within my team"
+        },
+        "v_686": {
+            "en": "can convince others of my plans"
+        },
+        "v_688": {
+            "en": "like pragmatic solutions"
+        },
+        "v_690": {
+            "en": "find a solution even when negotiations are difficult"
+        },
+        "v_692": {
+            "en": "Letting people finish speaking is important to me"
+        },
+        "v_694": {
+            "en": "Meeting customers' expectations is essential to me"
+        },
+        "v_696": {
+            "en": "appreciate other cultural backgrounds"
+        },
+        "v_698": {
+            "en": "process information correctly"
+        },
+        "v_700": {
+            "en": "If see that someone is troubled, offer my support"
+        },
+        "v_702": {
+            "en": " process information immediately after receiving them"
+        },
+        "v_704": {
+            "en": "often try new learning methods"
+        },
+        "v_706": {
+            "en": "compare my service by comparing with others"
+        },
+        "v_708": {
+            "en": "easily predict future trends"
+        },
+        "v_710": {
+            "en": "have a knowledge of processes"
+        },
+        "v_712": {
+            "en": "respect other peoples' opinions"
+        },
+        "v_714": {
+            "en": "can handle a lot of stress"
+        },
+        "v_716": {
+            "en": "treat all people respectfully"
+        },
+        "v_718": {
+            "en": "deal with other people easily"
+        },
+        "v_720": {
+            "en": "quickly recognize what is necessary to accomplish a goal"
+        },
+        "v_722": {
+            "en": "always plan my next career step carefully"
+        },
+        "v_724": {
+            "en": "am able to infuse other people with enthusiasm for my future plans"
+        },
+        "v_726": {
+            "en": "am robust"
+        },
+        "v_728": {
+            "en": "am good at spotting the talents of other individuals"
+        },
+        "v_730": {
+            "en": "try to assign challenging assignments to my employees"
+        },
+        "v_732": {
+            "en": "relax tense situations by laughing"
+        },
+        "v_734": {
+            "en": "can manage my assignments in less time than others"
+        },
+        "v_736": {
+            "en": "know how much work am able to handle and when need support"
+        },
+        "v_738": {
+            "en": "am able to lead a project"
+        },
+        "v_740": {
+            "en": "consider people's need for adapting to change during transformations"
+        },
+        "v_742": {
+            "en": "am more productive than others in the same amount of time"
+        },
+        "v_744": {
+            "en": "stay calm in face of new challenges"
+        },
+        "v_746": {
+            "en": "am able to bring negotiations to the required outcome"
+        },
+        "v_748": {
+            "en": "make sure that everyone gets the relevant information from me"
+        },
+        "v_750": {
+            "en": "use informal networks"
+        },
+        "v_752": {
+            "en": "am grateful for all the things that helped me in my career"
+        },
+        "v_754": {
+            "en": "am able to think across business units"
+        },
+        "v_756": {
+            "en": "am able to feel another person's emotion"
+        },
+        "v_758": {
+            "en": "don't need to intervene once I delegate assignments"
+        },
+        "v_760": {
+            "en": "always have alternative plans"
+        },
+        "v_762": {
+            "en": "anticipate customers' needs in advance"
+        },
+        "v_764": {
+            "en": "am not influenced by stress"
+        },
+        "v_766": {
+            "en": "ensure the integration of team members who are excluded"
+        },
+        "v_768": {
+            "en": "am humble"
+        },
+        "v_770": {
+            "en": "like designing future plans"
+        },
+        "v_772": {
+            "en": "do not lose the big picture under pressure"
+        },
+        "v_774": {
+            "en": "have knowledge about process control"
+        },
+        "v_776": {
+            "en": "know what attributes a person needs to fill a vacancy optimally"
+        },
+        "v_778": {
+            "en": "am able to understand organizational structures"
+        },
+        "v_780": {
+            "en": "try to live according to my values even when met with resistance"
+        },
+        "v_782": {
+            "en": "have a sense for market penetration"
+        },
+        "v_784": {
+            "en": "think that defining the positions and find a solution go hand in hand"
+        },
+        "v_786": {
+            "en": "am able to make good decisions even under time constraints"
+        },
+        "v_788": {
+            "en": "do not stop at the first available solution for a problem"
+        },
+        "v_790": {
+            "en": "am highly self-disciplined"
+        },
+        "v_792": {
+            "en": "help others to save face in critical times"
+        },
+        "v_794": {
+            "en": "am able to see through organizational structures"
+        },
+        "v_796": {
+            "en": "use body language to show my understanding in a meeting"
+        },
+        "v_798": {
+            "en": "decide at the right time"
+        },
+        "v_800": {
+            "en": "can see the hindrances during a negotiation"
+        },
+        "v_802": {
+            "en": "often think about innovative solutions to different problems"
+        },
+        "v_804": {
+            "en": "integrate information into my plans, as soon as receive it"
+        },
+        "v_806": {
+            "en": "see diversity as an added value"
+        },
+        "v_808": {
+            "en": "have future-oriented perspectives"
+        },
+        "v_810": {
+            "en": "negotiate with intuition and sensitivity"
+        },
+        "v_812": {
+            "en": "am open to changes"
+        },
+        "v_814": {
+            "en": "tolerate other views of life"
+        },
+        "v_816": {
+            "en": "can handle a large amount of work"
+        },
+        "v_818": {
+            "en": "am a good negotiator"
+        },
+        "v_820": {
+            "en": "am interested in assignments that require a feasible solution"
+        },
+        "v_822": {
+            "en": "easily recognize a person's potential"
+        },
+        "v_824": {
+            "en": "expect high quality all the time"
+        },
+        "v_826": {
+            "en": "love challenges"
+        },
+        "v_828": {
+            "en": "am greatly influence by my experiences during decision making"
+        },
+        "v_830": {
+            "en": "know organizational structures"
+        },
+        "v_832": {
+            "en": "support others in reaching their goals"
+        },
+        "v_834": {
+            "en": "pursue and achieve personal goals besides professional goals"
+        },
+        "v_836": {
+            "en": "always admit my own mistakes"
+        },
+        "v_838": {
+            "en": "get people's trust to make the right decision in many situations"
+        },
+        "v_840": {
+            "en": "am able to concentrate on the essential points of an assignment"
+        },
+        "v_842": {
+            "en": "am persistent in pursuing my goals"
+        },
+        "v_844": {
+            "en": "can renew a process"
+        },
+        "v_846": {
+            "en": "have business acumen"
+        },
+        "v_848": {
+            "en": "address critical aspects in straightforward and constructive ways"
+        },
+        "v_850": {
+            "en": "see mediation as a supportive tool for settling personal differences"
+        },
+        "v_852": {
+            "en": "walk the walk and not just talk the talk"
+        },
+        "v_854": {
+            "en": "get angry if another person is treated badly"
+        },
+        "v_856": {
+            "en": "take the load off other people"
+        },
+        "v_858": {
+            "en": "continuously improve the quality of products and services"
+        },
+        "v_860": {
+            "en": "remain calm and balancedduring conflicting requirements"
+        },
+        "v_862": {
+            "en": "find allegiance of all team members  very important"
+        },
+        "v_864": {
+            "en": "accept other people's values"
+        },
+        "v_866": {
+            "en": "do not need support in leadership issues"
+        },
+        "v_868": {
+            "en": "am so successful because fight for my goals"
+        },
+        "v_870": {
+            "en": "make good decisions even if only have incomplete information"
+        },
+        "v_872": {
+            "en": "solve problems using my positive attitude"
+        },
+        "v_874": {
+            "en": "insist on my leadership claim"
+        },
+        "v_876": {
+            "en": "take delight in learning something new, besides my job"
+        },
+        "v_878": {
+            "en": "am able to plan and draft things on my own"
+        },
+        "v_880": {
+            "en": "have comprehensive knowledge about my business"
+        },
+        "v_882": {
+            "en": "take customers' criticisms seriously"
+        },
+        "v_884": {
+            "en": "am able to arrange processes effectively"
+        },
+        "v_886": {
+            "en": "am a humorous person"
+        },
+        "v_888": {
+            "en": "try to inspire my colleagues and team"
+        },
+        "v_890": {
+            "en": "support my team members as a leader"
+        },
+        "v_892": {
+            "en": "am able to adapt to new situations"
+        },
+        "v_894": {
+            "en": "do not wait for opportunities; create them"
+        },
+        "v_896": {
+            "en": "implement highly efficient processes"
+        },
+        "v_898": {
+            "en": "do not trigger disputes"
+        },
+        "v_900": {
+            "en": "will not show insecurity"
+        },
+        "v_902": {
+            "en": "also solve problems that are not obvious"
+        },
+        "v_904": {
+            "en": "am quickly aware of the type of person I am dealing with"
+        },
+        "v_906": {
+            "en": "get bored by always using the same solution"
+        }
+    }
+}
