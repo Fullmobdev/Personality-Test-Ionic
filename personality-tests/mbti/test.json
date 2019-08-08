@@ -1,0 +1,1409 @@
+{
+    "name": {
+        "en": "Myers–Briggs Type Indicator",
+        "de": "Myers–Briggs Typen Indikator"
+    },
+    "type": "internal",
+    "questions": [
+        {
+            "id": "q1",
+            "title": {
+                "en": "At a party do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Interact with many, including stranger"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Interact with a few, known to you"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q2",
+            "title": {
+                "en": "Are you more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Realistic than speculative"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Speculative than realistic"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q3",
+            "title": {
+                "en": "Is it worse to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Have your “head in the clouds”"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Be “in a rut”"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q4",
+            "title": {
+                "en": "Are you more impressed by:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Principles"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Emotions"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q5",
+            "title": {
+                "en": "Are more drawn toward the:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Convincing"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Touching"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q6",
+            "title": {
+                "en": "Do you prefer to work:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "To deadlines"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Just “whenever”"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q7",
+            "title": {
+                "en": "Do you tend to choose:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Rather carefully"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Somewhat impulsively"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q8",
+            "title": {
+                "en": "At parties do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Stay late, with increasing energy"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Leave early with decreased energy"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q9",
+            "title": {
+                "en": "Are you more attracted to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Sensible people"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Imaginative people"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q10",
+            "title": {
+                "en": "Are you more interested in:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "What is actual"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "What is possible"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q11",
+            "title": {
+                "en": "In judging others are you more swayed by:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Laws than circumstances"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Circumstances than laws"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q12",
+            "title": {
+                "en": "In approaching others is your inclination to be somewhat:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Objective"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Personal"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q13",
+            "title": {
+                "en": "Are you more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Punctual"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Leisurely"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q14",
+            "title": {
+                "en": "Does it bother you more having things:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Incomplete"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Completed"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q15",
+            "title": {
+                "en": "In your social groups do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Keep abreast of other’s happenings"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Get behind on the news"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q16",
+            "title": {
+                "en": "In doing ordinary things are you more likely to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Do it the usual way"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Do it the unusual way"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q17",
+            "title": {
+                "en": "Writers should:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "“Say what they mean and mean what they say”"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Express things more by use of analogy"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q18",
+            "title": {
+                "en": "Which appeals to you more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Consistency of thought"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Harmonious human relationships"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q19",
+            "title": {
+                "en": "Are you more comfortable in making:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Logical judgments"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Value judgments"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q20",
+            "title": {
+                "en": "Do you want things:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Settled and decided"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Unsettled and undecided"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q21",
+            "title": {
+                "en": "Would you say you are more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Serious and determined"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Easy-going"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q22",
+            "title": {
+                "en": "In phoning do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "Rarely question that it will all be said"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Rehearse what you’ll say"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q23",
+            "title": {
+                "en": "Facts:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "“Speak for themselves”"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "Illustrate principles"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q24",
+            "title": {
+                "en": "Are visionaries:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "somewhat annoying"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "rather fascinating"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q25",
+            "title": {
+                "en": "Are you more often:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "a cool-headed person"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "a warm-hearted person"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q26",
+            "title": {
+                "en": "Is it worse to be:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "unjust"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "merciless"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q27",
+            "title": {
+                "en": "Should one usually let events occur:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "by careful selection and choice"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "randomly and by chance"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q28",
+            "title": {
+                "en": "Do you feel better about:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "having purchased"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "having the option to buy"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q29",
+            "title": {
+                "en": "In company do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "initiate conversation"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "wait to be approached"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q30",
+            "title": {
+                "en": "Common sense is:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "rarely questionable"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "frequently questionable"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q31",
+            "title": {
+                "en": "Children often do not:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "make themselves useful enough"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "exercise their fantasy enough"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q32",
+            "title": {
+                "en": "In making decisions do you feel more comfortable with:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "standards"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "feelings"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q33",
+            "title": {
+                "en": "Are you more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "firm than gentle"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "gentle than firm"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q34",
+            "title": {
+                "en": "Which is more admirable:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "the ability to organize and be methodical"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "the ability to adapt and make do"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q35",
+            "title": {
+                "en": "Do you put more value on:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "infinite"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "open-minded"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q36",
+            "title": {
+                "en": "Does new and non-routine interaction with others:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "stimulate and energize you"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "tax your reserves"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q37",
+            "title": {
+                "en": "Are you more frequently:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "a practical sort of person"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "a fanciful sort of person"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q38",
+            "title": {
+                "en": "Are you more likely to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "see how others are useful"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "see how others see"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q39",
+            "title": {
+                "en": "Which is more satisfying:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "to discuss an issue thoroughly"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "to arrive at agreement on an issue"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q40",
+            "title": {
+                "en": "Which rules you more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "your head"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "your heart"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q41",
+            "title": {
+                "en": "Are you more comfortable with work that is:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "contracted"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "done on a casual basis"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q42",
+            "title": {
+                "en": "Do you tend to look for:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "the orderly"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "whatever turns up"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q43",
+            "title": {
+                "en": "Do you prefer:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "many friends with brief contact"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "a few friends with more lengthy contact"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q44",
+            "title": {
+                "en": "Do you go more by:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "facts"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "principles"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q45",
+            "title": {
+                "en": "Are you more interested in:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "production and distribution"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "design and research"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q46",
+            "title": {
+                "en": "Which is more of a compliment:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "“There is a very logical person.”"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "“There is a very sentimental person.”"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q47",
+            "title": {
+                "en": "Do you value in yourself more that you are:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "unwavering"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "devoted"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q48",
+            "title": {
+                "en": "Do you more often prefer the"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "final and unalterable statement"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "tentative and preliminary statement"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q49",
+            "title": {
+                "en": "Are you more comfortable:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "after a decision"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "before a decision"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q50",
+            "title": {
+                "en": "Do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "speak easily and at length with strangers"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "find little to say to strangers"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q51",
+            "title": {
+                "en": "Are you more likely to trust your:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "experience"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "hunch"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q52",
+            "title": {
+                "en": "Do you feel:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "more practical than ingenious"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "more ingenious than practical"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q53",
+            "title": {
+                "en": "Which person is more to be complimented - one of:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "clear reason"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "strong feeling"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q54",
+            "title": {
+                "en": "Are you inclined more to be:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "fair-minded"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "sympathetic"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q55",
+            "title": {
+                "en": "Is it preferable mostly to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "make sure things are arranged"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "just let things happen"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q56",
+            "title": {
+                "en": "In relationships should most things be:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "re-negotiable"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "random and circumstantial"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q57",
+            "title": {
+                "en": "When the phone rings do you:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "hasten to get to it first"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "hope someone else will answer"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q58",
+            "title": {
+                "en": "Do you prize more in yourself:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "a strong sense of reality"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "a vivid imagination"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q59",
+            "title": {
+                "en": "Are you drawn more to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "fundamentals"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "overtones"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q60",
+            "title": {
+                "en": "Which seems the greater error:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "to be too passionate"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "to be too objective"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q61",
+            "title": {
+                "en": "Do you see yourself as basically:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "hard-headed"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "soft-hearted"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q62",
+            "title": {
+                "en": "Which situation appeals to you more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "the structured and scheduled"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "the unstructured and unscheduled"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q63",
+            "title": {
+                "en": "Are you a person that is more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "routinized than whimsical"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "whimsical than routinized"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q64",
+            "title": {
+                "en": "Are you more inclined to be:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "easy to approach"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "somewhat reserved"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q65",
+            "title": {
+                "en": "In writings do you prefer:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "the more literal"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "the more figurative"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q66",
+            "title": {
+                "en": "Is it harder for you to:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "identify with others"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "utilize others"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q67",
+            "title": {
+                "en": "Which do you wish more for yourself:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "clarity of reason"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "strength of compassion"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q68",
+            "title": {
+                "en": "Which is the greater fault:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "being indiscriminate"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "being critical"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q69",
+            "title": {
+                "en": "Do you prefer the:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "planned event"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "unplanned event"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "q70",
+            "title": {
+                "en": "Do you tend to be more:"
+            },
+            "answers": [
+                {
+                    "value": 0,
+                    "title": {
+                        "en": "deliberate than spontaneous"
+                    }
+                },
+                {
+                    "value": 1,
+                    "title": {
+                        "en": "spontaneous than deliberate"
+                    }
+                }
+            ]
+        }
+    ]
+}

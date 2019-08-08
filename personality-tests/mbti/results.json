@@ -1,0 +1,514 @@
+{
+    "mbti-enfj": {
+        "personalityType": {
+            "en": "ENFJ",
+            "de": "ENFJ"
+        },
+        "traits": [
+            "extraversion",
+            "intuition",
+            "feeling",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Warm, empathetic, responsive, and responsible: Highly attuned to the emotions, needs, and motivations of others. Finds potential in everyone, wants to help others fulfill their potential. May act as catalysts for individual and group growth. Loyal, responsive to praise and criticism. Sociable, facilitate others in a group, and provide inspiring leadership.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Tolerant – \nENFJs are true team players, and they recognize that that means listening to other peoples’ opinions, even when they contradict their own. \nThey admit they don’t have all the answers, \nand are often receptive to dissent, so long as it remains constructive.\nReliable – The one thing that galls ENFJs the most is the idea of letting down a person or cause they believe in. If it’s possible, ENFJs can always be counted on to see it through.\nCharismatic – Charm and popularity are qualities ENFJs have in spades. They instinctively know how to capture an audience, and pick up on mood and motivation in ways that allow them to communicate with reason, emotion, passion, restraint – whatever the situation calls for. Talented imitators, ENFJs are able to shift their tone and manner to reflect the needs of the audience, while still maintaining their own voice.\nAltruistic – Uniting these qualities is ENFJs’ unyielding desire to do good in and for their communities, be it in their own home or the global stage. Warm and selfless, ENFJs genuinely believe that if they can just bring people together, they can do a world of good.\nNatural Leaders – More than seeking authority themselves, ENFJs often end up in leadership roles at the request of others, cheered on by the many admirers of their strong personality and positive vision.\n",
+            "de": ""
+        },
+        "do": {
+            "en": "Tolerant – \nENFJs are true team players, and they recognize that that means listening to other peoples’ opinions, even when they contradict their own. \nThey admit they don’t have all the answers, \nand are often receptive to dissent, so long as it remains constructive.\nReliable – The one thing that galls ENFJs the most is the idea of letting down a person or cause they believe in. If it’s possible, ENFJs can always be counted on to see it through.\nCharismatic – Charm and popularity are qualities ENFJs have in spades. They instinctively know how to capture an audience, and pick up on mood and motivation in ways that allow them to communicate with reason, emotion, passion, restraint – whatever the situation calls for. Talented imitators, ENFJs are able to shift their tone and manner to reflect the needs of the audience, while still maintaining their own voice.\nAltruistic – Uniting these qualities is ENFJs’ unyielding desire to do good in and for their communities, be it in their own home or the global stage. Warm and selfless, ENFJs genuinely believe that if they can just bring people together, they can do a world of good.\nNatural Leaders – More than seeking authority themselves, ENFJs often end up in leadership roles at the request of others, cheered on by the many admirers of their strong personality and positive vision.\n",
+            "de": ""
+        },
+        "dont": {
+            "en": "Overly Idealistic – People with the ENFJ personality type can be caught off guard as they find that, through circumstance or nature, or simple misunderstanding, people fight against them and defy the principles they’ve adopted, however well-intentioned they may be. They are more likely to feel pity for this opposition than anger, and can earn a reputation of naïveté.\nToo Selfless – ENFJs can bury themselves in their hopeful promises, feeling others’ problems as their own and striving hard to meet their word. If they aren’t careful, they can spread themselves too thin, and be left unable to help anyone.\nToo Sensitive – While receptive to criticism, seeing it as a tool for leading a better team, it’s easy for ENFJs to take it a little too much to heart. Their sensitivity to others means that ENFJs sometimes feel problems that aren’t their own and try to fix things they can’t fix, worrying if they are doing enough.\nFluctuating Self-Esteem – ENFJs define their self-esteem by whether they are able to live up to their ideals, and sometimes ask for criticism more out of insecurity than out of confidence, always wondering what they could do better. If they fail to meet a goal or to help someone they said they’d help, their self-confidence will undoubtedly plummet.\nStruggle to Make Tough Decisions – If caught between a rock and a hard place, ENFJs can be stricken with paralysis, imagining all the consequences of their actions, especially if those consequences are humanitarian.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Protagonist",
+            "de": "{GENDER, select,\n  male {Der Protagonist}\n  female {Die Protagonistin}\n  other {Protagonist*in}\n}"
+        }
+    },
+    "mbti-enfp": {
+        "personalityType": {
+            "en": "ENFP",
+            "de": "ENFP"
+        },
+        "traits": [
+            "extraversion",
+            "intuition",
+            "feeling",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Warmly enthusiastic and imaginative: Sees life as full of possibilities. Makes connections between events and information very quickly, and confidently proceeds based on the patterns they see. Wants a lot of affirmation from others, and readily give appreciation and support. Spontaneous and flexible, often relies on their ability to improvise and their verbal fluency.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Curious – When it comes to new ideas, ENFPs aren’t interested in brooding – they want to go out and experience things, and don’t hesitate to step out of their comfort zones to do so. ENFPs are imaginative and open-minded, seeing all things as part of a big, mysterious puzzle called life.\nObservant – ENFPs believe that there are no irrelevant actions, that every shift in sentiment, every move and every idea is part of something bigger. To satisfy their curiosity, ENFPs try to notice all of these things, and to never miss a moment.\nEnergetic and Enthusiastic – As they observe, forming new connections and ideas, ENFPs won’t hold their tongues – they’re excited about their findings, and share them with anyone who’ll listen. This infectious enthusiasm has the dual benefit of giving ENFPs a chance to make more social connections, and of giving them a new source of information and experience, as they fit their new friends’ opinions into their existing ideas.\nExcellent Communicators – It’s a good thing that ENFPs have such strong people skills, or they’d never express these ideas. ENFPs enjoy both small talk and deep, meaningful conversations, which are just two sides of the same coin for them, and are adept at steering conversations towards their desired subjects in ways that feel completely natural and unforced.\nKnow How to Relax – It’s not all “nature of the cosmos” discussions with ENFPs – people with this personality type know that sometimes, nothing is as important as simply having fun and experiencing life’s joys. That Intuitive trait lets ENFPs know that it’s time to shake things up, and these wild bursts of enthusiastic energy can surprise even their closest friends.\nVery Popular and Friendly – All this adaptability and spontaneity comes together to form a person who is approachable, interesting and exciting, with a cooperative and altruistic spirit and friendly, empathetic disposition. ENFPs get along with pretty much everyone, and their circles of friends stretch far and wide.",
+            "de": ""
+        },
+        "do": {
+            "en": "Curious – When it comes to new ideas, ENFPs aren’t interested in brooding – they want to go out and experience things, and don’t hesitate to step out of their comfort zones to do so. ENFPs are imaginative and open-minded, seeing all things as part of a big, mysterious puzzle called life.\nObservant – ENFPs believe that there are no irrelevant actions, that every shift in sentiment, every move and every idea is part of something bigger. To satisfy their curiosity, ENFPs try to notice all of these things, and to never miss a moment.\nEnergetic and Enthusiastic – As they observe, forming new connections and ideas, ENFPs won’t hold their tongues – they’re excited about their findings, and share them with anyone who’ll listen. This infectious enthusiasm has the dual benefit of giving ENFPs a chance to make more social connections, and of giving them a new source of information and experience, as they fit their new friends’ opinions into their existing ideas.\nExcellent Communicators – It’s a good thing that ENFPs have such strong people skills, or they’d never express these ideas. ENFPs enjoy both small talk and deep, meaningful conversations, which are just two sides of the same coin for them, and are adept at steering conversations towards their desired subjects in ways that feel completely natural and unforced.\nKnow How to Relax – It’s not all “nature of the cosmos” discussions with ENFPs – people with this personality type know that sometimes, nothing is as important as simply having fun and experiencing life’s joys. That Intuitive trait lets ENFPs know that it’s time to shake things up, and these wild bursts of enthusiastic energy can surprise even their closest friends.\nVery Popular and Friendly – All this adaptability and spontaneity comes together to form a person who is approachable, interesting and exciting, with a cooperative and altruistic spirit and friendly, empathetic disposition. ENFPs get along with pretty much everyone, and their circles of friends stretch far and wide.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Poor Practical Skills – When it comes to conceiving ideas and starting projects, especially involving other people, ENFPs have exceptional talent. Unfortunately their skill with upkeep, administration, and follow-through on those projects struggles. Without more hands-on people to help push day-to-day things along, ENFPs’ ideas are likely to remain just that – ideas.\nFind it Difficult to Focus – ENFPs are natural explorers of interpersonal connections and philosophy, but this backfires when what needs to be done is that TPS report sitting right in front of them. It’s hard for ENFPs to maintain interest as tasks drift towards routine, administrative matters, and away from broader concepts.\nOverthink Things – ENFPs don’t take things at face value – they look for underlying motives in even the simplest things. It’s not uncommon for ENFPs to lose a bit of sleep asking themselves why someone did what they did, what it might mean, and what to do about it.\nGet Stressed Easily – All this overthinking isn’t just for their own benefit – ENFPs, especially Turbulent ones, are very sensitive, and care deeply about others’ feelings. A consequence of their popularity is that others often look to them for guidance and help, which takes time, and it’s easy to see why ENFPs sometimes get overwhelmed, especially when they can’t say yes to every request.\nHighly Emotional – While emotional expression is healthy and natural, with ENFPs even viewing it as a core part of their identity, it can come out strongly enough to cause problems for this personality type. Particularly when under stress, criticism or conflict, ENFPs can experience emotional bursts that are counter-productive at best.\nIndependent to a Fault – ENFPs loathe being micromanaged and restrained by heavy-handed rules – they want to be seen as highly independent masters of their own fates, even possessors of an altruistic wisdom that goes beyond draconian law. The challenge for ENFPs is that they live in a world of checks and balances, a pill they are not happy to swallow.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Campaigner",
+            "de": "{GENDER, select,\n  male {Der Aktivist}\n  female {Die Aktivistin}\n  other {Aktivist*in}\n}"
+        }
+    },
+    "mbti-entj": {
+        "personalityType": {
+            "en": "ENTJ",
+            "de": "ENTJ"
+        },
+        "traits": [
+            "extraversion",
+            "intuition",
+            "thinking",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Frank, decisive, assume leadership readily: Quickly sees illogical and inefficient procedures and policies, develops and implements comprehensive systems to solve organizational problems. Enjoys long-term planning and goal setting - is usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting ideas.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Efficient – ENTJs see inefficiency not just as a problem in its own right, but as something that pulls time and energy away from all their future goals, an elaborate sabotage consisting of irrationality and laziness. People with the ENTJ personality type will root out such behavior wherever they go.\nEnergetic – Rather than finding this process taxing ENTJs are energized by it, genuinely enjoying leading their teams forward as they implement their plans and goals.\nSelf-Confident – ENTJs couldn’t do this if they were plagued by self-doubt – they trust their abilities, make known their opinions, and believe in their capacities as leaders.\nStrong-Willed – Nor do they give up when the going gets tough – ENTJ personalities strive to achieve their goals, but really nothing is quite as satisfying to them as rising to the challenge of each obstacle in their run to the finish line.\nStrategic Thinkers – ENTJs exemplify the difference between moment-to-moment crisis management and navigating the challenges and steps of a bigger plan, and are known for examining every angle of a problem and not just resolving momentary issues, but moving the whole project forward with their solutions.\nCharismatic and Inspiring – These qualities combine to create individuals who are able to inspire and invigorate others, who people actually want to be their leaders, and this in turn helps ENTJs to accomplish their often ambitious goals that could never be finished alone.",
+            "de": ""
+        },
+        "do": {
+            "en": "Efficient – ENTJs see inefficiency not just as a problem in its own right, but as something that pulls time and energy away from all their future goals, an elaborate sabotage consisting of irrationality and laziness. People with the ENTJ personality type will root out such behavior wherever they go.\nEnergetic – Rather than finding this process taxing ENTJs are energized by it, genuinely enjoying leading their teams forward as they implement their plans and goals.\nSelf-Confident – ENTJs couldn’t do this if they were plagued by self-doubt – they trust their abilities, make known their opinions, and believe in their capacities as leaders.\nStrong-Willed – Nor do they give up when the going gets tough – ENTJ personalities strive to achieve their goals, but really nothing is quite as satisfying to them as rising to the challenge of each obstacle in their run to the finish line.\nStrategic Thinkers – ENTJs exemplify the difference between moment-to-moment crisis management and navigating the challenges and steps of a bigger plan, and are known for examining every angle of a problem and not just resolving momentary issues, but moving the whole project forward with their solutions.\nCharismatic and Inspiring – These qualities combine to create individuals who are able to inspire and invigorate others, who people actually want to be their leaders, and this in turn helps ENTJs to accomplish their often ambitious goals that could never be finished alone.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Stubborn and Dominant – Sometimes all this confidence and willpower can go too far, and ENTJs are all too capable of digging in their heels, trying to win every single debate and pushing their vision, and theirs alone.\nIntolerant – \"It’s my way or the highway\" – People with the ENTJ personality type are notoriously unsupportive of any idea that distracts from their primary goals, and even more so of ideas based on emotional considerations. ENTJs won’t hesitate a second to make that fact clear to those around them.\nImpatient – Some people need more time to think than others, an intolerable delay to quick-thinking ENTJs. They may misinterpret contemplation as stupidity or disinterest in their haste, a terrible mistake for a leader to make.\nArrogant – ENTJ personalities respect quick thoughts and firm convictions, their own qualities, and look down on those who don’t match up. This relationship is a challenge for most other personality types who are perhaps not timid in their own right, but will seem so beside overbearing ENTJs.\nPoor Handling of Emotions – All this bluster, alongside the assumed supremacy of rationalism, makes ENTJs distant from their own emotional expression and sometimes downright scornful of others’. People with this personality type often trample others’ feelings, inadvertently hurting their partners and friends, especially in emotionally charged situations.\nCold and Ruthless – Their obsession with efficiency and unwavering belief in the merits of rationalism, especially professionally, makes ENTJs incredibly insensitive in pursuing their goals, dismissing personal circumstances, sensitivities, and preferences as irrational and irrelevant.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Commander",
+            "de": "{GENDER, select,\n  male {Der Kommandant}\n  female {Die Kommandantin}\n  other {Kommandant*in}\n}"
+        }
+    },
+    "mbti-entp": {
+        "personalityType": {
+            "en": "ENTP",
+            "de": "ENTP"
+        },
+        "traits": [
+            "extraversion",
+            "intuition",
+            "thinking",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adepts at generating conceptual possibilities and then analyzing them strategically. Good at reading other people, but bored by routine. Will seldom do the same thing the same way, apt to turn to one new interest after another.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Knowledgeable – ENTPs rarely pass up a good opportunity to learn something new, especially abstract concepts. This information isn’t usually absorbed for any planned purpose as with dedicated studying, people with the ENTP personality type just find it fascinating.\nQuick Thinkers – ENTPs have tremendously flexible minds, and are able to shift from idea to idea without effort, drawing on their accumulated knowledge to prove their points, or their opponents’, as they see fit.\nOriginal – Having little attachment to tradition, ENTP personalities are able to discard existing systems and methods and pull together disparate ideas from their extensive knowledge base, with a little raw creativity to hold them together, to formulate bold new ideas. If presented with chronic, systemic problems and given rein to solve them, ENTPs respond with unabashed glee.\nExcellent Brainstormers – Nothing is quite as enjoyable to ENTPs as analyzing problems from every angle to find the best solutions. Combining their knowledge and originality to splay out every aspect of the subject at hand, rejecting without remorse options that don’t work and presenting ever more possibilities, ENTPs are irreplaceable in brainstorming sessions.\nCharismatic – People with the ENTP personality type have a way with words and wit that others find intriguing. Their confidence, quick thought and ability to connect disparate ideas in novel ways create a style of communication that is charming, even entertaining, and informative at the same time.\nEnergetic – When given a chance to combine these traits to examine an interesting problem, ENTPs can be truly impressive in their enthusiasm and energy, having no qualms with putting in long days and nights to find a solution.",
+            "de": ""
+        },
+        "do": {
+            "en": "Knowledgeable – ENTPs rarely pass up a good opportunity to learn something new, especially abstract concepts. This information isn’t usually absorbed for any planned purpose as with dedicated studying, people with the ENTP personality type just find it fascinating.\nQuick Thinkers – ENTPs have tremendously flexible minds, and are able to shift from idea to idea without effort, drawing on their accumulated knowledge to prove their points, or their opponents’, as they see fit.\nOriginal – Having little attachment to tradition, ENTP personalities are able to discard existing systems and methods and pull together disparate ideas from their extensive knowledge base, with a little raw creativity to hold them together, to formulate bold new ideas. If presented with chronic, systemic problems and given rein to solve them, ENTPs respond with unabashed glee.\nExcellent Brainstormers – Nothing is quite as enjoyable to ENTPs as analyzing problems from every angle to find the best solutions. Combining their knowledge and originality to splay out every aspect of the subject at hand, rejecting without remorse options that don’t work and presenting ever more possibilities, ENTPs are irreplaceable in brainstorming sessions.\nCharismatic – People with the ENTP personality type have a way with words and wit that others find intriguing. Their confidence, quick thought and ability to connect disparate ideas in novel ways create a style of communication that is charming, even entertaining, and informative at the same time.\nEnergetic – When given a chance to combine these traits to examine an interesting problem, ENTPs can be truly impressive in their enthusiasm and energy, having no qualms with putting in long days and nights to find a solution.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Very Argumentative – If there’s anything ENTPs enjoy, it’s the mental exercise of debating an idea, and nothing is sacred. More consensus-oriented personality types rarely appreciate the vigor with which ENTP personalities tear down their beliefs and methods, leading to a great deal of tension.\nInsensitive – Being so rational, ENTPs often misjudge others feelings and push their debates well past others’ tolerance levels. People with this personality type don’t really consider emotional points to be valid in such debates either, which magnifies the issue tremendously.\nIntolerant – Unless people are able to back up their ideas in a round of mental sparring, ENTPs are likely to dismiss not just the ideas but the people themselves. Either a suggestion can stand up to rational scrutiny or it’s not worth bothering with.\nCan Find It Difficult to Focus – The same flexibility that allows ENTPs to come up with such original plans and ideas makes them readapt perfectly good ones far too often, or to even drop them entirely as the initial excitement wanes and newer thoughts come along. Boredom comes too easily for ENTPs, and fresh thoughts are the solution, though not always a helpful one.\nDislike Practical Matters – ENTPs are interested in what could be – malleable concepts like ideas and plans that can be adapted and debated. When it comes to hard details and day-to-day execution where creative flair isn’t just unnecessary but actually counter-productive, ENTP personalities lose interest, often with the consequence of their plans never seeing the light of day.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Debater",
+            "de": "{GENDER, select,\n  male {Der Debattierer}\n  female {Die Debattiererin}\n  other {Debattierer*in}\n}"
+        }
+    },
+    "mbti-esfj": {
+        "personalityType": {
+            "en": "ESFJ",
+            "de": "ESFJ"
+        },
+        "traits": [
+            "extraversion",
+            "sensing",
+            "feeling",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Warmhearted, conscientious, and cooperative: Wants harmony in the closer environment, work with determination to establish it. Like to work with others to complete tasks accurately and on time. Loyal, follow through even in small matters. Notice what others need in their day-by-day lives and try to provide it. Want to be appreciated for who they are and for what they contribute.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Strong Practical Skills – ESFJs are excellent managers of day-to-day tasks and routine maintenance, enjoying making sure that those who are close to them are well cared for.\nStrong Sense of Duty – People with the ESFJ personality type have a strong sense of responsibility and strive to meet their obligations, though this may sometimes be more from a sense of social expectations than intrinsic drive.\nVery Loyal – Valuing stability and security very highly, ESFJs are eager to preserve the status quo, which makes them extremely loyal and trustworthy partners and employees. ESFJs are true pillars of any groups they belong to – whether it is their family or a community club, people with this personality type can always be relied upon.\nSensitive and Warm – Helping to ensure that stability, ESFJ personalities seek harmony and care deeply about other people’s feelings, being careful not to offend or hurt anybody. ESFJs are strong team players, and win-win situations are the stuff smiles are made of.\nGood at Connecting with Others – These qualities come together to make ESFJs social, comfortable and well-liked. ESFJ personalities have a strong need to \"belong\", and have no problem with small talk or following social cues in order to help them take an active role in their communities.",
+            "de": ""
+        },
+        "do": {
+            "en": "Strong Practical Skills – ESFJs are excellent managers of day-to-day tasks and routine maintenance, enjoying making sure that those who are close to them are well cared for.\nStrong Sense of Duty – People with the ESFJ personality type have a strong sense of responsibility and strive to meet their obligations, though this may sometimes be more from a sense of social expectations than intrinsic drive.\nVery Loyal – Valuing stability and security very highly, ESFJs are eager to preserve the status quo, which makes them extremely loyal and trustworthy partners and employees. ESFJs are true pillars of any groups they belong to – whether it is their family or a community club, people with this personality type can always be relied upon.\nSensitive and Warm – Helping to ensure that stability, ESFJ personalities seek harmony and care deeply about other people’s feelings, being careful not to offend or hurt anybody. ESFJs are strong team players, and win-win situations are the stuff smiles are made of.\nGood at Connecting with Others – These qualities come together to make ESFJs social, comfortable and well-liked. ESFJ personalities have a strong need to \"belong\", and have no problem with small talk or following social cues in order to help them take an active role in their communities.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Worried about Their Social Status – These Strengths are related to a chief Weakness: ESFJs’ preoccupation with social status and influence, which affects many decisions they make, potentially limiting their creativity and open-mindedness.\nInflexible – ESFJs place a lot of importance on what is socially acceptable, and can be very cautious, even critical of anything unconventional or outside the mainstream. People with this personality type may also sometimes push their own beliefs too hard in an effort to establish them as mainstream.\nReluctant to Innovate or Improvise – Just as they can be critical of others’ \"unusual\" behavior, ESFJs may also be unwilling to step out of their own comfort zones, usually for fear of being (or just appearing) different.\nVulnerable to Criticism – It can be especially challenging to change these tendencies because ESFJs are so conflict-averse. ESFJ personalities can become very defensive and hurt if someone, especially a person close to them, criticizes their habits, beliefs or traditions.\nOften Too Needy – ESFJs need to hear and see a great deal of appreciation. If their efforts go unnoticed, people with the ESFJ personality type may start fishing for compliments, in an attempt to get reassurance of how much they are valued.\nToo Selfless – The other side of this is that ESFJs sometimes try to establish their value with doting attention, something that can quickly overwhelm those who don’t need it, making it ultimately unwelcome. Furthermore, ESFJs often neglect their own needs in the process.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Consul",
+            "de": "{GENDER, select,\n  male {Der Konsul}\n  female {Die Konsulin}\n  other {Konsul*in}\n}"
+        }
+    },
+    "mbti-esfp": {
+        "personalityType": {
+            "en": "ESFP",
+            "de": "ESFP"
+        },
+        "traits": [
+            "extraversion",
+            "sensing",
+            "feeling",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Outgoing, friendly, and accepting. Exuberant lovers of life, people, and material comforts. Enjoy working with others to make things happen. Bring common sense and a realistic approach to their work, and make work fun. Flexible and spontaneous, adapt readily to new people and environments. Learn best by trying a new skill with other people.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Bold – ESFPs aren’t known for holding back. Wanting to experience everything there is to experience, people with the ESFP personality type don’t mind stepping out of their comfort zones when no one else is willing.\n\nOriginal – Traditions and expectations are secondary to ESFPs, if a consideration at all. ESFP personalities love to experiment with new styles, and constantly find new ways to stick out in the crowd.\n\nAesthetics and Showmanship – Not stopping at mere outfits, ESFPs inject artistic creativity into their words and actions, too. Every day is a performance, and ESFPs love to put on a show.\n\nPractical – To ESFPs, the world is meant to be felt and experienced. Truth is stranger than fiction, and ESFPs prefer to see and do than to wax philosophical about \"what-ifs\".\n\nObservant – With all this focus on the here and now, on doing and acting, it makes sense that ESFPs are naturals when it comes to noticing real, tangible things and changes.\n\nExcellent People Skills – More so than things though, ESFPs love to pay attention to people. They are talkative, witty, and almost never run out of things to discuss. For people with this personality type, happiness and satisfaction stem from the time they spend with the people they enjoy being with.",
+            "de": ""
+        },
+        "do": {
+            "en": "Bold – ESFPs aren’t known for holding back. Wanting to experience everything there is to experience, people with the ESFP personality type don’t mind stepping out of their comfort zones when no one else is willing.\n\nOriginal – Traditions and expectations are secondary to ESFPs, if a consideration at all. ESFP personalities love to experiment with new styles, and constantly find new ways to stick out in the crowd.\n\nAesthetics and Showmanship – Not stopping at mere outfits, ESFPs inject artistic creativity into their words and actions, too. Every day is a performance, and ESFPs love to put on a show.\n\nPractical – To ESFPs, the world is meant to be felt and experienced. Truth is stranger than fiction, and ESFPs prefer to see and do than to wax philosophical about \"what-ifs\".\n\nObservant – With all this focus on the here and now, on doing and acting, it makes sense that ESFPs are naturals when it comes to noticing real, tangible things and changes.\n\nExcellent People Skills – More so than things though, ESFPs love to pay attention to people. They are talkative, witty, and almost never run out of things to discuss. For people with this personality type, happiness and satisfaction stem from the time they spend with the people they enjoy being with.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Sensitive – ESFPs (especially Turbulent ones) are strongly emotional, and very vulnerable to criticism – they can feel like they’ve been backed into a corner, sometimes reacting badly. This is probably ESFPs’ greatest weakness, because it makes it so hard to address any other weaknesses brought to light.\n\nConflict-Averse – ESFPs sometimes ignore and avoid conflict entirely. They tend to say and do what’s needed to get out of such situations, then move on to something more fun.\n\nEasily Bored – Without constant excitement, ESFPs find ways to create it themselves. Risky behavior, self-indulgence, and the pleasures of the moment over long-term plans are all things ESFPs get into a little too often.\n\nPoor Long-Term Planners – In fact, ESFP personalities rarely make detailed plans for the future. To them, things come as they come, and they rarely bother with taking the time to lay out steps and consequences, with the belief that they could change at any moment – even with things that can be planned.\n\nUnfocused – Anything that requires long-term dedication and focus is a particular challenge for ESFPs. In academics, dense, unchanging subjects like Classic Literature are much more difficult than more dynamic, relatable subjects like psychology. The trick for ESFPs is to find day-to-day joy in broader goals, and to tough it out with those tedious things that must be done.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Entertainer",
+            "de": "{GENDER, select,\n  male {Der Entertainer}\n  female {Die Entertainerin}\n  other {Entertainer*in}\n}"
+        }
+    },
+    "mbti-estj": {
+        "personalityType": {
+            "en": "ESTJ",
+            "de": "ESTJ"
+        },
+        "traits": [
+            "extraversion",
+            "sensing",
+            "thinking",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Practical, realistic, matter-of-fact. Decisive, quickly move to implement decisions. Organize projects and people to get things done, focus on getting results in the most efficient way possible. Take care of routine details. Have a clear set of logical standards, systematically follow them and want others to also. Forceful in implementing their plans.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Dedicated – Seeing things to completion borders on an ethical obligation for ESTJs. Tasks aren’t simply abandoned because they’ve become difficult or boring – people with the ESTJ personality type take them up when they are the right thing to do, and they will be finished so long as they remain the right thing to do.\nStrong-willed – A strong will makes this dedication possible, and ESTJs don’t give up their beliefs because of simple opposition. ESTJs defend their ideas and principles relentlessly, and must be proven clearly and conclusively wrong for their stance to budge.\nDirect and Honest – ESTJs trust facts far more than abstract ideas or opinions. Straightforward statements and information are king, and ESTJ personalities return the honesty (whether it’s wanted or not).\nLoyal, Patient and Reliable – ESTJs work to exemplify truthfulness and reliability, considering stability and security very important. When ESTJs say they’ll do something, they keep their word, making them very responsible members of their families, companies and communities.\nEnjoy Creating Order – Chaos makes things unpredictable, and unpredictable things can’t be trusted when they are needed most – with this in mind, ESTJs strive to create order and security in their environments by establishing rules, structures and clear roles.\nExcellent Organizers – This commitment to truth and clear standards makes ESTJs capable and confident leaders. People with this personality type have no problem distributing tasks and responsibilities to others fairly and objectively, making them excellent administrators.",
+            "de": ""
+        },
+        "do": {
+            "en": "Dedicated – Seeing things to completion borders on an ethical obligation for ESTJs. Tasks aren’t simply abandoned because they’ve become difficult or boring – people with the ESTJ personality type take them up when they are the right thing to do, and they will be finished so long as they remain the right thing to do.\nStrong-willed – A strong will makes this dedication possible, and ESTJs don’t give up their beliefs because of simple opposition. ESTJs defend their ideas and principles relentlessly, and must be proven clearly and conclusively wrong for their stance to budge.\nDirect and Honest – ESTJs trust facts far more than abstract ideas or opinions. Straightforward statements and information are king, and ESTJ personalities return the honesty (whether it’s wanted or not).\nLoyal, Patient and Reliable – ESTJs work to exemplify truthfulness and reliability, considering stability and security very important. When ESTJs say they’ll do something, they keep their word, making them very responsible members of their families, companies and communities.\nEnjoy Creating Order – Chaos makes things unpredictable, and unpredictable things can’t be trusted when they are needed most – with this in mind, ESTJs strive to create order and security in their environments by establishing rules, structures and clear roles.\nExcellent Organizers – This commitment to truth and clear standards makes ESTJs capable and confident leaders. People with this personality type have no problem distributing tasks and responsibilities to others fairly and objectively, making them excellent administrators.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Inflexible and Stubborn – The problem with being so fixated on what works is that ESTJs too often dismiss what might work better. Everything is opinion until proven, and ESTJ personalities are reluctant to trust an opinion long enough for it to have that chance.\nUncomfortable with Unconventional Situations – ESTJs are strong adherents to tradition and when suddenly forced to try unvetted solutions, they become uncomfortable and stressed. New ideas suggest that their methods weren’t good enough, and abandoning what has always worked before in favor of something that may yet fail risks their image of reliability.\nJudgmental – ESTJs have strong convictions about what is right, wrong, and socially acceptable. ESTJs’ compulsion to create order often extends to all things and everyone, ignoring the possibility that there are two right ways to get things done. ESTJs do not hesitate to let these \"deviants\" know what they think, considering it their duty to set things right.\nToo Focused on Social Status – ESTJs take pride in the respect of their friends, colleagues and community and while difficult to admit, are very concerned with public opinion. ESTJs (especially Turbulent ones) can get so caught up in meeting others’ expectations that they fail to address their own needs.\nDifficult to Relax – This need for respect fosters a need to maintain their dignity, which can make it difficult to cut loose and relax for risk of looking the fool, even in good fun.\nDifficulty Expressing Emotion – This is all evidence of ESTJs’ greatest weakness: expressing emotions and feeling empathy. People with the ESTJ personality type get so caught up in the facts and most effective methods that they forget to think of what makes others happy, or of their sensitivity. A detour can be breathtakingly beautiful, a joy for the family, but ESTJs may only see the consequence of arriving at their destination an hour late, hurting their loved ones by rejecting the notion too harshly.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Executive",
+            "de": "{GENDER, select,\n  male {Der Führungskraft}\n  female {Die Führungskraftin}\n  other {Führungskraft*in}\n}"
+        }
+    },
+    "mbti-estp": {
+        "personalityType": {
+            "en": "ESTP",
+            "de": "ESTP"
+        },
+        "traits": [
+            "extraversion",
+            "sensing",
+            "thinking",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Flexible and tolerant, they take a pragmatic approach focused on immediate results. Theories and conceptual explanations bore them - they want to act energetically to solve the problem. Focus on the here-and-now, spontaneous, enjoy each moment that they can be active with others. Enjoy material comforts and style. Learn best through doing.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Bold – People with the ESTP personality type are full of life and energy. There is no greater joy for ESTPs than pushing boundaries and discovering and using new things and ideas.\nRational and Practical – ESTPs love knowledge and philosophy, but not for their own sake. What’s fun for ESTP personalities is finding ideas that are actionable and drilling into the details so they can put them to use. If a discussion is completely arbitrary, there are better uses for ESTPs’ time.\nOriginal – Combining their boldness and practicality, ESTPs love to experiment with new ideas and solutions. They put things together in ways no one else would think to.\nPerceptive – This originality is helped by ESTPs’ ability to notice when things change – and when they need to change! Small shifts in habits and appearances stick out to ESTPs, and they use these observations to help create connections with others.\nDirect – This perceptive skill isn’t used for mind games – ESTPs prefer to communicate clearly, with direct and factual questions and answers. Things are what they are.\nSociable – All these qualities pull together to make a natural group leader in ESTPs. This isn’t something that they actively seek – people with this personality type just have a knack for making excellent use of social interactions and networking opportunities.",
+            "de": ""
+        },
+        "do": {
+            "en": "Bold – People with the ESTP personality type are full of life and energy. There is no greater joy for ESTPs than pushing boundaries and discovering and using new things and ideas.\nRational and Practical – ESTPs love knowledge and philosophy, but not for their own sake. What’s fun for ESTP personalities is finding ideas that are actionable and drilling into the details so they can put them to use. If a discussion is completely arbitrary, there are better uses for ESTPs’ time.\nOriginal – Combining their boldness and practicality, ESTPs love to experiment with new ideas and solutions. They put things together in ways no one else would think to.\nPerceptive – This originality is helped by ESTPs’ ability to notice when things change – and when they need to change! Small shifts in habits and appearances stick out to ESTPs, and they use these observations to help create connections with others.\nDirect – This perceptive skill isn’t used for mind games – ESTPs prefer to communicate clearly, with direct and factual questions and answers. Things are what they are.\nSociable – All these qualities pull together to make a natural group leader in ESTPs. This isn’t something that they actively seek – people with this personality type just have a knack for making excellent use of social interactions and networking opportunities.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Insensitive – Feelings and emotions come second to facts and \"reality\" for ESTPs. Emotionally charged situations are awkward, uncomfortable affairs, and ESTPs’ blunt honesty doesn’t help here. These personalities often have a lot of trouble acknowledging and expressing their own feelings as well.\nImpatient – ESTPs move at their own pace to keep themselves excited. Slowing down because someone else \"doesn’t get it\" or having to stay focused on a single detail for too long is extremely challenging for ESTPs.\nRisk-prone – This impatience can lead ESTPs to push into uncharted territory without thinking of the long-term consequences. ESTP personalities sometimes intentionally combat boredom with extra risk.\nUnstructured – ESTPs see an opportunity – to fix a problem, to advance, to have fun – and seize the moment, often ignoring rules and social expectations in the process. This may get things done, but it can create unexpected social fallout.\nMay Miss the Bigger Picture – Living in the moment can cause ESTPs to miss the forest for the trees. People with this personality type love to solve problems here and now, perhaps too much. All parts of a project can be perfect, but the project will still fail if those parts do not fit together.\nDefiant – ESTPs won’t be boxed in. Repetition, hardline rules, sitting quietly while they are lectured at – this isn’t how ESTPs live their lives. They are action-oriented and hands-on. Environments like school and much entry-level work can be so tedious that they’re intolerable, requiring extraordinary effort from ESTPs to stay focused long enough to get to freer positions.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Entrepreneur",
+            "de": "{GENDER, select,\n  male {Der Unternehmerin}\n  female {Die Unternehmerinin}\n  other {Unternehmerin*in}\n}"
+        }
+    },
+    "mbti-infj": {
+        "personalityType": {
+            "en": "INFJ",
+            "de": "INFJ"
+        },
+        "traits": [
+            "introversion",
+            "intuition",
+            "feeling",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Seek meaning and connection in ideas, relationships, and material possessions. Want to understand what motivates people and are insightful about others. Conscientious and committed to their firm values. Develop a clear vision about how best to serve the common good. Organized and decisive in implementing their vision.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Creative – Combining a vivid imagination with a strong sense of compassion, INFJs use their creativity to resolve not technical challenges, but human ones. People with the INFJ personality type enjoy finding the perfect solution for someone they care about, and this strength makes them excellent counselors and advisors.\nInsightful – Seeing through dishonesty and disingenuous motives, INFJs step past manipulation and sales tactics and into a more honest discussion. INFJs see how people and events are connected, and are able to use that insight to get to the heart of the matter.\nInspiring and Convincing – Speaking in human terms, not technical, INFJs have a fluid, inspirational writing style that appeals to the inner idealist in their audience. INFJs can even be astonishingly good orators, speaking with warmth and passion, if they are proud of what they are speaking for.\nDecisive – Their creativity, insight and inspiration are able to have a real impact on the world, as INFJs are able to follow through on their ideas with conviction, willpower, and the planning necessary to see complex projects through to the end. INFJs don’t just see the way things ought to be, they act on those insights.\nDetermined and Passionate – When INFJs come to believe that something is important, they pursue that goal with a conviction and energy that can catch even their friends and loved ones off guard. INFJs will rock the boat if they have to, something not everyone likes to see, but their passion for their chosen cause is an inseparable part of their personality.\nAltruistic – These strengths are used for good. INFJs have strong beliefs and take the actions that they do not because they are trying to advance themselves, but because they are trying to advance an idea that they truly believe will make the world a better place.",
+            "de": ""
+        },
+        "do": {
+            "en": "Creative – Combining a vivid imagination with a strong sense of compassion, INFJs use their creativity to resolve not technical challenges, but human ones. People with the INFJ personality type enjoy finding the perfect solution for someone they care about, and this strength makes them excellent counselors and advisors.\nInsightful – Seeing through dishonesty and disingenuous motives, INFJs step past manipulation and sales tactics and into a more honest discussion. INFJs see how people and events are connected, and are able to use that insight to get to the heart of the matter.\nInspiring and Convincing – Speaking in human terms, not technical, INFJs have a fluid, inspirational writing style that appeals to the inner idealist in their audience. INFJs can even be astonishingly good orators, speaking with warmth and passion, if they are proud of what they are speaking for.\nDecisive – Their creativity, insight and inspiration are able to have a real impact on the world, as INFJs are able to follow through on their ideas with conviction, willpower, and the planning necessary to see complex projects through to the end. INFJs don’t just see the way things ought to be, they act on those insights.\nDetermined and Passionate – When INFJs come to believe that something is important, they pursue that goal with a conviction and energy that can catch even their friends and loved ones off guard. INFJs will rock the boat if they have to, something not everyone likes to see, but their passion for their chosen cause is an inseparable part of their personality.\nAltruistic – These strengths are used for good. INFJs have strong beliefs and take the actions that they do not because they are trying to advance themselves, but because they are trying to advance an idea that they truly believe will make the world a better place.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Sensitive – When someone challenges or criticizes INFJs’ principles or values, they are likely to receive an alarmingly strong response. People with the INFJ personality type are highly vulnerable to criticism and conflict, and questioning their motives is the quickest way to their bad side.\nExtremely Private – INFJs tend to present themselves as the culmination of an idea. This is partly because they believe in this idea, but also because INFJs are extremely private when it comes to their personal lives, using this image to keep themselves from having to truly open up, even to close friends. Trusting a new friend can be even more challenging for INFJs.\nPerfectionistic – INFJs are all but defined by their pursuit of ideals. While this is a wonderful quality in many ways, an ideal situation is not always possible – in politics, in business, in romance – and INFJs too often drop or ignore healthy and productive situations and relationships, always believing there might be a better option down the road.\nAlways Need to Have a Cause – INFJs get so caught up in the passion of their pursuits that any of the cumbersome administrative or maintenance work that comes between them and the ideal they see on the horizon is deeply unwelcome. INFJs like to know that they are taking concrete steps towards their goals, and if routine tasks feel like they are getting in the way, or worse yet, there is no goal at all, they will feel restless and disappointed.\nCan Burn Out Easily – Their passion, poor patience for routine maintenance, tendency to present themselves as an ideal, and extreme privacy tend to leave INFJs with few options for letting off steam. People with this personality type are likely to exhaust themselves in short order if they don’t find a way to balance their ideals with the realities of day-to-day living.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Advocate",
+            "de": "{GENDER, select,\n  male {Der Fürsprecher}\n  female {Die Fürsprecherin}\n  other {Fürsprecher*in}\n}"
+        }
+    },
+    "mbti-infp": {
+        "personalityType": {
+            "en": "INFP",
+            "de": "INFP"
+        },
+        "traits": [
+            "introversion",
+            "intuition",
+            "feeling",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Idealistic, loyal to their values and to people who are important to them. Want an external life that is congruent with their values. Curious, quick to see possibilities, can be catalysts for implementing ideas. Seek to understand people and to help them fulfill their potential. Adaptable, flexible, and accepting unless a value is threatened.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Idealistic – INFPs’ friends and loved ones will come to admire and depend on them for their optimism. Their unshaken belief that all people are inherently good, perhaps simply misunderstood, lends itself to an incredibly resilient attitude in the face of hardship.\nSeek and Value Harmony – People with the INFP personality type have no interest in having power over others, and don’t much care for domineering attitudes at all. They prefer a more democratic approach, and work hard to ensure that every voice and perspective is heard.\nOpen-Minded and Flexible – A live-and-let-live attitude comes naturally to INFPs, and they dislike being constrained by rules. INFPs give the benefit of the doubt too, and so long as their principles and ideas are not being challenged, they’ll support others’ right to do what they think is right.\nVery Creative – INFPs combine their intuitive nature with their open-mindedness to allow them to see things from unconventional perspectives. Being able to connect many far-flung dots into a single theme, it’s no wonder that many INFPs are celebrated poets and authors.\nPassionate and Energetic – When something captures INFPs’ imagination and speaks to their beliefs, they go all in, dedicating their time, energy, thoughts and emotions to the project. Their shyness keeps them from the podium, but they are the first to lend a helping hand where it’s needed.\nDedicated and Hard-Working – While others focusing on the challenges of the moment may give up when the going gets tough, INFPs (especially Assertive ones) have the benefit of their far-reaching vision to help them through. Knowing that what they are doing is meaningful gives people with this personality type a sense of purpose and even courage when it comes to accomplishing something they believe in.",
+            "de": ""
+        },
+        "do": {
+            "en": "Idealistic – INFPs’ friends and loved ones will come to admire and depend on them for their optimism. Their unshaken belief that all people are inherently good, perhaps simply misunderstood, lends itself to an incredibly resilient attitude in the face of hardship.\nSeek and Value Harmony – People with the INFP personality type have no interest in having power over others, and don’t much care for domineering attitudes at all. They prefer a more democratic approach, and work hard to ensure that every voice and perspective is heard.\nOpen-Minded and Flexible – A live-and-let-live attitude comes naturally to INFPs, and they dislike being constrained by rules. INFPs give the benefit of the doubt too, and so long as their principles and ideas are not being challenged, they’ll support others’ right to do what they think is right.\nVery Creative – INFPs combine their intuitive nature with their open-mindedness to allow them to see things from unconventional perspectives. Being able to connect many far-flung dots into a single theme, it’s no wonder that many INFPs are celebrated poets and authors.\nPassionate and Energetic – When something captures INFPs’ imagination and speaks to their beliefs, they go all in, dedicating their time, energy, thoughts and emotions to the project. Their shyness keeps them from the podium, but they are the first to lend a helping hand where it’s needed.\nDedicated and Hard-Working – While others focusing on the challenges of the moment may give up when the going gets tough, INFPs (especially Assertive ones) have the benefit of their far-reaching vision to help them through. Knowing that what they are doing is meaningful gives people with this personality type a sense of purpose and even courage when it comes to accomplishing something they believe in.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Too Idealistic – INFPs often take their idealism too far, setting themselves up for disappointment as, again and again, evil things happen in the world. This is true on a personal level too, as INFPs may not just idealize their partners, but idolize them, forgetting that no one is perfect.\nToo Altruistic – INFPs sometimes see themselves as selfish, but only because they want to give so much more than they are able to. This becomes a self-fulfilling prophecy, as they try to push themselves to commit to a chosen cause or person, forgetting to take care of the needs of others in their lives, and especially themselves.\nImpractical – When something captures INFPs’ imagination, they can neglect practical matters like day-to-day maintenance and simple pleasures. Sometimes people with the INFP personality type will take this asceticism so far as to neglect eating and drinking as they pursue their passion or cause.\nDislike Dealing With Data – INFPs are often so focused on the big picture that they forget the forest is made of individual trees. INFPs are in tune with emotions and morality, and when the facts and data contradict their ideals, it can be a real challenge for them.\nTake Things Personally – INFPs often take challenges and criticisms personally, rather than as inspiration to reassess their positions. Avoiding conflict as much as possible, INFPs will put a great deal of time and energy into trying to align their principles and the criticisms into a middle ground that satisfies everybody.\nDifficult to Get to Know – INFPs are private, reserved and self-conscious. This makes them notoriously difficult to really get to know, and their need for these qualities contributes to the guilt they often feel for not giving more of themselves to those they care about.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Mediator",
+            "de": "{GENDER, select,\n  male {Der Mediator}\n  female {Die Mediatorin}\n  other {Mediator*in}\n}"
+        }
+    },
+    "mbti-intj": {
+        "personalityType": {
+            "en": "INTJ",
+            "de": "INTJ"
+        },
+        "traits": [
+            "introversion",
+            "intuition",
+            "thinking",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Have original minds and great drive for implementing their ideas and achieving their goals. Quickly see patterns in external events and develop long-range explanatory perspectives. When committed, organize a job and carry it through. Skeptical and independent, have high standards of competence and performance - for themselves and others.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Quick, Imaginative and Strategic Mind – INTJs pride themselves on their minds, taking every opportunity to improve their knowledge, and this shows in the strength and flexibility of their strategic thinking. Insatiably curious and always up for an intellectual challenge, INTJs can see things from many perspectives. INTJs use their creativity and imagination not so much for artistry, but for planning contingencies and courses of action for all possible scenarios.\n\nHigh Self-Confidence – INTJs trust their rationalism above all else, so when they come to a conclusion, they have no reason to doubt their findings. This creates an honest, direct style of communication that isn’t held back by perceived social roles or expectations. When INTJs are right, they’re right, and no amount of politicking or hand-holding is going to change that fact – whether it’s correcting a person, a process, or themselves, they’d have it no other way.\n\nIndependent and Decisive – This creativity, logic and confidence come together to form individuals who stand on their own and take responsibility for their own actions. Authority figures do not impress INTJs, nor do social conventions or tradition, and no matter how popular something is, if they have a better idea, INTJs will stand against anyone they have to in a bid to have it changed. Either an idea is the most rational or it’s wrong, and INTJs will apply this to their arguments as well as their own behavior, staying calm and detached from these sometimes emotionally charged conflicts. INTJs will only be swayed by those who follow suit.\n\nHard-working and determined – If something piques their interest, INTJs can be astonishingly dedicated to their work, putting in long hours and intense effort to see an idea through. INTJs are incredibly efficient, and if tasks meet the criteria of furthering a goal, they will find a way to consolidate and accomplish those tasks. However, this drive for efficiency can also lead to a sort of elaborate laziness, wherein INTJs find ways to bypass seeming redundancies which don’t seem to require a great deal of thought – this can be risky, as sometimes double-checking one’s work is the standard for a reason.\n\nOpen-minded – All this rationalism leads to a very intellectually receptive personality type, as INTJs stay open to new ideas, supported by logic, even if (and sometimes especially if) they prove INTJs’ previous conceptions wrong. When presented with unfamiliar territory, such as alternate lifestyles, INTJs tend to apply their receptiveness and independence, and aversion to rules and traditions, to these new ideas as well, resulting in fairly liberal social senses.\nJacks-of-all-Trades – INTJs’ open-mindedness, determination, independence, confidence and strategic abilities create individuals who are capable of doing anything they set their minds to. Excelling at analyzing anything life throws their way, INTJs are able to reverse-engineer the underlying methodology of almost any system and apply the concepts that are exposed wherever needed. INTJs tend to have their pick of professions, from IT architects to political masterminds.",
+            "de": ""
+        },
+        "do": {
+            "en": "Quick, Imaginative and Strategic Mind – INTJs pride themselves on their minds, taking every opportunity to improve their knowledge, and this shows in the strength and flexibility of their strategic thinking. Insatiably curious and always up for an intellectual challenge, INTJs can see things from many perspectives. INTJs use their creativity and imagination not so much for artistry, but for planning contingencies and courses of action for all possible scenarios.\n\nHigh Self-Confidence – INTJs trust their rationalism above all else, so when they come to a conclusion, they have no reason to doubt their findings. This creates an honest, direct style of communication that isn’t held back by perceived social roles or expectations. When INTJs are right, they’re right, and no amount of politicking or hand-holding is going to change that fact – whether it’s correcting a person, a process, or themselves, they’d have it no other way.\n\nIndependent and Decisive – This creativity, logic and confidence come together to form individuals who stand on their own and take responsibility for their own actions. Authority figures do not impress INTJs, nor do social conventions or tradition, and no matter how popular something is, if they have a better idea, INTJs will stand against anyone they have to in a bid to have it changed. Either an idea is the most rational or it’s wrong, and INTJs will apply this to their arguments as well as their own behavior, staying calm and detached from these sometimes emotionally charged conflicts. INTJs will only be swayed by those who follow suit.\n\nHard-working and determined – If something piques their interest, INTJs can be astonishingly dedicated to their work, putting in long hours and intense effort to see an idea through. INTJs are incredibly efficient, and if tasks meet the criteria of furthering a goal, they will find a way to consolidate and accomplish those tasks. However, this drive for efficiency can also lead to a sort of elaborate laziness, wherein INTJs find ways to bypass seeming redundancies which don’t seem to require a great deal of thought – this can be risky, as sometimes double-checking one’s work is the standard for a reason.\n\nOpen-minded – All this rationalism leads to a very intellectually receptive personality type, as INTJs stay open to new ideas, supported by logic, even if (and sometimes especially if) they prove INTJs’ previous conceptions wrong. When presented with unfamiliar territory, such as alternate lifestyles, INTJs tend to apply their receptiveness and independence, and aversion to rules and traditions, to these new ideas as well, resulting in fairly liberal social senses.\nJacks-of-all-Trades – INTJs’ open-mindedness, determination, independence, confidence and strategic abilities create individuals who are capable of doing anything they set their minds to. Excelling at analyzing anything life throws their way, INTJs are able to reverse-engineer the underlying methodology of almost any system and apply the concepts that are exposed wherever needed. INTJs tend to have their pick of professions, from IT architects to political masterminds.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Arrogant – INTJs are perfectly capable of carrying their confidence too far, falsely believing that they’ve resolved all the pertinent issues of a matter and closing themselves off to the opinions of those they believe to be intellectually inferior. Combined with their irreverence for social conventions, INTJs can be brutally insensitive in making their opinions of others all too clear.\n\nJudgmental – INTJs tend to have complete confidence in their thought process, because rational arguments are almost by definition correct – at least in theory. In practice, emotional considerations and history are hugely influential, and a weak point for INTJs is that they brand these factors and those who embrace them as illogical, dismissing them and considering their proponents to be stuck in some baser mode of thought, making it all but impossible to be heard.\n\nOverly analytical – A recurring theme with INTJs is their analytical prowess, but this strength can fall painfully short where logic doesn’t rule – such as with human relationships. When their critical minds and sometimes neurotic level of perfectionism (often the case with Turbulent INTJs) are applied to other people, all but the steadiest of friends will likely need to make some distance, too often permanently.\n\nLoathe highly structured environments – Blindly following precedents and rules without understanding them is distasteful to INTJs, and they disdain even more authority figures who blindly uphold those laws and rules without understanding their intent. Anyone who prefers the status quo for its own sake, or who values stability and safety over self-determination, is likely to clash with INTJ personality types. Whether it’s the law of the land or simple social convention, this aversion applies equally, often making life more difficult than it needs to be.\n\nClueless in romance – This antipathy to rules and tendency to over-analyze and be judgmental, even arrogant, all adds up to a personality type that is often clueless in dating. Having a new relationship last long enough for INTJs to apply the full force of their analysis on their potential partner’s thought processes and behaviors can be challenging. Trying harder in the ways that INTJs know best can only make things worse, and it’s unfortunately common for them to simply give up the search. Ironically, this is when they’re at their best, and most likely to attract a partner.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Architect",
+            "de": "{GENDER, select,\n  male {Der Architekt}\n  female {Die Architektin}\n  other {Architekt*in}\n}"
+        }
+    },
+    "mbti-intp": {
+        "personalityType": {
+            "en": "INTP",
+            "de": "INTP"
+        },
+        "traits": [
+            "introversion",
+            "intuition",
+            "thinking",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "INTPs seek to develop logical explanations for everything that interests them. They are theoretical and abstract, interested more in ideas than in social interaction. Also, they are quiet, contained, flexible, and adaptable. They have an unusual ability to focus in depth to solve problems in their area of interest. Skeptical, sometimes critical, always analytical.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Great Analysts and Abstract Thinkers – People with the INTP personality type view the world as a big, complex machine, and recognize that as with any machine, all parts are interrelated. INTPs excel in analyzing these connections, seeing how seemingly unrelated factors tie in with each other in ways that bewilder most other personality types.\nImaginative and Original – These connections are the product of an unrelenting imagination – INTPs’ ideas may seem counter-intuitive at a glance, and may never even see the light of day, but they will always prove remarkable innovations.\nOpen-Minded – INTPs couldn’t make these connections if they thought they knew it all – they are highly receptive to alternate theories, so long as they’re supported by logic and facts. In more subjective matters like social norms and traditions, INTPs are usually fairly liberal, with a \"none of my business\" sort of attitude – peoples’ ideas are what matter.\nEnthusiastic – When a new idea piques their interest, INTPs can be very enthusiastic – they are a reserved personality type, but if another person shares an interest, they can be downright excited about discussing it. More likely though, the only outward evidence of this enthusiasm will be INTPs’ silent pacing or their staring into the distance.\nObjective – INTPs’ analysis, creativity and open-mindedness aren’t the tools of some quest for ideology or emotional validation. Rather, it’s as though people with the INTP personality type are a conduit for the truths around them, so far as they can be expressed, and they are proud of this role as theoretical mediator.\nHonest and Straightforward – To know one thing and say another would be terribly disingenuous – INTPs don’t often go around intentionally hurting feelings, but they believe that the truth is the most important factor, and they expect that to be appreciated and reciprocated.",
+            "de": ""
+        },
+        "do": {
+            "en": "Great Analysts and Abstract Thinkers – People with the INTP personality type view the world as a big, complex machine, and recognize that as with any machine, all parts are interrelated. INTPs excel in analyzing these connections, seeing how seemingly unrelated factors tie in with each other in ways that bewilder most other personality types.\nImaginative and Original – These connections are the product of an unrelenting imagination – INTPs’ ideas may seem counter-intuitive at a glance, and may never even see the light of day, but they will always prove remarkable innovations.\nOpen-Minded – INTPs couldn’t make these connections if they thought they knew it all – they are highly receptive to alternate theories, so long as they’re supported by logic and facts. In more subjective matters like social norms and traditions, INTPs are usually fairly liberal, with a \"none of my business\" sort of attitude – peoples’ ideas are what matter.\nEnthusiastic – When a new idea piques their interest, INTPs can be very enthusiastic – they are a reserved personality type, but if another person shares an interest, they can be downright excited about discussing it. More likely though, the only outward evidence of this enthusiasm will be INTPs’ silent pacing or their staring into the distance.\nObjective – INTPs’ analysis, creativity and open-mindedness aren’t the tools of some quest for ideology or emotional validation. Rather, it’s as though people with the INTP personality type are a conduit for the truths around them, so far as they can be expressed, and they are proud of this role as theoretical mediator.\nHonest and Straightforward – To know one thing and say another would be terribly disingenuous – INTPs don’t often go around intentionally hurting feelings, but they believe that the truth is the most important factor, and they expect that to be appreciated and reciprocated.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Very Private and Withdrawn – While INTPs’ intellectualism yields many insights into their surroundings, their surroundings are ironically considered an intrusion on their thoughts. This is especially true with people – INTPs are quite shy in social settings. More complicated situations such as parties exacerbate this, but even close friends struggle to get into INTPs’ hearts and minds.\nInsensitive – Oftentimes INTP personalities get so caught up in their logic that they forget any kind of emotional consideration – they dismiss subjectivity as irrational and tradition as an attempt to bar much-needed progress. Purely emotional situations are often utterly puzzling to INTPs, and their lack of timely sympathy can easily offend.\nAbsent-minded – When INTPs’ interest is captured, their absence goes beyond social matters to include the rest of the physical world. INTPs become forgetful, missing even the obvious if it’s unrelated to their current infatuation, and they can even forget their own health, skipping meals and sleep as they muse.\nCondescending – Attempts at connecting with others are often worse than INTPs’ withdrawal. People with the INTP personality type take pride in their knowledge and rationale, and enjoy sharing their ideas, but in trying to explain how they got from A to B to Z, they can get frustrated, sometimes simplifying things to the point of insult as they struggle to gauge their conversation partners’ perspective. The ultimate insult comes as INTPs give up with a dismissive \"never mind\".\nLoathe Rules and Guidelines – These social struggles are partly a product of INTPs’ desire to bypass the rules, of social conduct and otherwise. While this attitude helps INTPs’ strength of unconventional creativity, it also causes them to reinvent the wheel constantly and to shun security in favor of autonomy in ways that can compromise both.\nSecond-Guess Themselves – INTPs remain so open to new information that they often never commit to a decision at all. This applies to their own skills as well – INTP personalities know that as they practice, they improve, and any work they do is second-best to what they could do. Unable to settle for this, INTPs sometimes delay their output indefinitely with constant revisions, sometimes even quitting before they ever begin.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Logican",
+            "de": "{GENDER, select,\n  male {Der Logiker}\n  female {Die Logikerin}\n  other {Logiker*in}\n}"
+        }
+    },
+    "mbti-isfj": {
+        "personalityType": {
+            "en": "ISFJ",
+            "de": "ISFJ"
+        },
+        "traits": [
+            "introversion",
+            "sensing",
+            "feeling",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Quiet, friendly, responsible, and conscientious. Committed and steady in meeting their obligations. Thorough, painstaking, and accurate. Loyal, considerate, notice and remember specifics about people who are important to them, concerned with how others feel. Strive to create an orderly and harmonious environment at work and at home.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Supportive – ISFJs are the universal helpers, sharing their knowledge, experience, time and energy with anyone who needs it, and all the more so with friends and family. People with this personality type strive for win-win situations, choosing empathy over judgment whenever possible.\nReliable and Patient – Rather than offering sporadic, excited rushes that leave things half finished, ISFJs are meticulous and careful, taking a steady approach and bending with the needs of the situation just enough to accomplish their end goals. ISFJs not only ensure that things are done to the highest standard, but often go well beyond what is required.\nImaginative and Observant – ISFJs are very imaginative, and use this quality as an accessory to empathy, observing others’ emotional states and seeing things from their perspective. With their feet firmly planted on the ground, it is a very practical imagination, though they do find things quite fascinating and inspiring.\nEnthusiastic – When the goal is right, ISFJs take all this support, reliability and imagination and apply it to something they believe will make a difference in people’s lives – whether fighting poverty with a global initiative or simply making a customer’s day.\nLoyal and Hard-Working – Given a little time, this enthusiasm grows into loyalty – ISFJ personalities often form an emotional attachment to the ideas and organizations they’ve dedicated themselves to. Anything short of meeting their obligations with good, hard work fails their own expectations.\nGood Practical Skills – The best part is, ISFJs have the practical sense to actually do something with all this altruism. If mundane, routine tasks are what need to be done, ISFJs can see the beauty and harmony that they create, because they know that it helps them to care for their friends, family, and anyone else who needs it.",
+            "de": ""
+        },
+        "do": {
+            "en": "Supportive – ISFJs are the universal helpers, sharing their knowledge, experience, time and energy with anyone who needs it, and all the more so with friends and family. People with this personality type strive for win-win situations, choosing empathy over judgment whenever possible.\nReliable and Patient – Rather than offering sporadic, excited rushes that leave things half finished, ISFJs are meticulous and careful, taking a steady approach and bending with the needs of the situation just enough to accomplish their end goals. ISFJs not only ensure that things are done to the highest standard, but often go well beyond what is required.\nImaginative and Observant – ISFJs are very imaginative, and use this quality as an accessory to empathy, observing others’ emotional states and seeing things from their perspective. With their feet firmly planted on the ground, it is a very practical imagination, though they do find things quite fascinating and inspiring.\nEnthusiastic – When the goal is right, ISFJs take all this support, reliability and imagination and apply it to something they believe will make a difference in people’s lives – whether fighting poverty with a global initiative or simply making a customer’s day.\nLoyal and Hard-Working – Given a little time, this enthusiasm grows into loyalty – ISFJ personalities often form an emotional attachment to the ideas and organizations they’ve dedicated themselves to. Anything short of meeting their obligations with good, hard work fails their own expectations.\nGood Practical Skills – The best part is, ISFJs have the practical sense to actually do something with all this altruism. If mundane, routine tasks are what need to be done, ISFJs can see the beauty and harmony that they create, because they know that it helps them to care for their friends, family, and anyone else who needs it.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Humble and Shy – The meek shall inherit the earth, but it’s a long road if they receive no recognition at all. This is possibly ISFJs’ biggest challenge, as they are so concerned with others’ feelings that they refuse to make their thoughts known, or to take any duly earned credit for their contributions. ISFJs’ standards for themselves are also so high that, knowing they could have done some minor aspect of a task better, they often downplay their successes entirely.\nTake Things Too Personally – ISFJs have trouble separating personal and impersonal situations – any situation is still an interaction between two people, after all – and any negativity from conflict or criticism can carry over from their professional to their personal lives, and back again.\nRepress Their Feelings – People with the ISFJ personality type are private and very sensitive, internalizing their feelings a great deal. Much in the way that ISFJs protect others’ feelings, they must protect their own, and this lack of healthy emotional expression can lead to a lot of stress and frustration.\nOverload Themselves – Their strong senses of duty and perfectionism combine with this aversion to emotional conflict to create a situation where it is far too easy for ISFJs to overload themselves – or to be overloaded by others – as they struggle silently to meet everyone’s expectations, especially their own.\nReluctant to Change – These challenges can be particularly hard to address since ISFJ personalities value traditions and history highly in their decisions. A situation sometimes needs to reach a breaking point before ISFJs are persuaded by circumstance, or the strong personality of a loved one, to alter course.\nToo Altruistic – This is all compounded and reinforced by ISFJs’ otherwise wonderful quality of altruism. Being such warm, good-natured people, ISFJs are willing to let things slide, to believe that things will get better soon, to not burden others by accepting their offers of help, while their troubles mount unassisted.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Defender",
+            "de": "{GENDER, select,\n  male {Der Verteidiger}\n  female {Die Verteidigerin}\n  other {Verteidiger*in}\n}"
+        }
+    },
+    "mbti-isfp": {
+        "personalityType": {
+            "en": "ISFP",
+            "de": "ISFP"
+        },
+        "traits": [
+            "introversion",
+            "sensing",
+            "feeling",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Quiet, friendly, sensitive, and kind. Enjoy the present moment, what's going on around them. Like to have their own space and to work within their own time frame. Loyal and committed to their values and to people who are important to them. Dislike disagreements and conflicts, do not force their opinions or values on others.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Charming – People with the ISFP personality type are relaxed and warm, and their “live and let live” attitude naturally makes them likable and popular.\nSensitive to Others – ISFPs easily relate to others’ emotions, helping them to establish harmony and good will, and minimize conflict.\nImaginative – Being so aware of others’ emotions, ISFP personalities use creativity and insight to craft bold ideas that speak to people’s hearts. While it’s hard to explain this quality on a resume, this vivid imagination and exploratory spirit help ISFPs in unexpected ways.\nPassionate – Beneath ISFPs’ quiet shyness beats an intensely feeling heart. When people with this personality type are caught up in something exciting and interesting, they can leave everything else in the dust.\nCurious – Ideas are well and good, but ISFPs need to see and explore for themselves whether their ideas ring true. Work revolving around the sciences may seem a poor match for their traits, but a boldly artistic and humanistic vision is often exactly what research needs to move forward – if ISFPs are given the freedom they need to do so.\nArtistic – ISFPs are able to show their creativity in tangible ways and with stunning beauty. Whether writing a song, painting an emotion, or presenting a statistic in a graph, ISFPs have a way of visualizing things that resonates with their audience.",
+            "de": ""
+        },
+        "do": {
+            "en": "Charming – People with the ISFP personality type are relaxed and warm, and their “live and let live” attitude naturally makes them likable and popular.\nSensitive to Others – ISFPs easily relate to others’ emotions, helping them to establish harmony and good will, and minimize conflict.\nImaginative – Being so aware of others’ emotions, ISFP personalities use creativity and insight to craft bold ideas that speak to people’s hearts. While it’s hard to explain this quality on a resume, this vivid imagination and exploratory spirit help ISFPs in unexpected ways.\nPassionate – Beneath ISFPs’ quiet shyness beats an intensely feeling heart. When people with this personality type are caught up in something exciting and interesting, they can leave everything else in the dust.\nCurious – Ideas are well and good, but ISFPs need to see and explore for themselves whether their ideas ring true. Work revolving around the sciences may seem a poor match for their traits, but a boldly artistic and humanistic vision is often exactly what research needs to move forward – if ISFPs are given the freedom they need to do so.\nArtistic – ISFPs are able to show their creativity in tangible ways and with stunning beauty. Whether writing a song, painting an emotion, or presenting a statistic in a graph, ISFPs have a way of visualizing things that resonates with their audience.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Fiercely Independent – Freedom of expression is often ISFPs’ top priority. Anything that interferes with that, like traditions and hard rules, creates a sense of oppression for ISFP personalities. This can make more rigidly structured academics and work a challenge.\nUnpredictable – ISFPs’ dislike long-term commitments and plans. The tendency to actively avoid planning for the future can cause strain in ISFPs’ romantic relationships and financial hardship later in life.\nEasily Stressed – ISFPs live in the present, full of emotion. When situations get out of control, people with this personality type (especially Turbulent ones) can shut down, losing their characteristic charm and creativity in favor of gnashing teeth.\nOverly Competitive – ISFPs can escalate small things into intense competitions, turning down long-term success in their search for glory in the moment, and are unhappy when they lose.\nFluctuating Self-Esteem – It’s demanded that skills be quantified, but that’s hard to do with ISFPs’ strengths of sensitivity and artistry. ISFPs’ efforts are often dismissed, a hurtful and damaging blow, especially early in life. ISFPs can start to believe the naysayers without strong support.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Adventurer",
+            "de": "{GENDER, select,\n  male {Der Abenteurer}\n  female {Die Abenteurerin}\n  other {Abenteurer*in}\n}"
+        }
+    },
+    "mbti-istj": {
+        "personalityType": {
+            "en": "ISTJ",
+            "de": "ISTJ"
+        },
+        "traits": [
+            "introversion",
+            "sensing",
+            "thinking",
+            "judging"
+        ],
+        "shortDescription": {
+            "en": "Quiet, serious, earn success by thoroughness and dependability. Practical, matter-of-fact, realistic, and responsible. Decide logically what should be done and work toward it steadily, regardless of distractions. Take pleasure in making everything orderly and organized - their work, their home, their life. Value traditions and loyalty.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Honest and Direct – Integrity is the heart of the ISTJ personality type. Emotional manipulation, mind games and reassuring lies all run counter to ISTJs’ preference for managing the reality of the situations they encounter with plain and simple honesty.\nStrong-willed and Dutiful – ISTJs embody that integrity in their actions too, working hard and staying focused on their goals. Patient and determined, people with the ISTJ personality type meet their obligations, period.\nVery Responsible – ISTJs’ word is a promise, and a promise means everything. ISTJs would rather run themselves into the ground with extra days and lost sleep than fail to deliver the results they said they would. Loyalty is a strong sentiment for ISTJ personalities, and they fulfill their duties to the people and organizations they’ve committed themselves to.\nCalm and Practical – None of their promises would mean much if ISTJs lost their tempers and broke down at every sign of hardship – they keep their feet on the ground and make clear, rational decisions. Peoples’ preferences are a factor to consider in this process, and ISTJs work to make the best use of individual qualities, but these decisions are made with effectiveness in mind more so than empathy. The same applies to criticisms, for others and themselves.\nCreate and Enforce Order – The primary goal of any ISTJ is to be effective in what they’ve chosen to do, and they believe that this is accomplished best when everyone involved knows exactly what is going on and why. Unclear guidelines and people who break established rules undermine this effort, and are rarely tolerated by ISTJs. Structure and rules foster dependability; chaos creates unforeseen setbacks and missed deadlines.\nJacks-of-all-trades – Much like Analyst personalities, ISTJs are proud repositories of knowledge, though the emphasis is more on facts and statistics than concepts and underlying principles. This allows ISTJs to apply themselves to a variety of situations, picking up and applying new data and grasping the details of challenging situations as a matter of course.",
+            "de": ""
+        },
+        "do": {
+            "en": "Honest and Direct – Integrity is the heart of the ISTJ personality type. Emotional manipulation, mind games and reassuring lies all run counter to ISTJs’ preference for managing the reality of the situations they encounter with plain and simple honesty.\nStrong-willed and Dutiful – ISTJs embody that integrity in their actions too, working hard and staying focused on their goals. Patient and determined, people with the ISTJ personality type meet their obligations, period.\nVery Responsible – ISTJs’ word is a promise, and a promise means everything. ISTJs would rather run themselves into the ground with extra days and lost sleep than fail to deliver the results they said they would. Loyalty is a strong sentiment for ISTJ personalities, and they fulfill their duties to the people and organizations they’ve committed themselves to.\nCalm and Practical – None of their promises would mean much if ISTJs lost their tempers and broke down at every sign of hardship – they keep their feet on the ground and make clear, rational decisions. Peoples’ preferences are a factor to consider in this process, and ISTJs work to make the best use of individual qualities, but these decisions are made with effectiveness in mind more so than empathy. The same applies to criticisms, for others and themselves.\nCreate and Enforce Order – The primary goal of any ISTJ is to be effective in what they’ve chosen to do, and they believe that this is accomplished best when everyone involved knows exactly what is going on and why. Unclear guidelines and people who break established rules undermine this effort, and are rarely tolerated by ISTJs. Structure and rules foster dependability; chaos creates unforeseen setbacks and missed deadlines.\nJacks-of-all-trades – Much like Analyst personalities, ISTJs are proud repositories of knowledge, though the emphasis is more on facts and statistics than concepts and underlying principles. This allows ISTJs to apply themselves to a variety of situations, picking up and applying new data and grasping the details of challenging situations as a matter of course.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Stubborn – The facts are the facts, and ISTJs tend to resist any new idea that isn’t supported by them. This factual decision-making process also makes it difficult for people with the ISTJ personality type to accept that they were wrong about something – but anyone can miss a detail, even them.\nInsensitive – While not intentionally harsh, ISTJs often hurt more sensitive types’ feelings by the simple mantra that honesty is the best policy. ISTJ personalities may take emotions into consideration, but really only so far as to determine the most effective way to say what needs to be said.\nAlways by the Book – ISTJs believe that things work best with clearly defined rules, but this makes them reluctant to bend those rules or try new things, even when the downside is minimal. Truly unstructured environments leave ISTJs all but paralyzed.\nJudgmental – Opinions are opinions and facts are facts, and ISTJs are unlikely to respect people who disagree with those facts, or especially those who remain willfully ignorant of them.\nOften Unreasonably Blame Themselves – All this can combine to make ISTJs believe they are the only ones who can see projects through reliably. As they load themselves with extra work and responsibilities, turning away good intentions and helpful ideas, ISTJs sooner or later hit a tipping point where they simply can’t deliver. Since they’ve heaped the responsibility on themselves, ISTJs then believe the responsibility for failure is theirs alone to bear.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Logistician",
+            "de": "{GENDER, select,\n  male {Der Logistiker}\n  female {Die Logistikerin}\n  other {Logistiker*in}\n}"
+        }
+    },
+    "mbti-istp": {
+        "personalityType": {
+            "en": "ISTP",
+            "de": "ISTP"
+        },
+        "traits": [
+            "introversion",
+            "sensing",
+            "thinking",
+            "perceiving"
+        ],
+        "shortDescription": {
+            "en": "Tolerant and flexible, quiet observers until a problem appears, then act quickly to find workable solutions. Analyze what makes things work and readily get through large amounts of data to isolate the core of practical problems. Interested in cause and effect, organize facts using logical principles, value efficiency.",
+            "de": ""
+        },
+        "longDescription": {
+            "en": "Optimistic and Energetic – ISTPs are usually up to their elbows in some project or other. Cheerful and good-natured, people with the ISTP personality type (especially Assertive ones) rarely get stressed out, preferring to go with the flow.\nCreative and Practical – ISTPs are very imaginative when it comes to practical things, mechanics, and crafts. Novel ideas come easily, and they love using their hands to put them into action.\nSpontaneous and Rational – Combining spontaneity with logic, ISTPs can switch mindsets to fit new situations with little effort, making them flexible and versatile individuals.\nKnow How to Prioritize – This flexibility comes with some unpredictability, but ISTP personalities are able to store their spontaneity for a rainy day, releasing their energy just when it’s needed most.\nGreat in a Crisis – With all this hands-on creativity and spontaneity, it’s no wonder that ISTPs are naturals in crisis situations. People with this personality type usually enjoy a little physical risk, and they aren’t afraid to get their hands dirty when the situation calls for it.\nRelaxed – Through all this, ISTPs are able to stay quite relaxed. They live in the moment and go with the flow, refusing to worry too much about the future.",
+            "de": ""
+        },
+        "do": {
+            "en": "Optimistic and Energetic – ISTPs are usually up to their elbows in some project or other. Cheerful and good-natured, people with the ISTP personality type (especially Assertive ones) rarely get stressed out, preferring to go with the flow.\nCreative and Practical – ISTPs are very imaginative when it comes to practical things, mechanics, and crafts. Novel ideas come easily, and they love using their hands to put them into action.\nSpontaneous and Rational – Combining spontaneity with logic, ISTPs can switch mindsets to fit new situations with little effort, making them flexible and versatile individuals.\nKnow How to Prioritize – This flexibility comes with some unpredictability, but ISTP personalities are able to store their spontaneity for a rainy day, releasing their energy just when it’s needed most.\nGreat in a Crisis – With all this hands-on creativity and spontaneity, it’s no wonder that ISTPs are naturals in crisis situations. People with this personality type usually enjoy a little physical risk, and they aren’t afraid to get their hands dirty when the situation calls for it.\nRelaxed – Through all this, ISTPs are able to stay quite relaxed. They live in the moment and go with the flow, refusing to worry too much about the future.",
+            "de": ""
+        },
+        "dont": {
+            "en": "Stubborn – As easily as ISTPs go with the flow, they can also ignore it entirely, and usually move in another direction with little apology or sensitivity. If someone tries to change ISTPs’ habits, lifestyle or ideas through criticism, they can become quite blunt in their irritation.\nInsensitive – ISTPs use logic, and even when they try to meet others halfway with empathy and emotional sensitivity, it rarely seems to quite come out right, if anything is even said at all.\nPrivate and Reserved – ISTP personalities are notoriously difficult to get to know. They are true introverts, keeping their personal matters to themselves, and often just prefer silence to small talk.\nEasily Bored – ISTPs enjoy novelty, which makes them excellent tinkerers, but much less reliable when it comes to focusing on things long-term. Once something is understood, ISTPs tend to simply move on to something new and more interesting.\nDislike Commitment – Long-term commitments are particularly onerous for ISTPs. They prefer to take things day-by-day, and the feeling of being locked into something for a long time is downright oppressive. This can be a particular challenge in ISTPs’ romantic relationships.\nRisky Behavior – This stubbornness, difficulty with others’ emotions, focus on the moment, and easy boredom can lead to unnecessary and unhelpful boundary-pushing, just for fun. ISTPs have been known to escalate conflict and danger just to see where it goes, something that can have disastrous consequences for everyone around if they lose control of the situation.",
+            "de": ""
+        },
+        "roleName": {
+            "en": "The Virtuoso",
+            "de": "{GENDER, select,\n  male {Der Virtuoso}\n  female {Die Virtuosoin}\n  other {Virtuoso*in}\n}"
+        }
+    }
+}
