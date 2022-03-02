@@ -102,7 +102,7 @@
         "firebase-admin": "6.1.0",
         "fs-extra": "7.0.1",
         "node-cmd": "3.0.0",
-        "plist": "3.0.1",
+        "plist": "3.0.4",
         "ts-node": "7.0.1",
         "typescript": "~2.6.2",
         "uuid-v4": "0.1.0"
